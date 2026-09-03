@@ -1,0 +1,7 @@
+#,Feature,Formula,Raw Components,Type
+1,chance_creation_index,key_passes + (0.5 × shot_creating_actions),2,Attacking Quality
+2,attacking_contributions,goals + assists,2,Offensive Output
+3,ball_progression,progressive_passes + progressive_carries,2,Transition
+4,defensive_actions,tackles + interceptions + blocks,3,Defense
+5,possession_control,touches_mid_third + passes_completed,2,Control
+6,mistake_rate,(miscontrols + dispossessed) / touches_total,3,Quality

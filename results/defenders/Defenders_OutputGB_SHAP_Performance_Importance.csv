@@ -1,0 +1,8 @@
+Feature,MeanAbsSHAP,Normalized_Weight,Rank
+Attacking_Contributions,0.301270003,0.19221655,1
+Duel_Efficiency,0.253616554,0.161812655,2
+Passes_Completed_P90,0.225425414,0.143826119,3
+Total_Carry_Distance,0.220144909,0.140457047,4
+Defensive_Actions,0.20626799,0.131603283,5
+Mistake_Rate,0.187295177,0.119498232,6
+Progressive_Actions,0.173326796,0.110586113,7
