@@ -313,22 +313,21 @@ Transfer-Eye/
 │
 ├── src/
 │   ├── data_collection/
-│   ├── preprocessing/
-│   ├── feature_engineering/
-│   ├── models/
-│   └── evaluation/
+│   │   └── transfermarkt_loan_scraper.py
+│   │
+│   └── modeling/
+│       └── defender_model_pipeline_example.py
 │
 ├── data/
 │   ├── raw/
 │   └── processed/
 │
 ├── results/
-│   ├── model_comparison/
-│   ├── goalkeepers/
+│   ├── model_comparison.csv
 │   ├── defenders/
 │   ├── midfielders/
 │   ├── attackers/
-│   └── explainability/
+│   └── goalkeepers/
 │
 ├── assets/
 │   └── app_screenshot.png
@@ -338,6 +337,47 @@ Transfer-Eye/
 ```
 
 ---
+
+## Code Examples
+
+This repository contains representative examples of the main Transfer Eye pipeline rather than every position-specific implementation.
+
+The complete project applies the same overall methodology across goalkeepers, defenders, midfielders, and attackers, with position-specific features and role definitions.
+
+### `src/data_collection/loansStatsTransfersThreads.py`
+
+Example of the data-collection pipeline used in Transfer Eye.
+
+It demonstrates:
+
+- Automated Transfermarkt scraping using Selenium and BeautifulSoup
+- Multi-league and multi-season data collection
+- Parallel processing
+- Cookie handling and browser automation
+- Retry and timeout handling
+- Loan-history extraction
+- Structured CSV generation
+
+### `src/modeling/pipeline_example.py`
+
+Representative machine-learning pipeline using the defender dataset.
+
+It demonstrates:
+
+- Position/role-aware bootstrap resampling
+- Train/test splitting with stratification
+- Feature standardization
+- Comparison of multiple machine-learning algorithms
+- Repeated bootstrap evaluation
+- Accuracy, Precision, Recall, and AUC-ROC evaluation
+- Aggregation and ranking of model performance
+
+The same modeling framework was adapted for other playing positions using their corresponding position-specific features.
+
+For full methodology, feature definitions, position-specific pipelines, and experimental results, see:
+
+`docs/Transfer-Eye_Documentation.pdf`
+
 
 ## 🛠️ Technologies
 
