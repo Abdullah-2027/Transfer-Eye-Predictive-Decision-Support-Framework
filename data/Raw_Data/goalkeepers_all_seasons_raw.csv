@@ -1,0 +1,1522 @@
+Rk,Player,Save%,Season,Age,Nation,Team,Comp,Playing Time MP,Playing Time Min,Playing Time 90s,Playing Time Starts,Playing Time Subs,Playing Time unSub,Performance GA,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Pos
+1,Miguel Ángel Moyá,66.7,18-19,34,es ESP,Real Sociedad,es La Liga,11,990,11.0,11,0,22,11,33,22,66.7,3.0,2.0,6,2.0,18.2,GK
+2,Wojciech Szczęsny,76.5,18-19,28,pl POL,Juventus,it Serie A,28,2520,28.0,28,0,10,20,81,61,76.5,22.0,5.0,1,11.0,39.3,GK
+3,Emiliano Viviano,75.0,18-19,32,it ITA,SPAL,it Serie A,17,1524,16.9,17,0,2,25,84,59,75.0,7.0,3.0,7,3.0,17.6,GK
+4,Stefano Sorrentino,65.3,18-19,39,it ITA,Chievo,it Serie A,31,2789,31.0,31,0,0,60,167,107,65.3,1.0,11.0,19,5.0,16.1,GK
+5,Jasper Cillessen,78.6,18-19,29,nl NED,Barcelona,es La Liga,3,270,3.0,3,0,27,4,14,10,78.6,1.0,1.0,1,1.0,33.3,GK
+6,Bartłomiej Drągowski,77.9,18-19,20,pl POL,2 Teams,it Serie A,17,1485,16.5,16,1,18,26,104,77,77.9,5.0,3.0,8,4.0,25.0,GK
+7,Gianluigi Donnarumma,77.8,18-19,19,it ITA,Milan,it Serie A,36,3090,34.3,36,0,0,31,126,95,77.8,18.0,11.0,7,11.0,30.6,GK
+8,Jiří Pavlenka,71.2,18-19,26,cz CZE,Werder Bremen,de Bundesliga,34,2977,33.1,34,0,0,47,153,106,71.2,14.0,11.0,9,5.0,14.7,GK
+9,Francesco Bardi,58.3,18-19,26,it ITA,Frosinone,it Serie A,3,270,3.0,3,0,26,5,12,7,58.3,0.0,1.0,2,1.0,33.3,GK
+10,Alexander Schwolow,68.8,18-19,26,de GER,Freiburg,de Bundesliga,33,2970,33.0,33,0,1,60,170,110,68.8,7.0,12.0,14,5.0,15.2,GK
+11,Marcus Bettinelli,52.5,18-19,26,eng ENG,Fulham,eng Premier League,7,630,7.0,7,0,15,20,40,19,52.5,1.0,2.0,4,0.0,0.0,GK
+12,Maxime Dupé,55.9,18-19,25,fr FRA,Nantes,fr Ligue 1,11,940,10.4,10,1,25,17,34,16,55.9,5.0,3.0,2,1.0,10.0,GK
+13,Salvatore Sirigu,75.7,18-19,31,it ITA,Torino,it Serie A,36,3169,35.2,36,0,0,35,136,99,75.7,15.0,14.0,7,14.0,38.9,GK
+14,Aleksandar Jovanović,63.0,18-19,25,rs SRB,Huesca,es La Liga,12,1080,12.0,12,0,20,19,46,28,63.0,1.0,4.0,7,0.0,0.0,GK
+15,Mauro Goicoechea,68.6,18-19,30,uy URU,Toulouse,fr Ligue 1,8,713,7.9,7,1,26,12,35,23,68.6,2.0,3.0,2,3.0,42.9,GK
+16,Javier Díaz,100.0,18-19,21,es ESP,Sevilla,es La Liga,1,90,1.0,1,0,3,1,2,1,100.0,0.0,0.0,1,0.0,0.0,GK
+17,Alberto García,60.9,18-19,33,es ESP,Rayo Vallecano,es La Liga,17,1530,17.0,17,0,21,35,87,50,60.9,3.0,4.0,10,4.0,23.5,GK
+18,Thibaut Courtois,71.2,18-19,26,be BEL,Real Madrid,es La Liga,27,2430,27.0,27,0,5,36,104,67,71.2,14.0,3.0,10,8.0,29.6,GK
+19,Michel Vorm,69.2,18-19,34,nl NED,Tottenham,eng Premier League,2,180,2.0,2,0,4,4,13,9,69.2,0.0,0.0,2,0.0,0.0,GK
+20,Steve Mandanda,69.9,18-19,33,fr FRA,Marseille,fr Ligue 1,31,2735,30.4,31,0,1,40,113,72,69.9,14.0,5.0,12,9.0,29.0,GK
+21,Ralf Fährmann,71.1,18-19,29,de GER,Schalke 04,de Bundesliga,17,1470,16.3,16,1,9,26,83,58,71.1,4.0,3.0,9,3.0,18.8,GK
+22,Luca Plogmann,100.0,18-19,18,de GER,Werder Bremen,de Bundesliga,1,38,0.4,0,1,16,1,1,0,100.0,0.0,0.0,0,0.0,,GK
+23,Pau López,67.2,18-19,23,es ESP,Betis,es La Liga,33,2970,33.0,33,0,5,47,134,86,67.2,12.0,7.0,14,10.0,30.3,GK
+24,Benoît Costil,76.3,18-19,31,fr FRA,Bordeaux,fr Ligue 1,37,3330,37.0,37,0,1,42,152,109,76.3,9.0,11.0,17,9.0,24.3,GK
+25,Zacharie Boucher,75.0,18-19,26,fr FRA,Angers,fr Ligue 1,2,180,2.0,2,0,30,1,4,3,75.0,1.0,1.0,0,1.0,50.0,GK
+26,Bernd Leno,75.9,18-19,26,de GER,Arsenal,eng Premier League,32,2836,31.5,31,1,6,42,145,104,75.9,16.0,7.0,8,7.0,22.6,GK
+27,Abdoulaye Diallo,85.0,18-19,26,sn SEN,Rennes,fr Ligue 1,6,495,5.5,6,0,16,4,20,16,85.0,3.0,2.0,1,2.0,33.3,GK
+28,Neil Etheridge,68.6,18-19,28,ph PHI,Cardiff City,eng Premier League,38,3420,38.0,38,0,0,69,207,135,68.6,10.0,4.0,24,10.0,26.3,GK
+29,Ludovic Butelle,72.0,18-19,35,fr FRA,Angers,fr Ligue 1,36,3239,36.0,36,0,0,48,161,113,72.0,9.0,15.0,12,11.0,30.6,GK
+30,Gorka Iraizoz,79.5,18-19,37,es ESP,Girona,es La Liga,7,559,6.2,6,1,27,10,39,30,79.5,1.0,0.0,5,1.0,16.7,GK
+31,Ivan Provedel,68.3,18-19,24,it ITA,Empoli,it Serie A,16,1440,16.0,16,0,22,36,104,69,68.3,4.0,4.0,8,0.0,0.0,GK
+32,Rune Jarstein,67.8,18-19,33,no NOR,Hertha BSC,de Bundesliga,31,2745,30.5,31,0,0,48,143,96,67.8,9.0,10.0,12,8.0,25.8,GK
+33,Jessy Moulin,80.0,18-19,32,fr FRA,Saint-Étienne,fr Ligue 1,1,90,1.0,1,0,37,1,5,5,80.0,0.0,1.0,0,0.0,0.0,GK
+34,Kepa Arrizabalaga,68.6,18-19,23,es ESP,Chelsea,eng Premier League,36,3240,36.0,36,0,2,39,121,81,68.6,20.0,8.0,8,14.0,38.9,GK
+35,Paul Bernardoni,70.0,18-19,21,fr FRA,Nîmes,fr Ligue 1,38,3420,38.0,38,0,0,58,180,122,70.0,15.0,8.0,15,10.0,26.3,GK
+36,Marwin Hitz,33.3,18-19,30,ch SUI,Dortmund,de Bundesliga,2,180,2.0,2,0,31,4,6,2,33.3,2.0,0.0,0,0.0,0.0,GK
+37,Alphonse Areola,80.3,18-19,25,fr FRA,Paris S-G,fr Ligue 1,21,1890,21.0,21,0,13,17,66,50,80.3,16.0,3.0,2,11.0,52.4,GK
+38,Benjamin Lecomte,72.7,18-19,27,fr FRA,Montpellier,fr Ligue 1,37,3330,37.0,37,0,0,42,143,102,72.7,15.0,13.0,9,11.0,29.7,GK
+39,Antonio Mirante,84.2,18-19,35,it ITA,Roma,it Serie A,11,990,11.0,11,0,24,6,38,31,84.2,6.0,4.0,1,6.0,54.5,GK
+40,Andriy Lunin,78.9,18-19,19,ua UKR,Leganés,es La Liga,5,365,4.1,4,1,25,5,19,13,78.9,1.0,0.0,3,2.0,50.0,GK
+41,Andrés Fernández,73.9,18-19,31,es ESP,Villarreal,es La Liga,6,540,6.0,6,0,32,7,23,16,73.9,3.0,2.0,1,2.0,33.3,GK
+42,Edouard Mendy,76.7,18-19,26,sn SEN,Reims,fr Ligue 1,38,3420,38.0,38,0,0,42,150,110,76.7,13.0,16.0,9,14.0,36.8,GK
+43,Thomas Strakosha,74.2,18-19,23,al ALB,Lazio,it Serie A,35,3150,35.0,35,0,0,39,132,95,74.2,16.0,7.0,12,10.0,28.6,GK
+44,Luigi Sepe,74.1,18-19,27,it ITA,Parma,it Serie A,37,3330,37.0,37,0,1,59,197,142,74.1,10.0,11.0,16,10.0,27.0,GK
+45,Artur Boruc,73.2,18-19,38,pl POL,Bournemouth,eng Premier League,12,1080,12.0,12,0,26,18,56,38,73.2,4.0,3.0,5,4.0,33.3,GK
+46,Alex McCarthy,64.7,18-19,28,eng ENG,Southampton,eng Premier League,25,2250,25.0,25,0,8,44,119,78,64.7,5.0,8.0,12,4.0,16.0,GK
+47,Dimitry Bertaud,100.0,18-19,20,cd COD,Montpellier,fr Ligue 1,1,90,1.0,1,0,30,0,1,1,100.0,0.0,1.0,0,1.0,100.0,GK
+48,Martin Dúbravka,70.0,18-19,29,sk SVK,Newcastle Utd,eng Premier League,38,3420,38.0,38,0,0,48,140,93,70.0,12.0,9.0,17,11.0,28.9,GK
+49,Ederson,76.5,18-19,24,br BRA,Manchester City,eng Premier League,38,3420,38.0,38,0,0,23,81,58,76.5,32.0,2.0,4,20.0,52.6,GK
+50,Simone Scuffet,68.4,18-19,22,it ITA,Udinese,it Serie A,9,810,9.0,9,0,10,13,38,25,68.4,2.0,2.0,5,2.0,22.2,GK
+51,Yann Sommer,75.0,18-19,29,ch SUI,Gladbach,de Bundesliga,34,3060,34.0,34,0,0,42,156,114,75.0,16.0,7.0,11,13.0,38.2,GK
+52,Mathew Ryan,69.1,18-19,26,au AUS,Brighton,eng Premier League,34,3060,34.0,34,0,0,55,152,96,69.1,8.0,8.0,18,6.0,17.6,GK
+53,Oliver Baumann,72.9,18-19,28,de GER,Hoffenheim,de Bundesliga,33,2970,33.0,33,0,0,51,166,116,72.9,12.0,12.0,9,5.0,15.2,GK
+54,Jordan Pickford,67.6,18-19,24,eng ENG,Everton,eng Premier League,38,3420,38.0,38,0,0,46,136,89,67.6,15.0,9.0,14,14.0,36.8,GK
+55,Christian Mathenia,67.8,18-19,26,de GER,Nürnberg,de Bundesliga,22,1932,21.5,22,0,7,40,118,80,67.8,1.0,7.0,14,2.0,9.1,GK
+56,Mattia Perin,74.1,18-19,25,it ITA,Juventus,it Serie A,9,810,9.0,9,0,21,8,27,19,74.1,6.0,1.0,2,5.0,55.6,GK
+57,Mathieu Gorgelin,66.7,18-19,27,fr FRA,Lyon,fr Ligue 1,4,360,4.0,4,0,33,5,15,10,66.7,3.0,0.0,1,1.0,25.0,GK
+58,Alban Lafont,72.7,18-19,19,ci CIV,Fiorentina,it Serie A,34,3015,33.5,34,0,3,40,128,90,72.7,8.0,15.0,11,8.0,23.5,GK
+59,Salvador Ichazo,88.9,18-19,26,uy URU,Torino,it Serie A,3,251,2.8,2,1,35,2,9,7,88.9,1.0,1.0,0,1.0,50.0,GK
+60,Kasper Schmeichel,68.8,18-19,31,dk DEN,Leicester City,eng Premier League,38,3420,38.0,38,0,0,48,138,90,68.8,15.0,7.0,16,10.0,26.3,GK
+61,Juan Soriano,90.9,18-19,20,es ESP,Sevilla,es La Liga,4,359,4.0,4,0,32,2,11,9,90.9,4.0,0.0,0,2.0,50.0,GK
+62,Asier Riesgo,56.5,18-19,34,es ESP,Eibar,es La Liga,14,1260,14.0,14,0,21,20,46,27,56.5,2.0,8.0,4,4.0,28.6,GK
+63,Robin Zentner,71.4,18-19,23,de GER,Mainz 05,de Bundesliga,10,900,10.0,10,0,24,14,49,35,71.4,4.0,4.0,2,2.0,20.0,GK
+64,Unai Simón,66.7,18-19,21,es ESP,Athletic Club,es La Liga,7,630,7.0,7,0,31,13,33,20,66.7,1.0,4.0,2,0.0,0.0,GK
+65,Marc-Aurèle Caillard,64.5,18-19,24,fr FRA,Guingamp,fr Ligue 1,21,1890,21.0,21,0,13,34,93,58,64.5,4.0,7.0,10,6.0,28.6,GK
+66,Sergio Rico,68.5,18-19,24,es ESP,Fulham,eng Premier League,29,2610,29.0,29,0,6,56,165,111,68.5,6.0,3.0,20,5.0,17.2,GK
+67,Brice Samba,75.1,18-19,24,fr FRA,Caen,fr Ligue 1,38,3420,38.0,38,0,0,54,193,139,75.1,7.0,12.0,19,9.0,23.7,GK
+68,Yoel,58.3,18-19,29,es ESP,2 Teams,es La Liga,3,270,3.0,3,0,33,6,12,6,58.3,0.0,2.0,1,0.0,0.0,GK
+69,Gerónimo Rulli,69.7,18-19,26,ar ARG,Real Sociedad,es La Liga,27,2430,27.0,27,0,11,35,109,75,69.7,10.0,9.0,8,7.0,25.9,GK
+70,Stefanos Kapino,66.7,18-19,24,gr GRE,Werder Bremen,de Bundesliga,1,45,0.5,0,1,16,1,3,2,66.7,0.0,0.0,0,0.0,,GK
+71,Paulo Gazzaniga,84.6,18-19,26,ar ARG,Tottenham,eng Premier League,3,270,3.0,3,0,32,2,13,11,84.6,2.0,0.0,1,1.0,33.3,GK
+72,Emil Audero,70.1,18-19,21,id IDN,Sampdoria,it Serie A,36,3240,36.0,36,0,2,51,147,96,70.1,14.0,7.0,15,11.0,30.6,GK
+73,Antonio Adán,71.4,18-19,31,es ESP,Atlético Madrid,es La Liga,1,90,1.0,1,0,35,2,7,5,71.4,0.0,1.0,0,0.0,0.0,GK
+74,Ionuț Radu,72.5,18-19,21,ro ROU,Genoa,it Serie A,33,2970,33.0,33,0,4,46,149,102,72.5,6.0,14.0,13,6.0,18.2,GK
+75,Marc-André ter Stegen,73.3,18-19,26,de GER,Barcelona,es La Liga,35,3150,35.0,35,0,1,32,116,85,73.3,25.0,8.0,2,16.0,45.7,GK
+76,Petr Čech,75.7,18-19,36,cz CZE,Arsenal,eng Premier League,7,584,6.5,7,0,29,9,37,28,75.7,5.0,0.0,2,1.0,14.3,GK
+77,Pierluigi Frattali,75.0,18-19,32,it ITA,Parma,it Serie A,1,90,1.0,1,0,37,2,8,7,75.0,0.0,0.0,1,0.0,0.0,GK
+78,Diego López,73.7,18-19,36,es ESP,Espanyol,es La Liga,38,3420,38.0,38,0,0,50,167,117,73.7,14.0,11.0,13,10.0,26.3,GK
+79,Philipp Tschauner,66.7,18-19,32,de GER,Hannover 96,de Bundesliga,1,90,1.0,1,0,16,3,6,3,66.7,0.0,0.0,1,0.0,0.0,GK
+80,Samir Handanović,76.4,18-19,34,si SVN,Inter,it Serie A,38,3420,38.0,38,0,0,33,127,97,76.4,20.0,9.0,9,17.0,44.7,GK
+81,Iván Cuéllar,68.7,18-19,34,es ESP,Leganés,es La Liga,34,3055,33.9,34,0,2,38,115,78,68.7,10.0,12.0,12,9.0,26.5,GK
+82,Yohann Pelé,68.0,18-19,35,fr FRA,Marseille,fr Ligue 1,9,682,7.6,7,2,29,12,25,12,68.0,4.0,2.0,1,3.0,42.9,GK
+83,Wayne Hennessey,66.7,18-19,31,wls WAL,Crystal Palace,eng Premier League,18,1576,17.5,17,1,15,26,69,42,66.7,4.0,3.0,10,5.0,29.4,GK
+84,Guido Guerrieri,25.0,18-19,22,it ITA,Lazio,it Serie A,1,90,1.0,1,0,32,3,4,1,25.0,0.0,1.0,0,0.0,0.0,GK
+85,Rui Patrício,68.8,18-19,30,pt POR,Wolves,eng Premier League,37,3329,37.0,37,0,0,46,138,96,68.8,15.0,9.0,13,7.0,18.9,GK
+86,Alisson,77.1,18-19,25,br BRA,Liverpool,eng Premier League,38,3420,38.0,38,0,0,22,96,74,77.1,30.0,7.0,1,21.0,55.3,GK
+87,Tomáš Vaclík,72.0,18-19,29,cz CZE,Sevilla,es La Liga,33,2970,33.0,33,0,0,44,143,98,72.0,13.0,8.0,12,8.0,24.2,GK
+88,Asmir Begović,56.7,18-19,31,ba BIH,Bournemouth,eng Premier League,24,2160,24.0,24,0,12,47,104,59,56.7,8.0,3.0,13,5.0,20.8,GK
+89,David de Gea,71.9,18-19,27,es ESP,Manchester Utd,eng Premier League,38,3420,38.0,38,0,0,54,171,120,71.9,19.0,9.0,10,7.0,18.4,GK
+90,Sven Ulreich,69.6,18-19,29,de GER,Bayern Munich,de Bundesliga,9,758,8.4,8,1,25,9,23,14,69.6,4.0,3.0,1,2.0,25.0,GK
+91,Andreas Luthe,71.8,18-19,31,de GER,Augsburg,de Bundesliga,15,1311,14.6,14,1,11,22,78,57,71.8,3.0,5.0,6,2.0,14.3,GK
+92,Rafael Cabral,100.0,18-19,28,br BRA,Sampdoria,it Serie A,2,180,2.0,2,0,35,0,2,2,100.0,1.0,1.0,0,2.0,100.0,GK
+93,David Ospina,69.4,18-19,29,co COL,Napoli,it Serie A,17,1457,16.2,16,1,16,20,62,42,69.4,9.0,4.0,3,5.0,31.3,GK
+94,Matz Sels,72.3,18-19,26,be BEL,Strasbourg,fr Ligue 1,37,3330,37.0,37,0,1,48,148,99,72.3,10.0,16.0,11,8.0,21.6,GK
+95,Michael Esser,71.5,18-19,30,de GER,Hannover 96,de Bundesliga,32,2880,32.0,32,0,1,66,214,148,71.5,5.0,6.0,21,5.0,15.6,GK
+96,Seydou Sy,41.7,18-19,22,sn SEN,Monaco,fr Ligue 1,3,226,2.5,2,1,12,7,12,6,41.7,0.0,1.0,1,0.0,0.0,GK
+97,Orestis Karnezis,77.8,18-19,33,gr GRE,Napoli,it Serie A,9,810,9.0,9,0,29,7,27,20,77.8,6.0,2.0,1,4.0,44.4,GK
+98,Jandrei,66.7,18-19,25,br BRA,Genoa,it Serie A,1,90,1.0,1,0,17,1,3,2,66.7,0.0,0.0,1,0.0,0.0,GK
+99,Manuel Neuer,64.3,18-19,32,de GER,Bayern Munich,de Bundesliga,26,2302,25.6,26,0,0,23,56,34,64.3,20.0,3.0,3,10.0,38.5,GK
+100,Bobby Allain,77.8,18-19,26,fr FRA,Dijon,fr Ligue 1,13,1170,13.0,13,0,25,17,72,56,77.8,2.0,2.0,9,1.0,7.7,GK
+101,Sergio Álvarez,65.5,18-19,31,es ESP,Celta Vigo,es La Liga,13,1170,13.0,13,0,25,22,58,37,65.5,3.0,5.0,5,2.0,15.4,GK
+102,Walter Benítez,81.1,18-19,25,ar ARG,Nice,fr Ligue 1,35,3150,35.0,35,0,3,29,143,112,81.1,15.0,10.0,10,16.0,45.7,GK
+103,Andrea Consigli,66.5,18-19,31,it ITA,Sassuolo,it Serie A,36,3213,35.7,36,0,1,56,155,98,66.5,9.0,15.0,12,12.0,33.3,GK
+104,Julián Speroni,55.6,18-19,39,ar ARG,Crystal Palace,eng Premier League,1,90,1.0,1,0,4,4,9,5,55.6,0.0,0.0,1,0.0,0.0,GK
+105,Hugo Lloris,76.9,18-19,31,fr FRA,Tottenham,eng Premier League,33,2970,33.0,33,0,0,33,130,98,76.9,21.0,2.0,10,12.0,36.4,GK
+106,David Soria,77.4,18-19,25,es ESP,Getafe,es La Liga,37,3330,37.0,37,0,0,34,133,99,77.4,14.0,14.0,9,13.0,35.1,GK
+107,Rúnar Alex Rúnarsson,58.6,18-19,23,is ISL,Dijon,fr Ligue 1,25,2250,25.0,25,0,12,43,99,56,58.6,7.0,5.0,13,5.0,20.0,GK
+108,Jordi Masip,72.0,18-19,29,es ESP,Valladolid,es La Liga,35,3150,35.0,35,0,3,45,143,96,72.0,10.0,9.0,16,9.0,25.7,GK
+109,Iago Herrerín,66.7,18-19,30,es ESP,Athletic Club,es La Liga,31,2790,31.0,31,0,1,32,87,55,66.7,12.0,10.0,9,10.0,32.3,GK
+110,Łukasz Fabiański,74.2,18-19,33,pl POL,West Ham,eng Premier League,38,3420,38.0,38,0,0,55,198,143,74.2,15.0,7.0,16,7.0,18.4,GK
+111,Jonas Lössl,64.5,18-19,29,dk DEN,Huddersfield,eng Premier League,31,2778,30.9,30,1,3,54,141,86,64.5,3.0,5.0,22,5.0,16.7,GK
+112,Alex Meret,85.4,18-19,21,it ITA,Napoli,it Serie A,14,1151,12.8,13,1,11,9,48,39,85.4,9.0,1.0,3,5.0,38.5,GK
+113,Yoan Cardinale,58.3,18-19,24,fr FRA,Nice,fr Ligue 1,3,270,3.0,3,0,6,6,12,6,58.3,0.0,1.0,2,0.0,0.0,GK
+114,Rubén Blanco,67.0,18-19,23,es ESP,Celta Vigo,es La Liga,25,2250,25.0,25,0,12,40,109,69,67.0,7.0,6.0,12,6.0,24.0,GK
+115,Fernando Pacheco,74.0,18-19,26,es ESP,Alavés,es La Liga,35,3150,35.0,35,0,1,46,154,110,74.0,11.0,11.0,13,8.0,22.9,GK
+116,Antonio Sivera,69.2,18-19,21,es ESP,Alavés,es La Liga,3,270,3.0,3,0,33,4,13,9,69.2,2.0,0.0,1,0.0,0.0,GK
+117,Roman Bürki,71.9,18-19,27,ch SUI,Dortmund,de Bundesliga,32,2880,32.0,32,0,0,40,128,88,71.9,21.0,7.0,4,10.0,31.3,GK
+118,Sergio Asenjo,73.5,18-19,29,es ESP,Villarreal,es La Liga,32,2880,32.0,32,0,4,45,162,119,73.5,7.0,12.0,13,9.0,28.1,GK
+119,Vanja Milinković-Savić,75.0,18-19,21,rs SRB,SPAL,it Serie A,2,164,1.8,2,0,16,4,16,12,75.0,1.0,0.0,1,0.0,0.0,GK
+120,Aitor Fernández,75.9,18-19,27,es ESP,Levante,es La Liga,16,1440,16.0,16,0,21,24,83,60,75.9,4.0,5.0,7,2.0,12.5,GK
+121,Ron-Robert Zieler,62.0,18-19,29,de GER,Stuttgart,de Bundesliga,34,3060,34.0,34,0,0,70,179,113,62.0,7.0,7.0,20,6.0,17.6,GK
+122,Juan Musso,77.8,18-19,24,ar ARG,Udinese,it Serie A,29,2610,29.0,29,0,8,40,144,105,77.8,9.0,8.0,12,7.0,24.1,GK
+123,Ramazan Özcan,66.7,18-19,34,at AUT,Leverkusen,de Bundesliga,2,180,2.0,2,0,31,5,12,7,66.7,0.0,0.0,2,0.0,0.0,GK
+124,Willy Caballero,100.0,18-19,36,ar ARG,Chelsea,eng Premier League,2,180,2.0,2,0,36,0,3,3,100.0,1.0,1.0,0,2.0,100.0,GK
+125,Eiji Kawashima,100.0,18-19,35,jp JPN,Strasbourg,fr Ligue 1,1,90,1.0,1,0,6,0,1,1,100.0,1.0,0.0,0,1.0,100.0,GK
+126,Karl-Johan Johnsson,59.0,18-19,28,se SWE,Guingamp,fr Ligue 1,17,1530,17.0,17,0,19,34,78,43,59.0,1.0,5.0,11,4.0,23.5,GK
+127,Tom Heaton,68.7,18-19,32,eng ENG,Burnley,eng Premier League,19,1710,19.0,19,0,19,27,83,59,68.7,8.0,4.0,7,4.0,21.1,GK
+128,Frederik Rønnow,100.0,18-19,25,dk DEN,Eint Frankfurt,de Bundesliga,2,123,1.4,1,1,31,0,7,7,100.0,1.0,0.0,0,1.0,100.0,GK
+129,Mark Flekken,80.0,18-19,25,nl NED,Freiburg,de Bundesliga,1,90,1.0,1,0,27,1,5,4,80.0,1.0,0.0,0,0.0,0.0,GK
+130,Neto,80.6,18-19,29,br BRA,Valencia,es La Liga,34,3060,34.0,34,0,3,34,139,106,80.6,13.0,14.0,7,10.0,29.4,GK
+131,Vicente Guaita,74.1,18-19,31,es ESP,Crystal Palace,eng Premier League,20,1754,19.5,20,0,17,23,85,63,74.1,10.0,4.0,6,7.0,35.0,GK
+132,Łukasz Skorupski,69.9,18-19,27,pl POL,Bologna,it Serie A,38,3420,38.0,38,0,0,56,173,118,69.9,11.0,11.0,16,10.0,26.3,GK
+133,Marko Dmitrović,68.6,18-19,26,rs SRB,Eibar,es La Liga,24,2160,24.0,24,0,5,30,86,55,68.6,9.0,6.0,9,5.0,20.8,GK
+134,Marco Sportiello,70.6,18-19,26,it ITA,Frosinone,it Serie A,35,3150,35.0,35,0,0,64,201,138,70.6,5.0,9.0,21,8.0,22.9,GK
+135,Lukáš Hrádecký,65.4,18-19,28,fi FIN,Leverkusen,de Bundesliga,32,2880,32.0,32,0,1,47,127,81,65.4,18.0,4.0,10,9.0,28.1,GK
+136,Fabricio,76.2,18-19,30,es ESP,Fulham,eng Premier League,2,180,2.0,2,0,17,5,21,16,76.2,0.0,0.0,2,0.0,0.0,GK
+137,Alexander Nübel,68.7,18-19,21,de GER,Schalke 04,de Bundesliga,18,1588,17.6,18,0,14,29,83,53,68.7,4.0,6.0,8,4.0,22.2,GK
+138,Ciprian Tătărușanu,69.5,18-19,32,ro ROU,Nantes,fr Ligue 1,27,2390,26.6,27,0,1,30,95,62,69.5,8.0,6.0,13,7.0,25.9,GK
+139,Oier Olazábal,73.3,18-19,28,es ESP,Levante,es La Liga,21,1890,21.0,21,0,14,40,135,95,73.3,7.0,5.0,9,5.0,23.8,GK
+140,Joel Coleman,66.7,18-19,22,eng ENG,Huddersfield,eng Premier League,1,90,1.0,1,0,7,1,3,2,66.7,0.0,1.0,0,0.0,0.0,GK
+141,Diego Benaglio,63.5,18-19,34,ch SUI,Monaco,fr Ligue 1,23,2058,22.9,22,1,11,38,96,57,63.5,4.0,6.0,12,4.0,18.2,GK
+142,Thomas Kraft,56.3,18-19,30,de GER,Hertha BSC,de Bundesliga,4,315,3.5,3,1,26,9,16,7,56.3,2.0,0.0,1,1.0,33.3,GK
+143,Régis Gurtner,72.3,18-19,31,fr FRA,Amiens,fr Ligue 1,38,3420,38.0,38,0,0,52,166,114,72.3,9.0,11.0,18,11.0,28.9,GK
+144,Roberto Santamaría,75.0,18-19,33,es ESP,Huesca,es La Liga,20,1800,20.0,20,0,10,30,96,67,75.0,5.0,7.0,8,6.0,30.0,GK
+145,Péter Gulácsi,80.3,18-19,28,hu HUN,RB Leipzig,de Bundesliga,33,2925,32.5,33,0,0,27,117,91,80.3,19.0,9.0,5,15.0,45.5,GK
+146,Baptiste Reynet,71.3,18-19,27,fr FRA,Toulouse,fr Ligue 1,31,2704,30.0,31,0,2,45,143,98,71.3,6.0,11.0,14,6.0,19.4,GK
+147,Koke Vegas,75.0,18-19,22,es ESP,Levante,es La Liga,1,90,1.0,1,0,3,2,8,6,75.0,0.0,1.0,0,0.0,0.0,GK
+148,Axel Werner,53.1,18-19,22,ar ARG,Huesca,es La Liga,6,540,6.0,6,0,8,16,32,17,53.1,1.0,1.0,4,0.0,0.0,GK
+149,Gaëtan Poussin,100.0,18-19,19,fr FRA,Bordeaux,fr Ligue 1,1,90,1.0,1,0,37,0,1,1,100.0,1.0,0.0,0,1.0,100.0,GK
+150,Fraser Forster,50.0,18-19,30,eng ENG,Southampton,eng Premier League,1,90,1.0,1,0,4,3,6,3,50.0,0.0,0.0,1,0.0,0.0,GK
+151,Michael Rensing,67.6,18-19,34,de GER,Düsseldorf,de Bundesliga,32,2880,32.0,32,0,0,62,170,108,67.6,12.0,5.0,15,5.0,15.6,GK
+152,Andrea Seculin,41.7,18-19,28,it ITA,Chievo,it Serie A,2,91,1.0,1,1,12,7,12,5,41.7,0.0,0.0,1,0.0,0.0,GK
+153,Luca Zidane,33.3,18-19,20,dz ALG,Real Madrid,es La Liga,1,90,1.0,1,0,7,2,3,1,33.3,1.0,0.0,0,0.0,0.0,GK
+154,Pavao Pervan,72.5,18-19,30,at AUT,Wolfsburg,de Bundesliga,9,765,8.5,8,1,24,11,40,29,72.5,5.0,1.0,2,1.0,12.5,GK
+155,Silvio Proto,69.2,18-19,35,be BEL,Lazio,it Serie A,2,180,2.0,2,0,35,4,13,9,69.2,1.0,0.0,1,0.0,0.0,GK
+156,Alexandre Olliero,100.0,18-19,22,fr FRA,Nantes,fr Ligue 1,1,90,1.0,1,0,11,1,1,0,100.0,0.0,0.0,1,0.0,0.0,GK
+157,Jaume Doménech,92.3,18-19,27,es ESP,Valencia,es La Liga,4,360,4.0,4,0,31,1,13,12,92.3,2.0,2.0,0,3.0,75.0,GK
+158,Stéphane Ruffier,77.7,18-19,31,fr FRA,Saint-Étienne,fr Ligue 1,37,3330,37.0,37,0,1,40,148,107,77.7,19.0,8.0,10,13.0,35.1,GK
+159,Joe Hart,65.5,18-19,31,eng ENG,Burnley,eng Premier League,19,1710,19.0,19,0,19,41,116,75,65.5,3.0,3.0,13,4.0,21.1,GK
+160,Florian Müller,67.7,18-19,20,de GER,Mainz 05,de Bundesliga,24,2160,24.0,24,0,0,43,124,81,67.7,8.0,3.0,13,5.0,20.8,GK
+161,Gregor Kobel,59.0,18-19,20,ch SUI,2 Teams,de Bundesliga,17,1479,16.4,17,0,12,43,100,57,59.0,5.0,2.0,10,3.0,17.6,GK
+162,Joel Robles,81.0,18-19,28,es ESP,Betis,es La Liga,5,450,5.0,5,0,33,5,21,16,81.0,2.0,1.0,2,1.0,20.0,GK
+163,Kevin Trapp,70.3,18-19,28,de GER,2 Teams,2 Comps,33,2937,32.6,33,0,1,48,158,111,70.3,14.0,9.0,10,8.0,24.2,GK
+164,Alfred Gomis,65.8,18-19,24,sn SEN,SPAL,it Serie A,20,1724,19.2,19,1,18,27,76,49,65.8,3.0,6.0,10,6.0,31.6,GK
+165,Ben Foster,69.4,18-19,35,eng ENG,Watford,eng Premier League,38,3420,38.0,38,0,0,59,180,123,69.4,14.0,8.0,16,7.0,18.4,GK
+166,Fabian Bredlow,54.1,18-19,23,de GER,Nürnberg,de Bundesliga,13,1128,12.5,12,1,19,28,61,32,54.1,2.0,3.0,7,2.0,16.7,GK
+167,Ben Hamer,57.1,18-19,30,eng ENG,Huddersfield,eng Premier League,7,552,6.1,7,0,26,21,42,22,57.1,0.0,1.0,6,0.0,0.0,GK
+168,John Ruddy,100.0,18-19,31,eng ENG,Wolves,eng Premier League,1,90,1.0,1,0,36,0,3,3,100.0,1.0,0.0,0,1.0,100.0,GK
+169,Koen Casteels,70.6,18-19,26,be BEL,Wolfsburg,de Bundesliga,26,2295,25.5,26,0,0,39,119,79,70.6,11.0,6.0,9,8.0,30.8,GK
+170,Yvon Mvogo,75.0,18-19,24,ch SUI,RB Leipzig,de Bundesliga,2,135,1.5,1,1,19,2,4,2,75.0,0.0,0.0,1,1.0,100.0,GK
+171,Tomáš Koubek,67.4,18-19,25,cz CZE,Rennes,fr Ligue 1,33,2925,32.5,32,1,5,48,138,90,67.4,10.0,11.0,11,9.0,28.1,GK
+172,Angus Gunn,64.0,18-19,22,sct SCO,Southampton,eng Premier League,12,1080,12.0,12,0,26,18,50,31,64.0,4.0,4.0,4,3.0,25.0,GK
+173,Pietro Terracciano,71.7,18-19,28,it ITA,2 Teams,it Serie A,10,900,10.0,10,0,26,13,46,34,71.7,1.0,3.0,6,2.0,20.0,GK
+174,Pepe Reina,71.4,18-19,35,es ESP,Milan,it Serie A,4,330,3.7,2,2,29,5,14,9,71.4,1.0,0.0,1,1.0,50.0,GK
+175,Samuel Şahin-Radlinger,66.7,18-19,25,at AUT,Hannover 96,de Bundesliga,1,90,1.0,1,0,16,2,6,4,66.7,0.0,0.0,1,0.0,0.0,GK
+176,Gianluigi Buffon,73.8,18-19,40,it ITA,Paris S-G,fr Ligue 1,17,1530,17.0,17,0,20,18,65,49,73.8,13.0,1.0,3,6.0,35.3,GK
+177,Jaroslav Drobný,66.7,18-19,38,cz CZE,Düsseldorf,de Bundesliga,2,180,2.0,2,0,8,3,9,6,66.7,1.0,0.0,1,0.0,0.0,GK
+178,David Button,83.3,18-19,29,eng ENG,Brighton,eng Premier League,4,360,4.0,4,0,25,5,18,13,83.3,1.0,1.0,2,1.0,25.0,GK
+179,Robin Olsen,69.8,18-19,28,se SWE,Roma,it Serie A,27,2430,27.0,27,0,9,42,126,85,69.8,12.0,8.0,7,4.0,14.8,GK
+180,Keylor Navas,74.2,18-19,31,cr CRC,Real Madrid,es La Liga,10,900,10.0,10,0,24,8,31,23,74.2,6.0,2.0,2,4.0,40.0,GK
+181,Etrit Berisha,61.9,18-19,29,al ALB,Atalanta,it Serie A,18,1620,18.0,18,0,20,25,63,41,61.9,9.0,3.0,6,5.0,27.8,GK
+182,Jan Oblak,82.9,18-19,25,si SVN,Atlético Madrid,es La Liga,37,3330,37.0,37,0,0,27,129,104,82.9,22.0,9.0,6,20.0,54.1,GK
+183,Anthony Lopes,72.4,18-19,27,pt POR,Lyon,fr Ligue 1,34,3060,34.0,34,0,0,42,134,95,72.4,18.0,9.0,7,9.0,26.5,GK
+184,Adrian Šemper,75.0,18-19,20,hr CRO,Chievo,it Serie A,6,540,6.0,6,0,31,8,32,24,75.0,1.0,3.0,2,2.0,33.3,GK
+185,Gianluca Pegolo,66.7,18-19,37,it ITA,Sassuolo,it Serie A,3,203,2.3,2,1,34,4,12,8,66.7,0.0,1.0,1,0.0,0.0,GK
+186,Pierluigi Gollini,74.3,18-19,23,it ITA,Atalanta,it Serie A,20,1799,20.0,20,0,18,21,70,49,74.3,11.0,6.0,3,4.0,20.0,GK
+187,Alessio Cragno,77.6,18-19,24,it ITA,Cagliari,it Serie A,38,3420,38.0,38,0,0,54,205,151,77.6,10.0,11.0,17,7.0,18.4,GK
+188,Yassine Bounou,77.7,18-19,27,ma MAR,Girona,es La Liga,32,2861,31.8,32,0,1,43,166,124,77.7,8.0,10.0,14,8.0,25.0,GK
+189,Carlo Pinsoglio,33.3,18-19,28,it ITA,Juventus,it Serie A,1,90,1.0,1,0,37,2,3,1,33.3,0.0,0.0,1,0.0,0.0,GK
+190,Danijel Subašić,74.4,18-19,33,hr CRO,Monaco,fr Ligue 1,14,1136,12.6,14,0,0,12,39,26,74.4,4.0,5.0,5,4.0,28.6,GK
+191,Federico Marchetti,44.4,18-19,35,it ITA,Genoa,it Serie A,4,360,4.0,4,0,27,10,18,9,44.4,2.0,0.0,2,1.0,25.0,GK
+192,Fabian Giefer,63.2,18-19,28,de GER,Augsburg,de Bundesliga,4,360,4.0,4,0,13,7,19,12,63.2,1.0,1.0,2,0.0,0.0,GK
+193,Stole Dimitrievski,69.5,18-19,24,mk MKD,Rayo Vallecano,es La Liga,21,1890,21.0,21,0,15,35,95,59,69.5,5.0,4.0,12,3.0,14.3,GK
+194,Mike Maignan,78.4,18-19,23,fr FRA,Lille,fr Ligue 1,38,3420,38.0,38,0,0,33,125,90,78.4,22.0,9.0,7,15.0,39.5,GK
+195,Mark Travers,61.5,18-19,19,ie IRL,Bournemouth,eng Premier League,2,180,2.0,2,0,0,5,13,9,61.5,1.0,0.0,1,1.0,50.0,GK
+1,Miguel Ángel Moyá,68.6,19-20,35,es ESP,Real Sociedad,es La Liga,13,1170,13.0,13,0,22,16,51,36,68.6,5.0,4.0,4,3.0,23.1,GK
+2,Wojciech Szczęsny,80.6,19-20,29,pl POL,Juventus,it Serie A,29,2591,28.8,29,0,7,33,129,95,80.6,19.0,4.0,6,11.0,37.9,GK
+3,Jasper Cillessen,78.0,19-20,30,nl NED,Valencia,es La Liga,24,2096,23.3,24,0,7,30,109,78,78.0,10.0,7.0,7,5.0,20.8,GK
+4,David Martin,71.4,19-20,33,eng ENG,West Ham,eng Premier League,5,436,4.8,4,1,8,6,21,15,71.4,2.0,0.0,2,2.0,50.0,GK
+5,Bartłomiej Drągowski,73.4,19-20,21,pl POL,Fiorentina,it Serie A,31,2790,31.0,31,0,2,43,139,94,73.4,7.0,12.0,12,8.0,25.8,GK
+6,Gianluigi Donnarumma,73.0,19-20,20,it ITA,Milan,it Serie A,36,3201,35.6,36,0,0,42,141,96,73.0,18.0,9.0,9,12.0,33.3,GK
+7,Jiří Pavlenka,60.9,19-20,27,cz CZE,Werder Bremen,de Bundesliga,33,2970,33.0,33,0,0,67,169,105,60.9,8.0,6.0,19,4.0,12.1,GK
+8,Marco Silvestri,77.4,19-20,28,it ITA,Hellas Verona,it Serie A,35,3150,35.0,35,0,3,43,159,117,77.4,11.0,13.0,11,9.0,25.7,GK
+9,Alexander Schwolow,75.4,19-20,27,de GER,Freiburg,de Bundesliga,24,2091,23.2,24,0,1,32,118,86,75.4,9.0,6.0,9,4.0,16.7,GK
+10,Boris Radunović,60.0,19-20,23,rs SRB,Hellas Verona,it Serie A,3,270,3.0,3,0,32,8,15,7,60.0,1.0,0.0,2,1.0,33.3,GK
+11,Demba Thiam,81.3,19-20,21,sn SEN,SPAL,it Serie A,2,180,2.0,2,0,36,4,16,12,81.3,0.0,1.0,1,0.0,0.0,GK
+12,Claudio Bravo,53.3,19-20,36,cl CHI,Manchester City,eng Premier League,4,347,3.9,3,1,27,7,15,8,53.3,2.0,0.0,1,1.0,33.3,GK
+13,Salvatore Sirigu,72.1,19-20,32,it ITA,Torino,it Serie A,36,3240,36.0,36,0,2,64,197,135,72.1,11.0,6.0,19,7.0,19.4,GK
+14,Mauro Goicoechea,61.5,19-20,31,uy URU,Toulouse,fr Ligue 1,2,180,2.0,2,0,22,5,13,8,61.5,0.0,0.0,2,0.0,0.0,GK
+15,Rafał Gikiewicz,67.9,19-20,31,pl POL,Union Berlin,de Bundesliga,33,2970,33.0,33,0,1,54,159,105,67.9,12.0,5.0,16,8.0,24.2,GK
+16,Thibaut Courtois,79.2,19-20,27,be BEL,Real Madrid,es La Liga,34,3060,34.0,34,0,2,20,96,76,79.2,23.0,8.0,3,18.0,52.9,GK
+17,Angelo da Costa Júnior,50.0,19-20,35,br BRA,Bologna,it Serie A,1,90,1.0,1,0,37,1,2,1,50.0,0.0,1.0,0,0.0,0.0,GK
+18,Steve Mandanda,75.0,19-20,34,fr FRA,Marseille,fr Ligue 1,27,2370,26.3,27,0,0,27,92,67,75.0,15.0,8.0,4,11.0,40.7,GK
+19,Ralf Fährmann,100.0,19-20,30,de GER,Norwich City,eng Premier League,1,21,0.2,1,0,19,1,2,1,100.0,,,1,,,GK
+20,Pau López,72.0,19-20,24,es ESP,Roma,it Serie A,32,2880,32.0,32,0,2,45,132,86,72.0,18.0,6.0,8,5.0,15.6,GK
+21,Moritz Nicolas,50.0,19-20,21,de GER,Union Berlin,de Bundesliga,1,90,1.0,1,0,31,4,8,4,50.0,0.0,0.0,1,0.0,0.0,GK
+22,Rubén,61.1,19-20,35,es ESP,Osasuna,es La Liga,19,1583,17.6,18,1,7,24,54,30,61.1,5.0,9.0,4,4.0,22.2,GK
+23,Benoît Costil,70.4,19-20,32,fr FRA,Bordeaux,fr Ligue 1,28,2520,28.0,28,0,0,34,108,74,70.4,9.0,10.0,9,6.0,21.4,GK
+24,Bernd Leno,78.1,19-20,27,de GER,Arsenal,eng Premier League,30,2649,29.4,30,0,0,39,151,111,78.1,9.0,13.0,8,7.0,23.3,GK
+25,Ludovic Butelle,65.1,19-20,36,fr FRA,Angers,fr Ligue 1,26,2340,26.0,26,0,1,32,83,51,65.1,10.0,6.0,10,11.0,42.3,GK
+26,Rune Jarstein,72.7,19-20,34,no NOR,Hertha BSC,de Bundesliga,29,2547,28.3,29,0,2,46,143,99,72.7,11.0,5.0,13,9.0,31.0,GK
+27,Markus Schubert,70.9,19-20,21,de GER,Schalke 04,de Bundesliga,9,742,8.2,8,1,20,18,55,37,70.9,1.0,3.0,4,2.0,25.0,GK
+28,Antonio Rosati,80.0,19-20,36,it ITA,Torino,it Serie A,1,90,1.0,1,0,37,1,5,4,80.0,0.0,1.0,0,0.0,0.0,GK
+29,Jessy Moulin,91.3,19-20,33,fr FRA,Saint-Étienne,fr Ligue 1,5,450,5.0,5,0,21,4,23,19,91.3,2.0,2.0,1,2.0,40.0,GK
+30,Kepa Arrizabalaga,54.5,19-20,24,es ESP,Chelsea,eng Premier League,33,2970,33.0,33,0,5,47,99,54,54.5,18.0,4.0,11,8.0,24.2,GK
+31,Paul Bernardoni,68.5,19-20,22,fr FRA,Nîmes,fr Ligue 1,25,2203,24.5,25,0,0,38,108,71,68.5,7.0,4.0,14,6.0,24.0,GK
+32,Marwin Hitz,85.7,19-20,31,ch SUI,Dortmund,de Bundesliga,4,290,3.2,3,1,27,1,7,6,85.7,2.0,1.0,0,3.0,100.0,GK
+33,Paul Delecroix,50.0,19-20,30,fr FRA,Metz,fr Ligue 1,2,136,1.5,1,1,24,4,6,2,50.0,0.0,0.0,1,0.0,0.0,GK
+34,Alphonse Areola,70.6,19-20,26,fr FRA,2 Teams,2 Comps,7,630,7.0,7,0,32,7,17,10,70.6,5.0,1.0,1,3.0,42.9,GK
+35,Benjamin Lecomte,71.6,19-20,28,fr FRA,Monaco,fr Ligue 1,28,2520,28.0,28,0,0,44,134,91,71.6,11.0,7.0,10,7.0,25.0,GK
+36,Antonio Mirante,83.3,19-20,36,it ITA,Roma,it Serie A,5,450,5.0,5,0,21,5,24,19,83.3,2.0,1.0,2,2.0,40.0,GK
+37,Andrés Fernández,73.7,19-20,32,es ESP,Villarreal,es La Liga,4,360,4.0,4,0,34,8,19,12,73.7,1.0,2.0,1,1.0,25.0,GK
+38,Edouard Mendy,79.7,19-20,27,sn SEN,Rennes,fr Ligue 1,24,2160,24.0,24,0,1,19,79,60,79.7,13.0,5.0,6,9.0,37.5,GK
+39,Thomas Strakosha,77.3,19-20,24,al ALB,Lazio,it Serie A,38,3420,38.0,38,0,0,42,154,112,77.3,24.0,6.0,8,11.0,28.9,GK
+40,Luigi Sepe,75.6,19-20,28,it ITA,Parma,it Serie A,34,3060,34.0,34,0,0,53,193,137,75.6,13.0,6.0,15,5.0,14.7,GK
+41,Alex McCarthy,69.9,19-20,29,eng ENG,Southampton,eng Premier League,28,2520,28.0,28,0,8,35,113,78,69.9,13.0,5.0,10,7.0,25.0,GK
+42,Álex Remiro,73.1,19-20,24,es ESP,Real Sociedad,es La Liga,25,2250,25.0,25,0,13,32,93,60,73.1,11.0,4.0,10,6.0,24.0,GK
+43,Dimitry Bertaud,40.0,19-20,21,cd COD,Montpellier,fr Ligue 1,3,196,2.2,3,0,21,3,5,2,40.0,0.0,0.0,3,0.0,0.0,GK
+44,Lovre Kalinić,73.3,19-20,29,hr CRO,2 Teams,2 Comps,4,305,3.4,4,0,1,4,15,11,73.3,0.0,1.0,3,1.0,25.0,GK
+45,Martin Dúbravka,71.3,19-20,30,sk SVK,Newcastle Utd,eng Premier League,38,3420,38.0,38,0,0,58,195,139,71.3,11.0,11.0,16,11.0,28.9,GK
+46,Ederson,73.7,19-20,25,br BRA,Manchester City,eng Premier League,35,3071,34.1,35,0,0,28,95,68,73.7,24.0,3.0,8,16.0,45.7,GK
+47,Timo Horn,58.3,19-20,26,de GER,Köln,de Bundesliga,34,3060,34.0,34,0,0,69,156,87,58.3,10.0,6.0,18,6.0,17.6,GK
+48,Yann Sommer,75.3,19-20,30,ch SUI,Gladbach,de Bundesliga,34,3060,34.0,34,0,0,40,158,117,75.3,20.0,5.0,9,7.0,20.6,GK
+49,Zack Steffen,64.6,19-20,24,us USA,Düsseldorf,de Bundesliga,17,1530,17.0,17,0,0,36,99,63,64.6,4.0,3.0,10,2.0,11.8,GK
+50,Mathew Ryan,69.0,19-20,27,au AUS,Brighton,eng Premier League,38,3420,38.0,38,0,0,54,168,116,69.0,9.0,14.0,15,9.0,23.7,GK
+51,Dennis Smarsch,63.6,19-20,20,de GER,Hertha BSC,de Bundesliga,2,151,1.7,1,1,11,4,11,7,63.6,0.0,0.0,1,0.0,0.0,GK
+52,Aaron Ramsdale,69.5,19-20,21,eng ENG,Bournemouth,eng Premier League,37,3330,37.0,37,0,0,62,187,124,69.5,9.0,7.0,21,5.0,13.5,GK
+53,Oliver Baumann,69.9,19-20,29,de GER,Hoffenheim,de Bundesliga,30,2700,30.0,30,0,0,49,146,97,69.9,13.0,7.0,10,7.0,23.3,GK
+54,Jordan Pickford,63.9,19-20,25,eng ENG,Everton,eng Premier League,38,3420,38.0,38,0,0,56,147,94,63.9,13.0,10.0,15,9.0,23.7,GK
+55,Karlo Letica,55.4,19-20,22,hr CRO,SPAL,it Serie A,10,900,10.0,10,0,28,29,65,36,55.4,0.0,1.0,9,0.0,0.0,GK
+56,Nick Pope,72.5,19-20,27,eng ENG,Burnley,eng Premier League,38,3420,38.0,38,0,0,50,167,117,72.5,15.0,9.0,14,15.0,39.5,GK
+57,Mattia Perin,64.1,19-20,26,it ITA,2 Teams,it Serie A,21,1890,21.0,21,0,2,38,103,66,64.1,8.0,4.0,9,5.0,23.8,GK
+58,Daniel Martín,50.0,19-20,21,es ESP,Betis,es La Liga,6,531,5.9,5,1,27,12,24,12,50.0,1.0,0.0,4,1.0,20.0,GK
+59,Alban Lafont,72.6,19-20,20,ci CIV,Nantes,fr Ligue 1,27,2430,27.0,27,0,0,29,95,64,72.6,11.0,4.0,12,10.0,37.0,GK
+60,Michael McGovern,53.8,19-20,35,nir NIR,Norwich City,eng Premier League,2,159,1.8,1,1,18,6,13,6,53.8,0.0,0.0,1,0.0,0.0,GK
+61,Donovan Léon,81.8,19-20,26,gf GUF,Brest,fr Ligue 1,2,123,1.4,1,1,26,3,11,8,81.8,1.0,0.0,0,1.0,100.0,GK
+62,Kasper Schmeichel,75.6,19-20,32,dk DEN,Leicester City,eng Premier League,38,3420,38.0,38,0,0,41,135,94,75.6,18.0,8.0,12,13.0,34.2,GK
+63,Juan Soriano,66.7,19-20,21,es ESP,Leganés,es La Liga,11,990,11.0,11,0,27,18,39,22,66.7,1.0,3.0,7,1.0,9.1,GK
+64,Mauro Vigorito,72.4,19-20,29,it ITA,Lecce,it Serie A,5,423,4.7,4,1,32,9,29,20,72.4,3.0,0.0,1,1.0,25.0,GK
+65,Nicolas Lemaître,50.0,19-20,22,fr FRA,Reims,fr Ligue 1,1,90,1.0,1,0,27,3,4,1,50.0,0.0,0.0,1,0.0,0.0,GK
+66,Predrag Rajković,80.5,19-20,23,rs SRB,Reims,fr Ligue 1,27,2430,27.0,27,0,0,18,87,65,80.5,10.0,11.0,6,12.0,44.4,GK
+67,Robin Zentner,66.1,19-20,24,de GER,Mainz 05,de Bundesliga,22,1935,21.5,22,0,3,40,115,75,66.1,8.0,2.0,12,3.0,13.6,GK
+68,Unai Simón,78.0,19-20,22,es ESP,Athletic Club,es La Liga,34,2991,33.2,34,0,1,29,109,82,78.0,13.0,9.0,12,12.0,35.3,GK
+69,Sergio Rico,60.0,19-20,25,es ESP,2 Teams,2 Comps,2,180,2.0,2,0,24,4,10,6,60.0,2.0,0.0,0,0.0,0.0,GK
+70,Manolo Reina,74.3,19-20,34,es ESP,Mallorca,es La Liga,36,3240,36.0,36,0,2,60,179,119,74.3,9.0,5.0,22,5.0,13.9,GK
+71,Yoel,68.8,19-20,30,es ESP,Eibar,es La Liga,3,270,3.0,3,0,34,5,16,10,68.8,2.0,0.0,1,1.0,25.0,GK
+72,Gerónimo Rulli,79.8,19-20,27,ar ARG,Montpellier,fr Ligue 1,25,2250,25.0,25,0,0,27,119,91,79.8,11.0,7.0,7,8.0,32.0,GK
+73,Stefanos Kapino,60.0,19-20,25,gr GRE,Werder Bremen,de Bundesliga,1,90,1.0,1,0,32,2,5,3,60.0,0.0,1.0,0,0.0,0.0,GK
+74,Darren Randolph,63.6,19-20,32,ie IRL,West Ham,eng Premier League,2,180,2.0,2,0,15,5,11,6,63.6,0.0,1.0,1,0.0,0.0,GK
+75,Paulo Gazzaniga,72.0,19-20,27,ar ARG,Tottenham,eng Premier League,18,1613,17.9,17,1,20,26,82,56,72.0,5.0,5.0,7,2.0,11.8,GK
+76,Emil Audero,67.9,19-20,22,id IDN,Sampdoria,it Serie A,36,3240,36.0,36,0,2,60,165,109,67.9,12.0,5.0,19,9.0,25.0,GK
+77,Antonio Adán,100.0,19-20,32,es ESP,Atlético Madrid,es La Liga,1,25,0.3,0,1,37,0,1,1,100.0,0.0,0.0,0,0.0,,GK
+78,Aarón Escandell,78.6,19-20,23,es ESP,Granada,es La Liga,3,270,3.0,3,0,34,3,14,11,78.6,1.0,0.0,2,1.0,33.3,GK
+79,Ionuț Radu,70.4,19-20,22,ro ROU,2 Teams,it Serie A,17,1530,17.0,17,0,11,35,98,64,70.4,2.0,5.0,10,2.0,11.8,GK
+80,Marc-André ter Stegen,74.1,19-20,27,de GER,Barcelona,es La Liga,36,3240,36.0,36,0,1,36,116,79,74.1,24.0,6.0,6,14.0,38.9,GK
+81,Simone Colombi,84.2,19-20,28,it ITA,Parma,it Serie A,4,360,4.0,4,0,34,4,19,15,84.2,1.0,1.0,2,1.0,25.0,GK
+82,Diego López,67.5,19-20,37,es ESP,Espanyol,es La Liga,36,3232,35.9,36,0,0,58,160,103,67.5,4.0,9.0,23,4.0,11.1,GK
+83,Samir Handanović,72.7,19-20,35,si SVN,Inter,it Serie A,35,3150,35.0,35,0,3,32,110,78,72.7,22.0,10.0,3,13.0,37.1,GK
+84,Romain Salin,73.7,19-20,35,fr FRA,Rennes,fr Ligue 1,4,360,4.0,4,0,21,5,19,13,73.7,2.0,0.0,2,1.0,25.0,GK
+85,Iván Cuéllar,67.7,19-20,35,es ESP,Leganés,es La Liga,27,2429,27.0,27,0,1,33,99,65,67.7,7.0,9.0,11,7.0,25.9,GK
+86,Yohann Pelé,71.4,19-20,36,fr FRA,Marseille,fr Ligue 1,2,150,1.7,1,1,26,2,7,4,71.4,1.0,0.0,0,0.0,0.0,GK
+87,Wayne Hennessey,65.2,19-20,32,wls WAL,Crystal Palace,eng Premier League,3,270,3.0,3,0,34,8,23,15,65.2,0.0,1.0,2,0.0,0.0,GK
+88,Yannis Clementia,85.7,19-20,22,mq MTQ,Nice,fr Ligue 1,2,180,2.0,2,0,26,2,7,5,85.7,2.0,0.0,0,0.0,0.0,GK
+89,Emiliano Martínez,81.0,19-20,26,ar ARG,Arsenal,eng Premier League,9,771,8.6,8,1,29,9,42,33,81.0,5.0,1.0,2,3.0,37.5,GK
+90,Rui Patrício,69.8,19-20,31,pt POR,Wolves,eng Premier League,38,3420,38.0,38,0,0,40,129,88,69.8,15.0,14.0,9,13.0,34.2,GK
+91,Alisson,72.5,19-20,26,br BRA,Liverpool,eng Premier League,29,2543,28.3,29,0,0,23,80,58,72.5,23.0,3.0,3,13.0,44.8,GK
+92,Tomáš Vaclík,69.8,19-20,30,cz CZE,Sevilla,es La Liga,33,2925,32.5,33,0,0,31,96,65,69.8,15.0,12.0,6,12.0,36.4,GK
+93,Asmir Begović,71.4,19-20,32,ba BIH,Milan,it Serie A,2,129,1.4,1,1,17,3,7,4,71.4,0.0,0.0,1,0.0,0.0,GK
+94,David de Gea,74.8,19-20,28,es ESP,Manchester Utd,eng Premier League,38,3420,38.0,38,0,0,36,131,96,74.8,18.0,12.0,8,13.0,34.2,GK
+95,Sven Ulreich,66.7,19-20,30,de GER,Bayern Munich,de Bundesliga,1,90,1.0,1,0,32,1,3,2,66.7,1.0,0.0,0,0.0,0.0,GK
+96,Jesse Joronen,72.4,19-20,26,fi FIN,Brescia,it Serie A,29,2610,29.0,29,0,2,59,181,124,72.4,5.0,6.0,18,5.0,17.2,GK
+97,Andreas Luthe,63.6,19-20,32,de GER,Augsburg,de Bundesliga,10,900,10.0,10,0,23,12,33,22,63.6,3.0,3.0,4,3.0,30.0,GK
+98,Churripi,76.9,19-20,25,es ESP,Valladolid,es La Liga,3,244,2.7,3,0,8,3,13,10,76.9,1.0,0.0,2,1.0,33.3,GK
+99,Daniel Fuzato,50.0,19-20,22,br BRA,Roma,it Serie A,1,90,1.0,1,0,35,1,2,1,50.0,1.0,0.0,0,0.0,0.0,GK
+100,David Ospina,72.2,19-20,30,co COL,Napoli,it Serie A,17,1469,16.3,17,0,18,17,54,37,72.2,9.0,3.0,5,4.0,23.5,GK
+101,Matz Sels,75.0,19-20,27,be BEL,Strasbourg,fr Ligue 1,27,2430,27.0,27,0,0,32,104,71,75.0,11.0,5.0,11,8.0,29.6,GK
+102,Matis Carvalho,50.0,19-20,20,pt POR,Montpellier,fr Ligue 1,1,72,0.8,0,1,6,4,8,5,50.0,0.0,0.0,0,0.0,,GK
+103,Manuel Neuer,74.5,19-20,33,de GER,Bayern Munich,de Bundesliga,33,2970,33.0,33,0,1,31,110,79,74.5,25.0,4.0,4,15.0,45.5,GK
+104,Sergio Álvarez,66.7,19-20,32,es ESP,Celta Vigo,es La Liga,2,180,2.0,2,0,18,1,3,2,66.7,1.0,1.0,0,1.0,25.0,GK
+105,Walter Benítez,75.4,19-20,26,ar ARG,Nice,fr Ligue 1,26,2340,26.0,26,0,0,36,130,95,75.4,9.0,8.0,9,4.0,15.4,GK
+106,Andrea Consigli,66.9,19-20,32,it ITA,Sassuolo,it Serie A,31,2790,31.0,31,0,2,55,145,92,66.9,12.0,5.0,14,5.0,16.1,GK
+107,Juan Pérez,77.8,19-20,23,es ESP,Osasuna,es La Liga,2,180,2.0,2,0,17,3,9,6,77.8,1.0,1.0,0,0.0,0.0,GK
+108,Hugo Lloris,80.8,19-20,32,fr FRA,Tottenham,eng Premier League,21,1807,20.1,21,0,0,21,99,78,80.8,11.0,6.0,4,6.0,28.6,GK
+109,David Soria,70.6,19-20,26,es ESP,Getafe,es La Liga,38,3420,38.0,38,0,0,37,109,73,70.6,14.0,12.0,12,15.0,39.5,GK
+110,Rúnar Alex Rúnarsson,63.8,19-20,24,is ISL,Dijon,fr Ligue 1,11,901,10.0,9,2,15,17,47,31,63.8,1.0,2.0,6,0.0,0.0,GK
+111,Jordi Masip,73.6,19-20,30,es ESP,Valladolid,es La Liga,35,3150,35.0,35,0,3,39,125,85,73.6,8.0,15.0,12,11.0,31.4,GK
+112,Iago Herrerín,52.6,19-20,31,es ESP,Athletic Club,es La Liga,5,425,4.7,4,1,33,9,19,10,52.6,0.0,3.0,1,0.0,0.0,GK
+113,Łukasz Fabiański,70.2,19-20,34,pl POL,West Ham,eng Premier League,25,2117,23.5,25,0,0,34,104,71,70.2,8.0,7.0,10,5.0,20.0,GK
+114,Alex Meret,66.7,19-20,22,it ITA,Napoli,it Serie A,22,1951,21.7,21,1,14,33,84,51,66.7,9.0,5.0,7,3.0,14.3,GK
+115,Enrico Alfonso,63.6,19-20,31,it ITA,Brescia,it Serie A,4,279,3.1,4,0,23,4,11,7,63.6,1.0,0.0,3,1.0,25.0,GK
+116,Samir Ujkani,66.7,19-20,31,xk KVX,Torino,it Serie A,1,90,1.0,1,0,34,3,6,3,66.7,0.0,0.0,1,0.0,0.0,GK
+117,Rubén Blanco,71.9,19-20,24,es ESP,Celta Vigo,es La Liga,33,2960,32.9,33,0,0,43,135,92,71.9,6.0,14.0,13,10.0,30.3,GK
+118,Fernando Pacheco,71.6,19-20,27,es ESP,Alavés,es La Liga,27,2358,26.2,27,0,2,37,102,62,71.6,7.0,7.0,13,6.0,22.2,GK
+119,Antonio Sivera,60.0,19-20,22,es ESP,Alavés,es La Liga,3,270,3.0,3,0,16,3,5,2,60.0,1.0,1.0,1,1.0,33.3,GK
+120,Roman Bürki,61.1,19-20,28,ch SUI,Dortmund,de Bundesliga,31,2770,30.8,31,0,1,40,95,58,61.1,19.0,5.0,7,12.0,38.7,GK
+121,Sergio Asenjo,75.2,19-20,30,es ESP,Villarreal,es La Liga,34,3060,34.0,34,0,4,41,145,104,75.2,17.0,4.0,13,11.0,32.4,GK
+122,Wladimiro Falcone,69.2,19-20,24,it ITA,Sampdoria,it Serie A,2,180,2.0,2,0,28,5,13,8,69.2,0.0,1.0,1,0.0,0.0,GK
+123,Aitor Fernández,76.6,19-20,28,es ESP,Levante,es La Liga,36,3240,36.0,36,0,2,51,205,153,76.6,12.0,7.0,17,5.0,13.9,GK
+124,Juan Musso,77.8,19-20,25,ar ARG,Udinese,it Serie A,38,3420,38.0,38,0,0,51,194,141,77.8,12.0,9.0,17,14.0,36.8,GK
+125,Willy Caballero,56.3,19-20,37,ar ARG,Chelsea,eng Premier League,5,450,5.0,5,0,33,7,16,10,56.3,2.0,2.0,1,1.0,20.0,GK
+126,Sergio Herrera,67.5,19-20,26,es ESP,Osasuna,es La Liga,19,1655,18.4,18,1,16,27,80,53,67.5,7.0,3.0,8,7.0,38.9,GK
+127,Tom Heaton,68.6,19-20,33,eng ENG,Aston Villa,eng Premier League,20,1794,19.9,20,0,0,35,102,68,68.6,6.0,3.0,11,4.0,20.0,GK
+128,Frederik Rønnow,75.5,19-20,26,dk DEN,Eint Frankfurt,de Bundesliga,9,810,9.0,9,0,20,14,49,35,75.5,2.0,3.0,4,1.0,11.1,GK
+129,Mark Flekken,79.7,19-20,26,nl NED,Freiburg,de Bundesliga,10,900,10.0,10,0,16,14,69,55,79.7,4.0,3.0,3,3.0,30.0,GK
+130,Neto,33.3,19-20,30,br BRA,Barcelona,es La Liga,2,180,2.0,2,0,29,2,3,1,33.3,1.0,1.0,0,1.0,50.0,GK
+131,Samu Pérez,100.0,19-20,22,es ESP,Valladolid,es La Liga,1,26,0.3,0,1,9,1,1,0,100.0,0.0,0.0,0,0.0,,GK
+132,Vicente Guaita,71.8,19-20,32,es ESP,Crystal Palace,eng Premier League,35,3150,35.0,35,0,0,42,149,109,71.8,11.0,9.0,15,10.0,28.6,GK
+133,Łukasz Skorupski,69.0,19-20,28,pl POL,Bologna,it Serie A,37,3330,37.0,37,0,0,64,187,123,69.0,12.0,10.0,15,2.0,5.4,GK
+134,Marko Dmitrović,61.5,19-20,27,rs SRB,Eibar,es La Liga,35,3150,35.0,35,0,3,51,122,71,61.5,9.0,9.0,17,10.0,28.6,GK
+135,Marco Sportiello,72.2,19-20,27,it ITA,Atalanta,it Serie A,6,525,5.8,5,1,31,5,18,13,72.2,4.0,0.0,1,2.0,40.0,GK
+136,Lukáš Hrádecký,70.6,19-20,29,fi FIN,Leverkusen,de Bundesliga,34,3060,34.0,34,0,0,44,143,99,70.6,19.0,6.0,9,10.0,29.4,GK
+137,Alexandre Oukidja,78.3,19-20,31,dz ALG,Metz,fr Ligue 1,27,2384,26.5,27,0,0,31,129,98,78.3,8.0,10.0,9,8.0,29.6,GK
+138,Fabricio,66.7,19-20,31,es ESP,Mallorca,es La Liga,1,90,1.0,1,0,22,3,6,3,66.7,0.0,0.0,1,0.0,0.0,GK
+139,Alexander Nübel,69.5,19-20,22,de GER,Schalke 04,de Bundesliga,26,2315,25.7,26,0,4,40,118,80,69.5,8.0,9.0,9,5.0,19.2,GK
+140,Ciprian Tătărușanu,81.8,19-20,33,ro ROU,Lyon,fr Ligue 1,2,180,2.0,2,0,23,2,11,9,81.8,1.0,0.0,1,1.0,50.0,GK
+141,Gautier Larsonneur,76.5,19-20,22,fr FRA,Brest,fr Ligue 1,27,2397,26.6,27,0,0,34,132,96,76.5,7.0,10.0,10,7.0,25.9,GK
+142,Oier Olazábal,100.0,19-20,29,es ESP,2 Teams,es La Liga,2,180,2.0,2,0,23,0,3,3,100.0,1.0,1.0,0,2.0,100.0,GK
+143,Danijel Petković,85.7,19-20,26,me MNE,Angers,fr Ligue 1,2,180,2.0,2,0,25,1,7,6,85.7,1.0,0.0,1,1.0,50.0,GK
+144,Roberto,69.5,19-20,33,es ESP,2 Teams,2 Comps,17,1477,16.4,15,2,17,36,105,70,69.5,2.0,2.0,11,2.0,13.3,GK
+145,Thomas Kraft,52.6,19-20,31,de GER,Hertha BSC,de Bundesliga,4,360,4.0,4,0,19,9,19,10,52.6,0.0,3.0,1,0.0,0.0,GK
+146,Régis Gurtner,65.5,19-20,32,fr FRA,Amiens,fr Ligue 1,28,2520,28.0,28,0,0,50,142,93,65.5,4.0,11.0,13,5.0,17.9,GK
+147,Péter Gulácsi,72.4,19-20,29,hu HUN,RB Leipzig,de Bundesliga,32,2880,32.0,32,0,0,34,116,82,72.4,16.0,12.0,4,10.0,31.3,GK
+148,Baptiste Reynet,61.0,19-20,28,fr FRA,Toulouse,fr Ligue 1,23,2035,22.6,22,1,2,49,118,68,61.0,3.0,3.0,16,2.0,9.1,GK
+149,Ørjan Nyland,55.6,19-20,28,no NOR,Aston Villa,eng Premier League,7,539,6.0,5,2,20,12,27,15,55.6,0.0,2.0,3,1.0,20.0,GK
+150,Stefan Bajic,50.0,19-20,17,fr FRA,Saint-Étienne,fr Ligue 1,1,90,1.0,1,0,5,1,2,1,50.0,0.0,0.0,1,0.0,0.0,GK
+151,Stefano Turati,75.0,19-20,17,it ITA,Sassuolo,it Serie A,2,180,2.0,2,0,17,4,12,8,75.0,0.0,2.0,0,0.0,0.0,GK
+152,Leopold Zingerle,64.5,19-20,25,de GER,Paderborn 07,de Bundesliga,28,2520,28.0,28,0,3,57,152,96,64.5,4.0,7.0,17,5.0,17.9,GK
+153,Koke Vegas,80.0,19-20,23,es ESP,Levante,es La Liga,2,180,2.0,2,0,14,2,10,8,80.0,2.0,0.0,0,1.0,50.0,GK
+154,Philipp Pentke,85.7,19-20,34,de GER,Hoffenheim,de Bundesliga,4,360,4.0,4,0,30,4,21,17,85.7,2.0,0.0,2,1.0,25.0,GK
+155,Pavao Pervan,81.1,19-20,31,at AUT,Wolfsburg,de Bundesliga,8,720,8.0,8,0,26,8,37,30,81.1,2.0,4.0,2,3.0,37.5,GK
+156,Jaume Doménech,72.8,19-20,28,es ESP,Valencia,es La Liga,15,1324,14.7,14,1,23,23,81,58,72.8,4.0,4.0,6,3.0,21.4,GK
+157,Niclas Thiede,75.0,19-20,20,de GER,Freiburg,de Bundesliga,1,69,0.8,0,1,16,1,4,3,75.0,0.0,0.0,0,0.0,,GK
+158,Stéphane Ruffier,63.0,19-20,32,fr FRA,Saint-Étienne,fr Ligue 1,22,1980,22.0,22,0,0,40,100,60,63.0,6.0,4.0,12,3.0,13.6,GK
+159,Florian Müller,65.2,19-20,21,de GER,Mainz 05,de Bundesliga,13,1125,12.5,12,1,18,25,66,40,65.2,3.0,2.0,7,2.0,16.7,GK
+160,Joel Robles,71.5,19-20,29,es ESP,Betis,es La Liga,33,2887,32.1,33,0,4,48,130,83,71.5,9.0,11.0,13,5.0,15.2,GK
+161,Iván Villar,54.5,19-20,22,es ESP,Celta Vigo,es La Liga,4,280,3.1,3,1,10,5,11,6,54.5,0.0,1.0,2,1.0,33.3,GK
+162,Kevin Trapp,64.8,19-20,29,de GER,Eint Frankfurt,de Bundesliga,22,1980,22.0,22,0,1,38,105,69,64.8,11.0,3.0,8,4.0,18.2,GK
+163,Alfred Gomis,76.5,19-20,25,sn SEN,Dijon,fr Ligue 1,19,1619,18.0,19,0,2,20,81,62,76.5,6.0,7.0,6,6.0,31.6,GK
+164,Daniele Padelli,62.5,19-20,33,it ITA,Inter,it Serie A,3,270,3.0,3,0,33,4,8,4,62.5,2.0,0.0,1,1.0,25.0,GK
+165,Ben Foster,68.5,19-20,36,eng ENG,Watford,eng Premier League,38,3420,38.0,38,0,0,64,178,116,68.5,8.0,10.0,20,9.0,23.7,GK
+166,Lucas Dias,68.4,19-20,20,fr FRA,Nîmes,fr Ligue 1,4,317,3.5,3,1,24,6,19,13,68.4,0.0,2.0,1,1.0,33.3,GK
+167,Denis Petrić,66.7,19-20,31,rs SRB,Nantes,fr Ligue 1,1,90,1.0,1,0,5,2,6,4,66.7,0.0,0.0,1,0.0,0.0,GK
+168,Koen Casteels,67.6,19-20,27,be BEL,Wolfsburg,de Bundesliga,26,2340,26.0,26,0,0,38,105,67,67.6,11.0,6.0,9,5.0,19.2,GK
+169,Marcin Bułka,100.0,19-20,19,pl POL,Paris S-G,fr Ligue 1,1,90,1.0,1,0,3,0,2,2,100.0,1.0,0.0,0,1.0,100.0,GK
+170,Yvon Mvogo,40.0,19-20,25,ch SUI,RB Leipzig,de Bundesliga,2,180,2.0,2,0,32,3,5,2,40.0,2.0,0.0,0,0.0,0.0,GK
+171,Florian Kastenmeier,62.8,19-20,22,de GER,Düsseldorf,de Bundesliga,17,1530,17.0,17,0,17,31,78,49,62.8,2.0,9.0,6,2.0,11.8,GK
+172,Tomáš Koubek,58.2,19-20,26,cz CZE,Augsburg,de Bundesliga,24,2160,24.0,24,0,9,51,122,72,58.2,6.0,6.0,12,4.0,16.7,GK
+173,Rafael,47.1,19-20,37,br BRA,Cagliari,it Serie A,6,454,5.0,5,1,31,11,17,6,47.1,1.0,1.0,3,0.0,0.0,GK
+174,Angus Gunn,58.2,19-20,23,sct SCO,Southampton,eng Premier League,10,900,10.0,10,0,28,25,55,30,58.2,2.0,2.0,6,2.0,20.0,GK
+175,Pietro Terracciano,91.3,19-20,29,it ITA,Fiorentina,it Serie A,7,624,6.9,7,0,31,5,23,18,91.3,5.0,1.0,1,2.0,28.6,GK
+176,Felix Wiedwald,60.0,19-20,29,de GER,Eint Frankfurt,de Bundesliga,3,270,3.0,3,0,10,8,20,12,60.0,0.0,0.0,3,0.0,0.0,GK
+177,Pepe Reina,67.8,19-20,36,es ESP,2 Teams,2 Comps,13,1170,13.0,13,0,18,21,59,36,67.8,4.0,3.0,6,2.0,14.3,GK
+178,Gianluigi Buffon,72.7,19-20,41,it ITA,Juventus,it Serie A,9,810,9.0,9,0,29,10,33,23,72.7,7.0,1.0,1,1.0,11.1,GK
+179,Dean Henderson,75.0,19-20,22,eng ENG,Sheffield Utd,eng Premier League,36,3240,36.0,36,0,0,33,128,94,75.0,14.0,11.0,11,13.0,36.1,GK
+180,Simon Moore,45.5,19-20,29,eng ENG,Sheffield Utd,eng Premier League,2,180,2.0,2,0,25,6,11,5,45.5,0.0,1.0,1,0.0,0.0,GK
+181,Robin Olsen,77.5,19-20,29,se SWE,Cagliari,it Serie A,17,1524,16.9,17,0,6,24,89,67,77.5,8.0,5.0,4,4.0,23.5,GK
+182,Jannik Huth,51.5,19-20,25,de GER,Paderborn 07,de Bundesliga,6,540,6.0,6,0,28,17,33,16,51.5,0.0,1.0,5,0.0,0.0,GK
+183,Rui Silva,73.2,19-20,25,pt POR,Granada,es La Liga,35,3150,35.0,35,0,1,42,142,99,73.2,15.0,8.0,12,12.0,34.3,GK
+184,Keylor Navas,72.7,19-20,32,cr CRC,2 Teams,2 Comps,21,1890,21.0,21,0,4,18,66,49,72.7,17.0,2.0,2,11.0,52.4,GK
+185,Etrit Berisha,74.1,19-20,30,al ALB,SPAL,it Serie A,26,2340,26.0,26,0,0,44,147,105,74.1,5.0,3.0,18,3.0,11.5,GK
+186,Jan Oblak,78.4,19-20,26,si SVN,Atlético Madrid,es La Liga,38,3395,37.7,38,0,0,27,111,87,78.4,18.0,16.0,4,17.0,44.7,GK
+187,Anthony Lopes,73.3,19-20,28,pt POR,Lyon,fr Ligue 1,26,2340,26.0,26,0,0,25,86,64,73.3,10.0,7.0,9,8.0,30.8,GK
+188,Gianluca Pegolo,85.2,19-20,38,it ITA,Sassuolo,it Serie A,5,450,5.0,5,0,27,4,27,24,85.2,2.0,2.0,1,2.0,40.0,GK
+189,Pierluigi Gollini,70.0,19-20,24,it ITA,Atalanta,it Serie A,33,2884,32.0,33,0,5,42,120,81,70.0,19.0,9.0,5,8.0,24.2,GK
+190,Tim Krul,66.7,19-20,31,nl NED,Norwich City,eng Premier League,36,3240,36.0,36,0,0,68,195,128,66.7,5.0,6.0,25,5.0,13.9,GK
+191,Alessio Cragno,77.5,19-20,25,it ITA,Cagliari,it Serie A,16,1440,16.0,16,0,3,21,89,68,77.5,2.0,6.0,8,3.0,18.8,GK
+192,Yassine Bounou,90.0,19-20,28,ma MAR,Sevilla,es La Liga,6,495,5.5,5,1,27,3,20,17,90.0,4.0,1.0,0,4.0,80.0,GK
+193,Adrián,63.0,19-20,32,es ESP,Liverpool,eng Premier League,11,875,9.7,9,2,27,10,27,17,63.0,9.0,0.0,0,2.0,22.2,GK
+194,Gabriel,70.9,19-20,26,br BRA,Lecce,it Serie A,34,2997,33.3,34,0,2,76,227,152,70.9,6.0,8.0,20,2.0,5.9,GK
+195,Miquel Parera,60.0,19-20,23,es ESP,Mallorca,es La Liga,1,90,1.0,1,0,13,2,5,3,60.0,0.0,1.0,0,0.0,0.0,GK
+196,Mike Maignan,72.3,19-20,24,fr FRA,Lille,fr Ligue 1,28,2520,28.0,28,0,0,27,83,58,72.3,15.0,4.0,9,12.0,42.9,GK
+197,Lorenzo Andrenacci,63.6,19-20,24,it ITA,Brescia,it Serie A,6,531,5.9,5,1,20,16,44,28,63.6,0.0,1.0,4,0.0,0.0,GK
+198,Mark Travers,40.0,19-20,20,ie IRL,Bournemouth,eng Premier League,1,90,1.0,1,0,1,3,5,2,40.0,0.0,0.0,1,0.0,0.0,GK
+1,Alisson,75.7,20-21,27,br BRA,Liverpool,eng Premier League,33,2970,33.0,33,0,0,32,115,82,75.7,18.0,8.0,7,10.0,30.3,GK
+2,Marko Dmitrović,64.3,20-21,28,rs SRB,Eibar,es La Liga,35,3120,34.7,35,0,1,49,129,79,64.3,6.0,11.0,18,9.0,25.7,GK
+3,Yassine Bounou,77.4,20-21,29,ma MAR,Sevilla,es La Liga,33,2970,33.0,33,0,2,28,106,78,77.4,21.0,5.0,7,15.0,45.5,GK
+4,Wojciech Szczęsny,71.4,20-21,30,pl POL,Juventus,it Serie A,30,2677,29.7,30,0,8,32,98,66,71.4,16.0,8.0,6,5.0,16.7,GK
+5,Rubén Yáñez,63.3,20-21,26,es ESP,Getafe,es La Liga,10,900,10.0,10,0,28,12,30,18,63.3,3.0,3.0,4,4.0,40.0,GK
+6,Jasper Cillessen,77.8,20-21,31,nl NED,Valencia,es La Liga,10,900,10.0,10,0,5,11,45,33,77.8,5.0,1.0,4,3.0,30.0,GK
+7,Bartłomiej Drągowski,66.7,20-21,22,pl POL,Fiorentina,it Serie A,36,3148,35.0,36,0,0,55,141,85,66.7,9.0,12.0,15,7.0,19.4,GK
+8,Gianluigi Donnarumma,71.4,20-21,21,it ITA,Milan,it Serie A,37,3330,37.0,37,0,0,38,126,88,71.4,24.0,6.0,7,14.0,37.8,GK
+9,Jiří Pavlenka,66.2,20-21,28,cz CZE,Werder Bremen,de Bundesliga,34,3060,34.0,34,0,0,57,157,101,66.2,7.0,10.0,17,6.0,17.6,GK
+10,Marco Silvestri,72.5,20-21,29,it ITA,Hellas Verona,it Serie A,34,3060,34.0,34,0,4,42,131,91,72.5,11.0,9.0,14,7.0,20.6,GK
+11,Alexander Schwolow,69.4,20-21,28,de GER,Hertha BSC,de Bundesliga,26,2340,26.0,26,0,8,39,108,69,69.4,6.0,10.0,10,8.0,30.8,GK
+12,Tobias Sippel,68.4,20-21,32,de GER,Gladbach,de Bundesliga,4,344,3.8,3,1,30,6,19,13,68.4,1.0,1.0,1,1.0,33.3,GK
+13,Jokin Ezkieta,33.3,20-21,23,es ESP,Athletic Club,es La Liga,1,90,1.0,1,0,36,2,3,1,33.3,0.0,0.0,1,0.0,0.0,GK
+14,Claudio Bravo,72.0,20-21,37,cl CHI,Betis,es La Liga,20,1800,20.0,20,0,5,25,75,50,72.0,8.0,8.0,4,7.0,35.0,GK
+15,Salvatore Sirigu,59.7,20-21,33,it ITA,Torino,it Serie A,32,2880,32.0,32,0,3,62,134,72,59.7,5.0,13.0,14,7.0,21.9,GK
+16,Josep Martinez,50.0,20-21,22,es ESP,RB Leipzig,de Bundesliga,1,90,1.0,1,0,28,2,4,2,50.0,0.0,0.0,1,0.0,0.0,GK
+17,Rafał Gikiewicz,73.0,20-21,32,pl POL,Augsburg,de Bundesliga,34,3060,34.0,34,0,0,54,178,126,73.0,10.0,6.0,18,7.0,20.6,GK
+18,Marek Rodák,55.6,20-21,23,sk SVK,Fulham,eng Premier League,2,180,2.0,2,0,28,5,9,4,55.6,0.0,0.0,2,0.0,0.0,GK
+19,Thibaut Courtois,81.9,20-21,28,be BEL,Real Madrid,es La Liga,38,3420,38.0,38,0,0,28,116,88,81.9,25.0,9.0,4,17.0,44.7,GK
+20,Angelo da Costa Júnior,70.4,20-21,36,br BRA,Bologna,it Serie A,6,540,6.0,6,0,30,9,27,18,70.4,0.0,5.0,1,1.0,16.7,GK
+21,Steve Mandanda,66.9,20-21,35,fr FRA,Marseille,fr Ligue 1,37,3330,37.0,37,0,0,45,127,83,66.9,16.0,12.0,9,8.0,21.6,GK
+22,Ralf Fährmann,67.1,20-21,31,de GER,Schalke 04,de Bundesliga,22,1876,20.8,22,0,2,50,143,94,67.1,3.0,3.0,16,3.0,13.6,GK
+23,Pau López,69.4,20-21,25,es ESP,Roma,it Serie A,21,1817,20.2,20,1,12,29,85,59,69.4,10.0,4.0,6,4.0,20.0,GK
+24,Radosław Majecki,50.0,20-21,20,pl POL,Monaco,fr Ligue 1,1,90,1.0,1,0,27,1,2,1,50.0,1.0,0.0,0,0.0,0.0,GK
+25,Rubén,37.5,20-21,36,es ESP,Osasuna,es La Liga,3,187,2.1,3,0,12,5,8,3,37.5,0.0,2.0,1,0.0,0.0,GK
+26,Benoît Costil,68.6,20-21,33,fr FRA,Bordeaux,fr Ligue 1,38,3420,38.0,38,0,0,56,156,100,68.6,13.0,6.0,19,14.0,36.8,GK
+27,Bernd Leno,69.2,20-21,28,de GER,Arsenal,eng Premier League,35,3131,34.8,35,0,2,37,117,83,69.2,17.0,6.0,12,11.0,31.4,GK
+28,Ivan Provedel,62.6,20-21,26,it ITA,Spezia,it Serie A,29,2610,29.0,29,0,2,55,131,75,62.6,6.0,10.0,13,4.0,13.8,GK
+29,Rune Jarstein,63.6,20-21,35,no NOR,Hertha BSC,de Bundesliga,8,720,8.0,8,0,18,13,33,20,63.6,2.0,1.0,5,1.0,12.5,GK
+30,Jessy Moulin,62.0,20-21,34,fr FRA,Saint-Étienne,fr Ligue 1,29,2610,29.0,29,0,0,42,100,60,62.0,8.0,9.0,12,9.0,31.0,GK
+31,Kepa Arrizabalaga,69.6,20-21,25,es ESP,Chelsea,eng Premier League,7,585,6.5,6,1,28,8,23,15,69.6,2.0,2.0,2,2.0,33.3,GK
+32,Paul Bernardoni,63.3,20-21,23,fr FRA,Angers,fr Ligue 1,38,3420,38.0,38,0,0,58,139,82,63.3,12.0,8.0,18,9.0,23.7,GK
+33,Sébastien Cibois,72.7,20-21,22,fr FRA,Brest,fr Ligue 1,3,270,3.0,3,0,25,4,11,7,72.7,1.0,1.0,1,1.0,33.3,GK
+34,Wuilker Faríñez,71.4,20-21,22,ve VEN,Lens,fr Ligue 1,3,107,1.2,1,2,35,3,7,4,71.4,0.0,0.0,1,0.0,0.0,GK
+35,Paul Nardi,64.9,20-21,26,fr FRA,Lorient,fr Ligue 1,23,2070,23.0,23,0,7,43,111,68,64.9,6.0,4.0,13,3.0,13.0,GK
+36,Marwin Hitz,68.2,20-21,32,ch SUI,Dortmund,de Bundesliga,16,1395,15.5,16,0,15,16,44,29,68.2,11.0,2.0,3,7.0,43.8,GK
+37,Alphonse Areola,73.9,20-21,27,fr FRA,Fulham,eng Premier League,36,3240,36.0,36,0,2,48,161,114,73.9,5.0,13.0,18,9.0,25.0,GK
+38,Benjamin Lecomte,64.7,20-21,29,fr FRA,Monaco,fr Ligue 1,28,2520,28.0,28,0,0,27,68,42,64.7,18.0,5.0,5,13.0,46.4,GK
+39,Antonio Mirante,64.3,20-21,37,it ITA,Roma,it Serie A,13,1153,12.8,13,0,18,22,56,36,64.3,6.0,3.0,4,5.0,38.5,GK
+40,Andrés Fernández,66.7,20-21,33,es ESP,Huesca,es La Liga,16,1440,16.0,16,0,19,21,54,34,66.7,2.0,8.0,6,4.0,25.0,GK
+41,Nícolas Andrade,16.7,20-21,32,br BRA,Udinese,it Serie A,2,180,2.0,2,0,3,5,6,1,16.7,1.0,0.0,1,0.0,0.0,GK
+42,Loris Karius,75.0,20-21,27,de GER,Union Berlin,de Bundesliga,4,292,3.2,3,1,26,1,4,4,75.0,1.0,2.0,0,2.0,66.7,GK
+43,Edouard Mendy,70.7,20-21,28,sn SEN,2 Teams,2 Comps,32,2835,31.5,32,0,3,26,82,56,70.7,17.0,8.0,7,16.0,50.0,GK
+44,Thomas Strakosha,68.4,20-21,25,al ALB,Lazio,it Serie A,9,810,9.0,9,0,19,14,38,24,68.4,3.0,2.0,4,3.0,33.3,GK
+45,Luigi Sepe,59.1,20-21,29,it ITA,Parma,it Serie A,36,3240,36.0,36,0,2,76,181,108,59.1,3.0,11.0,22,5.0,13.9,GK
+46,Alex McCarthy,65.3,20-21,30,eng ENG,Southampton,eng Premier League,30,2700,30.0,30,0,7,57,147,91,65.3,8.0,7.0,15,7.0,23.3,GK
+47,Álex Remiro,66.7,20-21,25,es ESP,Real Sociedad,es La Liga,38,3420,38.0,38,0,0,38,105,67,66.7,17.0,11.0,10,14.0,36.8,GK
+48,Lennart Grill,66.7,20-21,21,de GER,Leverkusen,de Bundesliga,4,360,4.0,4,0,16,7,21,14,66.7,1.0,0.0,3,1.0,25.0,GK
+49,Dimitry Bertaud,76.2,20-21,22,cd COD,Montpellier,fr Ligue 1,9,745,8.3,7,2,25,11,42,31,76.2,4.0,2.0,1,3.0,42.9,GK
+50,Bingourou Kamara,59.4,20-21,23,sn SEN,Strasbourg,fr Ligue 1,8,720,8.0,8,0,14,14,32,19,59.4,2.0,0.0,6,2.0,25.0,GK
+51,Martin Dúbravka,71.0,20-21,31,sk SVK,Newcastle Utd,eng Premier League,13,1170,13.0,13,0,11,19,62,44,71.0,5.0,5.0,3,3.0,23.1,GK
+52,Ederson,77.4,20-21,26,br BRA,Manchester City,eng Premier League,36,3240,36.0,36,0,0,28,93,65,77.4,25.0,5.0,6,19.0,52.8,GK
+53,Timo Horn,66.5,20-21,27,de GER,Köln,de Bundesliga,34,3009,33.4,34,0,0,59,155,95,66.5,8.0,9.0,17,5.0,14.7,GK
+54,Scott Carson,60.0,20-21,34,eng ENG,Manchester City,eng Premier League,1,90,1.0,1,0,3,3,5,1,60.0,1.0,0.0,0,0.0,0.0,GK
+55,Simone Scuffet,75.0,20-21,24,it ITA,Udinese,it Serie A,1,90,1.0,1,0,34,2,4,2,75.0,0.0,0.0,1,0.0,0.0,GK
+56,Yann Sommer,66.7,20-21,31,ch SUI,Gladbach,de Bundesliga,31,2712,30.1,31,0,0,50,132,82,66.7,12.0,9.0,10,6.0,19.4,GK
+57,Zack Steffen,50.0,20-21,25,us USA,Manchester City,eng Premier League,1,90,1.0,1,0,34,1,2,1,50.0,1.0,0.0,0,0.0,0.0,GK
+58,Mathew Ryan,63.6,20-21,28,au AUS,2 Teams,eng Premier League,14,1260,14.0,14,0,13,21,44,24,63.6,3.0,5.0,6,3.0,21.4,GK
+59,Ivor Pandur,53.8,20-21,20,hr CRO,Hellas Verona,it Serie A,4,332,3.7,4,0,34,6,13,7,53.8,0.0,3.0,1,0.0,0.0,GK
+60,Aaron Ramsdale,70.9,20-21,22,eng ENG,Sheffield Utd,eng Premier League,38,3420,38.0,38,0,0,63,206,145,70.9,7.0,2.0,29,5.0,13.2,GK
+61,Oliver Baumann,65.9,20-21,30,de GER,Hoffenheim,de Bundesliga,31,2790,31.0,31,0,0,51,132,81,65.9,10.0,8.0,13,6.0,19.4,GK
+62,Jordan Pickford,71.1,20-21,26,eng ENG,Everton,eng Premier League,31,2742,30.5,31,0,2,39,128,90,71.1,15.0,5.0,11,10.0,32.3,GK
+63,Bailey Peacock-Farrell,41.7,20-21,23,nir NIR,Burnley,eng Premier League,4,360,4.0,4,0,31,14,24,10,41.7,0.0,0.0,4,0.0,0.0,GK
+64,Karlo Letica,100.0,20-21,23,hr CRO,Sampdoria,it Serie A,1,90,1.0,1,0,30,0,1,1,100.0,1.0,0.0,0,1.0,100.0,GK
+65,Nick Pope,77.2,20-21,28,eng ENG,Burnley,eng Premier League,32,2880,32.0,32,0,0,37,149,113,77.2,10.0,9.0,13,11.0,34.4,GK
+66,Mattia Perin,76.6,20-21,27,it ITA,Genoa,it Serie A,32,2879,32.0,32,0,2,44,158,116,76.6,9.0,11.0,12,8.0,25.0,GK
+67,Gian Crespi,100.0,20-21,19,it ITA,Crotone,it Serie A,1,90,1.0,1,0,32,0,1,1,100.0,0.0,1.0,0,1.0,100.0,GK
+68,Alban Lafont,73.2,20-21,21,ci CIV,Nantes,fr Ligue 1,38,3420,38.0,38,0,0,55,168,113,73.2,9.0,13.0,16,5.0,13.2,GK
+69,Kasper Schmeichel,66.2,20-21,33,dk DEN,Leicester City,eng Premier League,38,3420,38.0,38,0,0,50,136,88,66.2,20.0,6.0,12,11.0,28.9,GK
+70,Predrag Rajković,72.2,20-21,24,rs SRB,Reims,fr Ligue 1,37,3285,36.5,37,0,0,49,162,112,72.2,9.0,15.0,13,10.0,27.0,GK
+71,Kiko Casilla,80.0,20-21,33,es ESP,Leeds United,eng Premier League,3,270,3.0,3,0,31,2,10,8,80.0,2.0,0.0,1,1.0,33.3,GK
+72,Robin Zentner,71.1,20-21,25,de GER,Mainz 05,de Bundesliga,31,2790,31.0,31,0,0,46,142,97,71.1,9.0,9.0,13,5.0,16.1,GK
+73,Unai Simón,67.6,20-21,23,es ESP,Athletic Club,es La Liga,37,3330,37.0,37,0,1,40,108,68,67.6,11.0,13.0,13,9.0,24.3,GK
+74,Marc-Aurèle Caillard,69.6,20-21,26,fr FRA,Metz,fr Ligue 1,5,361,4.0,4,1,33,10,23,13,69.6,0.0,1.0,3,0.0,0.0,GK
+75,Sergio Rico,75.0,20-21,26,es ESP,Paris S-G,fr Ligue 1,10,810,9.0,8,2,26,9,36,28,75.0,5.0,1.0,2,5.0,62.5,GK
+76,Yoel,50.0,20-21,31,es ESP,Eibar,es La Liga,4,300,3.3,3,1,34,3,6,3,50.0,0.0,1.0,2,0.0,0.0,GK
+77,Gerónimo Rulli,50.0,20-21,28,ar ARG,Villarreal,es La Liga,2,180,2.0,2,0,32,4,8,4,50.0,0.0,0.0,2,0.0,0.0,GK
+78,Caoimhín Kelleher,85.7,20-21,21,ie IRL,Liverpool,eng Premier League,2,180,2.0,2,0,13,1,7,6,85.7,1.0,0.0,1,1.0,50.0,GK
+79,Darren Randolph,66.7,20-21,33,ie IRL,West Ham,eng Premier League,3,270,3.0,3,0,24,3,9,6,66.7,2.0,0.0,1,1.0,33.3,GK
+80,Paulo Gazzaniga,63.6,20-21,28,ar ARG,Elche,es La Liga,8,720,8.0,8,0,11,9,22,14,63.6,3.0,1.0,4,2.0,25.0,GK
+81,Emil Audero,72.8,20-21,23,id IDN,Sampdoria,it Serie A,37,3330,37.0,37,0,1,54,173,118,72.8,14.0,7.0,16,6.0,16.2,GK
+82,Federico Ravaglia,52.6,20-21,20,it ITA,Bologna,it Serie A,4,360,4.0,4,0,18,10,19,10,52.6,0.0,1.0,3,0.0,0.0,GK
+83,Etienne Green,78.6,20-21,20,eng ENG,Saint-Étienne,fr Ligue 1,8,720,8.0,8,0,3,8,28,19,78.6,4.0,1.0,3,3.0,37.5,GK
+84,Aarón Escandell,66.7,20-21,24,es ESP,Granada,es La Liga,5,450,5.0,5,0,31,8,24,16,66.7,1.0,1.0,3,1.0,20.0,GK
+85,Ionuț Radu,83.3,20-21,23,ro ROU,Inter,it Serie A,2,135,1.5,1,1,33,1,6,5,83.3,1.0,0.0,0,0.0,0.0,GK
+86,Robert Sánchez,72.5,20-21,22,es ESP,Brighton,eng Premier League,27,2430,27.0,27,0,0,27,91,65,72.5,7.0,10.0,10,10.0,37.0,GK
+87,Illan Meslier,76.6,20-21,20,fr FRA,Leeds United,eng Premier League,35,3150,35.0,35,0,2,52,188,137,76.6,16.0,5.0,14,11.0,31.4,GK
+88,Jeremías Ledesma,70.9,20-21,27,ar ARG,Cádiz,es La Liga,32,2880,32.0,32,0,3,45,127,82,70.9,10.0,10.0,12,9.0,28.1,GK
+89,Marc-André ter Stegen,72.6,20-21,28,de GER,Barcelona,es La Liga,31,2790,31.0,31,0,0,32,106,76,72.6,21.0,5.0,5,11.0,35.5,GK
+90,João Virgínia,100.0,20-21,20,pt POR,Everton,eng Premier League,1,48,0.5,0,1,16,0,3,3,100.0,0.0,0.0,0,0.0,,GK
+91,Simone Colombi,40.0,20-21,29,it ITA,Parma,it Serie A,2,180,2.0,2,0,34,7,10,3,40.0,0.0,0.0,2,0.0,0.0,GK
+92,Samir Handanović,73.6,20-21,36,si SVN,Inter,it Serie A,37,3240,36.0,37,0,1,33,110,76,73.6,27.0,7.0,3,14.0,37.8,GK
+93,Romain Salin,74.1,20-21,36,fr FRA,Rennes,fr Ligue 1,15,1350,15.0,15,0,20,14,54,40,74.1,9.0,4.0,2,5.0,33.3,GK
+94,Yohann Pelé,60.0,20-21,37,fr FRA,Marseille,fr Ligue 1,1,90,1.0,1,0,34,2,5,3,60.0,0.0,0.0,1,0.0,0.0,GK
+95,Guglielmo Vicario,71.4,20-21,23,it ITA,Cagliari,it Serie A,4,360,4.0,4,0,34,6,21,15,71.4,3.0,0.0,1,1.0,25.0,GK
+96,Emiliano Martínez,78.0,20-21,27,ar ARG,Aston Villa,eng Premier League,38,3420,38.0,38,0,0,46,186,133,78.0,16.0,7.0,15,15.0,39.5,GK
+97,Rui Patrício,70.3,20-21,32,pt POR,Wolves,eng Premier League,37,3329,37.0,37,0,1,51,148,99,70.3,12.0,9.0,16,10.0,27.0,GK
+98,Tomáš Vaclík,64.3,20-21,31,cz CZE,Sevilla,es La Liga,5,450,5.0,5,0,21,5,14,9,64.3,3.0,0.0,2,2.0,40.0,GK
+99,David de Gea,68.9,20-21,29,es ESP,Manchester Utd,eng Premier League,26,2295,25.5,26,0,7,32,90,59,68.9,12.0,9.0,5,9.0,34.6,GK
+100,Andreas Luthe,71.2,20-21,33,de GER,Union Berlin,de Bundesliga,31,2768,30.8,31,0,0,42,132,89,71.2,11.0,12.0,8,5.0,16.1,GK
+101,Daniel Fuzato,73.1,20-21,23,br BRA,Roma,it Serie A,5,450,5.0,5,0,17,7,26,19,73.1,2.0,1.0,2,2.0,40.0,GK
+102,David Ospina,78.6,20-21,31,co COL,Napoli,it Serie A,16,1440,16.0,16,0,17,12,42,30,78.6,11.0,0.0,5,8.0,50.0,GK
+103,Matz Sels,57.7,20-21,28,be BEL,Strasbourg,fr Ligue 1,6,540,6.0,6,0,2,13,26,13,57.7,1.0,2.0,3,0.0,0.0,GK
+104,Elias Bördner,83.3,20-21,18,de GER,Eint Frankfurt,de Bundesliga,1,90,1.0,1,0,7,1,6,5,83.3,1.0,0.0,0,0.0,0.0,GK
+105,Manuel Neuer,66.7,20-21,34,de GER,Bayern Munich,de Bundesliga,33,2970,33.0,33,0,1,42,123,80,66.7,24.0,5.0,4,9.0,27.3,GK
+106,Walter Benítez,73.9,20-21,27,ar ARG,Nice,fr Ligue 1,38,3420,38.0,38,0,0,53,176,123,73.9,15.0,7.0,16,9.0,23.7,GK
+107,Andrea Consigli,71.9,20-21,33,it ITA,Sassuolo,it Serie A,37,3330,37.0,37,0,0,56,185,129,71.9,17.0,10.0,10,7.0,18.9,GK
+108,Juan Pérez,75.0,20-21,24,es ESP,Osasuna,es La Liga,3,270,3.0,3,0,25,3,8,5,75.0,1.0,1.0,1,1.0,33.3,GK
+109,Hugo Lloris,77.4,20-21,33,fr FRA,Tottenham,eng Premier League,38,3420,38.0,38,0,0,45,155,113,77.4,18.0,8.0,12,12.0,31.6,GK
+110,David Soria,69.1,20-21,27,es ESP,Getafe,es La Liga,28,2520,28.0,28,0,10,31,81,52,69.1,6.0,8.0,14,10.0,35.7,GK
+111,Rúnar Alex Rúnarsson,100.0,20-21,25,is ISL,2 Teams,2 Comps,1,16,0.2,0,1,24,0,2,2,100.0,0.0,0.0,0,0.0,,GK
+112,Jordi Masip,68.7,20-21,31,es ESP,Valladolid,es La Liga,25,2250,25.0,25,0,9,40,115,75,68.7,4.0,9.0,12,2.0,8.0,GK
+113,Niklas Lomb,62.5,20-21,27,de GER,Leverkusen,de Bundesliga,2,135,1.5,1,1,25,3,8,5,62.5,0.0,1.0,0,0.0,0.0,GK
+114,Łukasz Fabiański,70.3,20-21,35,pl POL,West Ham,eng Premier League,35,3150,35.0,35,0,0,44,138,97,70.3,17.0,8.0,10,10.0,28.6,GK
+115,Alberto Cifuentes,50.0,20-21,41,es ESP,Cádiz,es La Liga,2,180,2.0,2,0,2,3,6,2,50.0,1.0,0.0,1,1.0,50.0,GK
+116,Alex Meret,66.7,20-21,23,it ITA,Napoli,it Serie A,22,1980,22.0,22,0,16,29,81,53,66.7,13.0,5.0,4,6.0,27.3,GK
+117,Alberto Paleari,75.0,20-21,27,it ITA,Genoa,it Serie A,3,206,2.3,2,1,27,3,12,9,75.0,1.0,0.0,1,1.0,50.0,GK
+118,Samir Ujkani,66.7,20-21,32,xk KVX,Torino,it Serie A,1,90,1.0,1,0,19,1,3,2,66.7,0.0,1.0,0,0.0,0.0,GK
+119,Rubén Blanco,57.4,20-21,25,es ESP,Celta Vigo,es La Liga,19,1637,18.2,19,0,1,27,61,34,57.4,7.0,6.0,6,4.0,21.1,GK
+120,Fernando Pacheco,61.7,20-21,28,es ESP,Alavés,es La Liga,38,3349,37.2,37,1,0,57,141,84,61.7,9.0,11.0,17,9.0,24.3,GK
+121,Roman Bürki,71.7,20-21,29,ch SUI,Dortmund,de Bundesliga,19,1665,18.5,18,1,9,30,92,62,71.7,9.0,2.0,7,4.0,22.2,GK
+122,Sam Johnstone,71.4,20-21,27,eng ENG,West Brom,eng Premier League,37,3330,37.0,37,0,0,74,234,162,71.4,4.0,11.0,22,6.0,16.2,GK
+123,Sergio Asenjo,72.0,20-21,31,es ESP,Villarreal,es La Liga,36,3240,36.0,36,0,2,40,118,79,72.0,15.0,13.0,8,10.0,27.8,GK
+124,Vanja Milinković-Savić,75.0,20-21,23,rs SRB,Torino,it Serie A,5,450,5.0,5,0,26,6,20,14,75.0,2.0,2.0,1,1.0,20.0,GK
+125,Aitor Fernández,65.8,20-21,29,es ESP,Levante,es La Liga,29,2610,29.0,29,0,7,44,120,78,65.8,8.0,11.0,10,3.0,10.3,GK
+126,Ron-Robert Zieler,100.0,20-21,31,de GER,Köln,de Bundesliga,1,51,0.6,0,1,33,1,3,2,100.0,0.0,0.0,0,0.0,,GK
+127,Juan Musso,74.5,20-21,26,ar ARG,Udinese,it Serie A,35,3147,35.0,35,0,0,51,149,98,74.5,9.0,10.0,16,8.0,22.9,GK
+128,Eiji Kawashima,69.2,20-21,37,jp JPN,Strasbourg,fr Ligue 1,24,2160,24.0,24,0,14,31,91,59,69.2,8.0,7.0,9,8.0,33.3,GK
+129,Sergio Herrera,71.4,20-21,27,es ESP,Osasuna,es La Liga,33,2958,32.9,32,1,4,40,126,86,71.4,10.0,8.0,14,10.0,31.3,GK
+130,Frederik Rønnow,70.1,20-21,27,dk DEN,2 Teams,de Bundesliga,11,945,10.5,10,1,11,24,67,45,70.1,0.0,4.0,6,1.0,10.0,GK
+131,Mark Flekken,77.8,20-21,27,nl NED,Freiburg,de Bundesliga,3,270,3.0,3,0,0,6,18,12,77.8,1.0,1.0,1,0.0,0.0,GK
+132,Neto,83.3,20-21,31,br BRA,Barcelona,es La Liga,7,630,7.0,7,0,28,6,24,18,83.3,3.0,2.0,2,3.0,42.9,GK
+133,Vicente Guaita,63.9,20-21,33,es ESP,Crystal Palace,eng Premier League,37,3330,37.0,37,0,1,64,169,104,63.9,11.0,8.0,18,8.0,21.6,GK
+134,Łukasz Skorupski,72.1,20-21,29,pl POL,Bologna,it Serie A,28,2520,28.0,28,0,2,46,147,100,72.1,10.0,5.0,13,4.0,14.3,GK
+135,Anthony Racioppi,67.7,20-21,21,ch SUI,2 Teams,fr Ligue 1,21,1890,21.0,21,0,16,33,93,59,67.7,2.0,6.0,13,3.0,14.3,GK
+136,Marco Sportiello,57.4,20-21,28,it ITA,Atalanta,it Serie A,15,1261,14.0,13,2,23,21,47,25,57.4,9.0,1.0,3,2.0,15.4,GK
+137,Lukáš Hrádecký,66.3,20-21,30,fi FIN,Leverkusen,de Bundesliga,29,2565,28.5,29,0,0,29,83,55,66.3,13.0,9.0,7,8.0,27.6,GK
+138,Alexandre Oukidja,77.2,20-21,32,dz ALG,Metz,fr Ligue 1,34,3058,34.0,34,0,0,38,127,89,77.2,12.0,10.0,12,8.0,23.5,GK
+139,Alexander Nübel,50.0,20-21,23,de GER,Bayern Munich,de Bundesliga,1,90,1.0,1,0,26,2,4,2,50.0,0.0,1.0,0,0.0,0.0,GK
+140,Saturnin Allagbé,56.1,20-21,26,bj BEN,Dijon,fr Ligue 1,12,1080,12.0,12,0,20,30,66,36,56.1,2.0,2.0,8,3.0,25.0,GK
+141,Ciprian Tătărușanu,71.4,20-21,34,ro ROU,2 Teams,2 Comps,1,90,1.0,1,0,38,3,7,4,71.4,0.0,1.0,0,0.0,0.0,GK
+142,Ángel,88.9,20-21,18,es ESP,Granada,es La Liga,1,90,1.0,1,0,0,2,9,6,88.9,0.0,0.0,1,0.0,0.0,GK
+143,Gautier Larsonneur,68.0,20-21,23,fr FRA,Brest,fr Ligue 1,35,3150,35.0,35,0,3,62,169,108,68.0,10.0,7.0,18,6.0,17.1,GK
+144,Roberto,67.4,20-21,34,es ESP,Valladolid,es La Liga,13,1170,13.0,13,0,22,17,46,29,67.4,1.0,7.0,5,1.0,7.7,GK
+145,Péter Gulácsi,66.3,20-21,30,hu HUN,RB Leipzig,de Bundesliga,33,2970,33.0,33,0,0,30,80,50,66.3,19.0,8.0,6,15.0,45.5,GK
+146,Baptiste Reynet,66.8,20-21,29,fr FRA,Nîmes,fr Ligue 1,38,3420,38.0,38,0,0,71,196,122,66.8,9.0,8.0,21,8.0,21.1,GK
+147,Koke Vegas,50.0,20-21,24,es ESP,Levante,es La Liga,1,90,1.0,1,0,18,2,4,2,50.0,0.0,0.0,1,0.0,0.0,GK
+148,Stefan Ortega,72.4,20-21,27,de GER,Arminia,de Bundesliga,34,3060,34.0,34,0,0,52,170,118,72.4,9.0,8.0,17,11.0,32.4,GK
+149,Marco Festa,87.5,20-21,28,it ITA,Crotone,it Serie A,1,90,1.0,1,0,36,1,8,7,87.5,0.0,1.0,0,0.0,0.0,GK
+150,Lorenzo Montipò,59.3,20-21,24,it ITA,Benevento,it Serie A,37,3330,37.0,37,0,0,74,172,103,59.3,7.0,11.0,19,7.0,18.9,GK
+151,Fraser Forster,71.0,20-21,32,eng ENG,Southampton,eng Premier League,8,720,8.0,8,0,30,11,31,19,71.0,4.0,0.0,4,2.0,25.0,GK
+152,Vito Mannone,63.6,20-21,32,it ITA,Monaco,fr Ligue 1,9,810,9.0,9,0,13,14,33,19,63.6,5.0,1.0,3,2.0,22.2,GK
+153,Philipp Pentke,76.9,20-21,35,de GER,Hoffenheim,de Bundesliga,3,270,3.0,3,0,30,3,13,10,76.9,1.0,2.0,0,0.0,0.0,GK
+154,Jonas Omlin,74.2,20-21,26,ch SUI,Montpellier,fr Ligue 1,31,2673,29.7,31,0,0,51,155,106,74.2,10.0,10.0,11,2.0,6.5,GK
+155,Will Norris,33.3,20-21,26,eng ENG,Burnley,eng Premier League,2,180,2.0,2,0,15,4,6,2,33.3,0.0,0.0,2,0.0,0.0,GK
+156,Pavao Pervan,71.4,20-21,32,at AUT,Wolfsburg,de Bundesliga,2,180,2.0,2,0,30,4,14,10,71.4,0.0,1.0,1,0.0,0.0,GK
+157,Jaume Doménech,70.8,20-21,29,es ESP,Valencia,es La Liga,28,2520,28.0,28,0,10,42,130,88,70.8,5.0,12.0,11,4.0,14.3,GK
+158,Florian Müller,72.0,20-21,22,de GER,Freiburg,de Bundesliga,31,2790,31.0,31,0,0,46,157,112,72.0,11.0,8.0,12,6.0,19.4,GK
+159,Jeroen Zoet,69.0,20-21,29,nl NED,Spezia,it Serie A,7,603,6.7,7,0,13,12,29,17,69.0,3.0,1.0,3,0.0,0.0,GK
+160,Jack Butland,60.0,20-21,27,eng ENG,Crystal Palace,eng Premier League,1,90,1.0,1,0,30,2,5,3,60.0,1.0,0.0,0,0.0,0.0,GK
+161,Gregor Kobel,68.8,20-21,22,ch SUI,Stuttgart,de Bundesliga,33,2970,33.0,33,0,0,54,157,102,68.8,11.0,9.0,13,5.0,15.2,GK
+162,Joel Robles,65.6,20-21,30,es ESP,Betis,es La Liga,18,1620,18.0,18,0,20,25,61,37,65.6,9.0,2.0,7,6.0,33.3,GK
+163,Karl Darlow,68.3,20-21,29,wls WAL,Newcastle Utd,eng Premier League,25,2250,25.0,25,0,6,43,126,84,68.3,7.0,4.0,14,4.0,16.0,GK
+164,Iván Villar,68.8,20-21,23,es ESP,Celta Vigo,es La Liga,21,1781,19.8,19,2,17,30,77,47,68.8,7.0,5.0,7,5.0,26.3,GK
+165,Kevin Trapp,68.0,20-21,30,de GER,Eint Frankfurt,de Bundesliga,33,2970,33.0,33,0,1,52,150,99,68.0,15.0,12.0,6,4.0,12.1,GK
+166,Alfred Gomis,72.9,20-21,26,sn SEN,2 Teams,fr Ligue 1,27,2430,27.0,27,0,4,35,107,74,72.9,7.0,6.0,14,5.0,18.5,GK
+167,Daniele Padelli,100.0,20-21,34,it ITA,Inter,it Serie A,1,45,0.5,0,1,32,1,2,1,100.0,0.0,0.0,0,0.0,,GK
+168,Michael Langer,50.0,20-21,35,at AUT,Schalke 04,de Bundesliga,3,239,2.7,2,1,18,12,24,13,50.0,0.0,0.0,2,0.0,0.0,GK
+169,Fabian Bredlow,88.9,20-21,25,de GER,Stuttgart,de Bundesliga,1,90,1.0,1,0,33,1,9,8,88.9,1.0,0.0,0,0.0,0.0,GK
+170,John Ruddy,75.0,20-21,33,eng ENG,Wolves,eng Premier League,2,91,1.0,1,1,36,1,4,3,75.0,0.0,0.0,1,0.0,0.0,GK
+171,Koen Casteels,72.2,20-21,28,be BEL,Wolfsburg,de Bundesliga,32,2880,32.0,32,0,0,33,108,74,72.2,17.0,9.0,6,14.0,43.8,GK
+172,Marcin Bułka,66.7,20-21,20,pl POL,Paris S-G,fr Ligue 1,1,90,1.0,1,0,3,1,3,2,66.7,0.0,0.0,1,0.0,0.0,GK
+173,Rafael,72.2,20-21,38,br BRA,Spezia,it Serie A,3,207,2.3,2,1,11,5,18,13,72.2,0.0,1.0,1,1.0,50.0,GK
+174,Finn Dahmen,55.0,20-21,22,de GER,Mainz 05,de Bundesliga,3,270,3.0,3,0,31,10,20,10,55.0,1.0,0.0,2,0.0,0.0,GK
+175,Dani Cárdenas,71.8,20-21,23,es ESP,Levante,es La Liga,8,720,8.0,8,0,28,11,39,28,71.8,1.0,3.0,4,1.0,12.5,GK
+176,Pietro Terracciano,63.6,20-21,30,it ITA,Fiorentina,it Serie A,4,272,3.0,2,2,34,4,11,7,63.6,0.0,1.0,1,2.0,100.0,GK
+177,Pepe Reina,70.8,20-21,37,es ESP,Lazio,it Serie A,29,2610,29.0,29,0,9,41,113,74,70.8,18.0,3.0,8,9.0,31.0,GK
+178,Gianluigi Buffon,85.7,20-21,42,it ITA,Juventus,it Serie A,8,720,8.0,8,0,26,5,21,15,85.7,7.0,1.0,0,3.0,37.5,GK
+179,Édgar Badía,70.9,20-21,28,es ESP,Elche,es La Liga,30,2700,30.0,30,0,8,46,141,92,70.9,5.0,11.0,14,5.0,16.7,GK
+180,Niccolò Manfredini,80.0,20-21,32,it ITA,Benevento,it Serie A,1,90,1.0,1,0,37,1,5,4,80.0,0.0,1.0,0,0.0,0.0,GK
+181,Dean Henderson,76.5,20-21,23,eng ENG,Manchester Utd,eng Premier League,13,1125,12.5,12,1,25,12,51,39,76.5,9.0,2.0,1,4.0,33.3,GK
+182,David Button,66.7,20-21,31,eng ENG,West Brom,eng Premier League,1,90,1.0,1,0,37,2,6,4,66.7,1.0,0.0,0,0.0,0.0,GK
+183,Alex Cordaz,58.5,20-21,37,it ITA,Crotone,it Serie A,36,3240,36.0,36,0,1,91,207,118,58.5,6.0,3.0,27,2.0,5.6,GK
+184,Robin Olsen,73.3,20-21,30,se SWE,2 Teams,2 Comps,7,630,7.0,7,0,22,9,30,21,73.3,2.0,3.0,2,2.0,28.6,GK
+185,Rui Silva,63.5,20-21,26,pt POR,Granada,es La Liga,32,2880,32.0,32,0,3,55,137,79,63.5,12.0,6.0,14,8.0,25.0,GK
+186,Alessandro Berardi,100.0,20-21,29,it ITA,Hellas Verona,it Serie A,1,28,0.3,0,1,36,0,1,1,100.0,0.0,0.0,0,0.0,,GK
+187,Keylor Navas,81.5,20-21,33,cr CRC,Paris S-G,fr Ligue 1,29,2520,28.0,29,0,1,18,92,73,81.5,21.0,3.0,5,14.0,48.3,GK
+188,Jean-Louis Leca,69.9,20-21,34,fr FRA,Lens,fr Ligue 1,37,3313,36.8,37,0,0,51,136,88,69.9,15.0,12.0,10,8.0,21.6,GK
+189,Jan Oblak,80.3,20-21,27,si SVN,Atlético Madrid,es La Liga,38,3420,38.0,38,0,0,25,122,98,80.3,26.0,8.0,4,18.0,47.4,GK
+190,Yehvann Diouf,100.0,20-21,20,sn SEN,Reims,fr Ligue 1,2,135,1.5,1,1,32,1,6,5,100.0,0.0,0.0,1,0.0,0.0,GK
+191,Anthony Lopes,71.6,20-21,29,pt POR,Lyon,fr Ligue 1,38,3420,38.0,38,0,0,43,134,92,71.6,22.0,10.0,6,11.0,28.9,GK
+192,Gianluca Pegolo,100.0,20-21,39,it ITA,Sassuolo,it Serie A,1,90,1.0,1,0,34,0,1,1,100.0,0.0,1.0,0,1.0,100.0,GK
+193,Pierluigi Gollini,66.2,20-21,25,it ITA,Atalanta,it Serie A,25,2156,24.0,25,0,7,26,65,38,66.2,14.0,8.0,3,9.0,36.0,GK
+194,Álvaro Fernández,68.4,20-21,22,es ESP,Huesca,es La Liga,22,1980,22.0,22,0,16,32,95,64,68.4,5.0,5.0,12,5.0,22.7,GK
+195,Alessio Cragno,73.6,20-21,26,it ITA,Cagliari,it Serie A,34,3060,34.0,34,0,0,53,182,129,73.6,6.0,10.0,18,6.0,17.6,GK
+196,Carlo Pinsoglio,50.0,20-21,30,it ITA,Juventus,it Serie A,1,23,0.3,0,1,34,1,2,1,50.0,0.0,0.0,0,0.0,,GK
+197,Adrián,50.0,20-21,33,es ESP,Liverpool,eng Premier League,3,270,3.0,3,0,27,9,18,9,50.0,1.0,1.0,1,1.0,33.3,GK
+198,Federico Marchetti,38.9,20-21,37,it ITA,Genoa,it Serie A,4,334,3.7,4,0,25,11,18,7,38.9,0.0,1.0,3,0.0,0.0,GK
+199,Matthieu Dreyer,66.1,20-21,31,fr FRA,Lorient,fr Ligue 1,15,1350,15.0,15,0,23,25,56,32,66.1,5.0,5.0,5,2.0,13.3,GK
+200,Mike Maignan,79.4,20-21,25,fr FRA,Lille,fr Ligue 1,38,3420,38.0,38,0,0,23,107,85,79.4,24.0,11.0,3,21.0,55.3,GK
+201,David Gil,47.1,20-21,26,es ESP,Cádiz,es La Liga,4,360,4.0,4,0,34,10,17,7,47.1,0.0,1.0,3,0.0,0.0,GK
+1,Wojciech Szczęsny,75.2,21-22,31,pl POL,Juventus,it Serie A,33,2970,33.0,33,0,4,29,105,73,75.2,18.0,9.0,6,12.0,36.4,GK
+2,Jasper Cillessen,68.8,21-22,32,nl NED,Valencia,es La Liga,17,1457,16.2,17,0,12,29,77,49,68.8,4.0,8.0,5,3.0,17.6,GK
+3,Bartłomiej Drągowski,73.1,21-22,23,pl POL,Fiorentina,it Serie A,7,556,6.2,7,0,18,8,26,17,73.1,3.0,0.0,4,2.0,28.6,GK
+4,Gianluigi Donnarumma,73.8,21-22,22,it ITA,Paris S-G,fr Ligue 1,17,1530,17.0,17,0,15,17,61,45,73.8,13.0,2.0,2,5.0,29.4,GK
+5,Francesco Bardi,77.8,21-22,29,it ITA,Bologna,it Serie A,2,177,2.0,2,0,36,2,9,7,77.8,1.0,1.0,0,0.0,0.0,GK
+6,Marco Silvestri,68.1,21-22,30,it ITA,Udinese,it Serie A,35,3150,35.0,35,0,0,50,141,92,68.1,10.0,14.0,11,7.0,20.0,GK
+7,Alexander Schwolow,62.6,21-22,29,de GER,Hertha BSC,de Bundesliga,25,2175,24.2,25,0,0,51,123,72,62.6,7.0,5.0,13,4.0,16.0,GK
+8,Tobias Sippel,66.7,21-22,33,de GER,Gladbach,de Bundesliga,1,90,1.0,1,0,33,1,3,2,66.7,0.0,1.0,0,0.0,0.0,GK
+9,Boris Radunović,76.5,21-22,25,rs SRB,Cagliari,it Serie A,3,270,3.0,3,0,33,5,17,11,76.5,0.0,2.0,1,1.0,33.3,GK
+10,Claudio Bravo,67.9,21-22,38,cl CHI,Betis,es La Liga,17,1456,16.2,17,0,11,19,56,39,67.9,8.0,4.0,5,5.0,29.4,GK
+11,Salvatore Sirigu,69.4,21-22,34,it ITA,Genoa,it Serie A,37,3330,37.0,37,0,1,59,180,122,69.4,4.0,16.0,17,10.0,27.0,GK
+12,Josep Martinez,25.0,21-22,23,es ESP,RB Leipzig,de Bundesliga,1,90,1.0,1,0,33,3,4,1,25.0,0.0,0.0,1,0.0,0.0,GK
+13,Niki Mäenpää,73.8,21-22,36,fi FIN,Venezia,it Serie A,17,1485,16.5,16,1,13,27,84,57,73.8,1.0,4.0,11,1.0,6.3,GK
+14,Rafał Gikiewicz,67.3,21-22,33,pl POL,Augsburg,de Bundesliga,34,3060,34.0,34,0,0,56,156,102,67.3,10.0,8.0,16,9.0,26.5,GK
+15,Javier Díaz,50.0,21-22,24,es ESP,Sevilla,es La Liga,1,90,1.0,1,0,33,1,2,1,50.0,0.0,1.0,0,0.0,0.0,GK
+16,Thibaut Courtois,77.5,21-22,29,be BEL,Real Madrid,es La Liga,36,3240,36.0,36,0,1,29,120,91,77.5,26.0,7.0,3,16.0,44.4,GK
+17,Freddie Woodman,54.5,21-22,24,eng ENG,Newcastle Utd,eng Premier League,4,360,4.0,4,0,1,12,22,9,54.5,0.0,1.0,3,0.0,0.0,GK
+18,Daniel Bachmann,65.3,21-22,27,at AUT,Watford,eng Premier League,12,1080,12.0,12,0,25,28,72,46,65.3,1.0,0.0,11,0.0,0.0,GK
+19,Steve Mandanda,73.1,21-22,36,fr FRA,Marseille,fr Ligue 1,9,810,9.0,9,0,28,7,26,20,73.1,6.0,2.0,1,5.0,55.6,GK
+20,Sergio Romero,74.3,21-22,34,ar ARG,Venezia,it Serie A,16,1440,16.0,16,0,1,33,105,74,74.3,3.0,4.0,9,3.0,18.8,GK
+21,Pau López,68.6,21-22,26,es ESP,Marseille,fr Ligue 1,29,2610,29.0,29,0,7,31,86,55,68.6,15.0,6.0,8,10.0,34.5,GK
+22,Benoît Costil,57.1,21-22,34,fr FRA,Bordeaux,fr Ligue 1,25,2250,25.0,25,0,4,62,133,72,57.1,3.0,8.0,14,0.0,0.0,GK
+23,Sascha Burchert,65.3,21-22,31,de GER,Greuther Fürth,de Bundesliga,14,1260,14.0,14,0,17,28,72,46,65.3,2.0,4.0,8,3.0,21.4,GK
+24,Bernd Leno,52.6,21-22,29,de GER,Arsenal,eng Premier League,4,360,4.0,4,0,29,9,19,10,52.6,1.0,0.0,3,1.0,25.0,GK
+25,Ivan Provedel,73.9,21-22,27,it ITA,Spezia,it Serie A,31,2761,30.7,31,0,7,52,165,116,73.9,9.0,5.0,17,7.0,22.6,GK
+26,Jason Steele,60.0,21-22,30,eng ENG,Brighton,eng Premier League,1,90,1.0,1,0,32,2,5,3,60.0,0.0,0.0,1,0.0,0.0,GK
+27,Jessy Moulin,75.0,21-22,35,fr FRA,Troyes,fr Ligue 1,7,630,7.0,7,0,18,8,24,16,75.0,1.0,3.0,3,1.0,14.3,GK
+28,Kepa Arrizabalaga,84.6,21-22,26,es ESP,Chelsea,eng Premier League,4,360,4.0,4,0,34,2,13,11,84.6,2.0,1.0,1,2.0,50.0,GK
+29,Paul Bernardoni,65.5,21-22,24,fr FRA,2 Teams,fr Ligue 1,32,2880,32.0,32,0,0,56,139,85,65.5,9.0,10.0,13,7.0,21.9,GK
+30,Wuilker Faríñez,68.9,21-22,23,ve VEN,Lens,fr Ligue 1,13,1105,12.3,11,2,23,15,45,30,68.9,7.0,3.0,1,3.0,27.3,GK
+31,Paul Nardi,62.6,21-22,27,fr FRA,Lorient,fr Ligue 1,22,1980,22.0,22,0,16,38,91,56,62.6,3.0,8.0,11,4.0,18.2,GK
+32,Marwin Hitz,60.0,21-22,33,ch SUI,Dortmund,de Bundesliga,5,405,4.5,4,1,28,12,25,13,60.0,1.0,0.0,3,0.0,0.0,GK
+33,Alphonse Areola,66.7,21-22,28,fr FRA,West Ham,eng Premier League,1,90,1.0,1,0,37,1,3,2,66.7,0.0,0.0,1,0.0,0.0,GK
+34,Dominik Greif,50.0,21-22,24,sk SVK,Mallorca,es La Liga,1,90,1.0,1,0,13,3,6,3,50.0,0.0,0.0,1,0.0,0.0,GK
+35,Andriy Lunin,88.9,21-22,22,ua UKR,Real Madrid,es La Liga,2,180,2.0,2,0,32,2,9,6,88.9,0.0,1.0,1,0.0,0.0,GK
+36,Luís Maximiano,71.8,21-22,22,pt POR,Granada,es La Liga,35,3136,34.8,35,0,2,55,177,122,71.8,8.0,12.0,15,7.0,20.0,GK
+37,Edouard Mendy,75.5,21-22,29,sn SEN,Chelsea,eng Premier League,34,3060,34.0,34,0,0,31,102,72,75.5,19.0,10.0,5,14.0,41.2,GK
+38,Thomas Strakosha,67.4,21-22,26,al ALB,Lazio,it Serie A,23,2070,23.0,23,0,15,29,86,58,67.4,12.0,6.0,5,7.0,30.4,GK
+39,Luigi Sepe,73.1,21-22,30,it ITA,Salernitana,it Serie A,16,1392,15.5,16,0,0,24,78,54,73.1,4.0,8.0,4,1.0,6.3,GK
+40,Alex McCarthy,62.0,21-22,31,eng ENG,Southampton,eng Premier League,17,1530,17.0,17,0,1,27,71,44,62.0,3.0,7.0,7,5.0,29.4,GK
+41,Álex Remiro,75.0,21-22,26,es ESP,Real Sociedad,es La Liga,35,3150,35.0,35,0,3,32,112,79,75.0,15.0,11.0,9,19.0,54.3,GK
+42,Lennart Grill,66.7,21-22,22,de GER,Leverkusen,de Bundesliga,1,90,1.0,1,0,14,2,6,5,66.7,1.0,0.0,0,0.0,0.0,GK
+43,Dimitry Bertaud,68.4,21-22,23,cd COD,Montpellier,fr Ligue 1,11,833,9.3,9,2,25,20,57,37,68.4,2.0,3.0,4,2.0,22.2,GK
+44,Martin Dúbravka,67.9,21-22,32,sk SVK,Newcastle Utd,eng Premier League,26,2340,26.0,26,0,3,35,106,72,67.9,13.0,4.0,9,8.0,30.8,GK
+45,Ederson,69.9,21-22,27,br BRA,Manchester City,eng Premier League,37,3330,37.0,37,0,0,26,83,57,69.9,28.0,6.0,3,20.0,54.1,GK
+46,Timo Horn,62.5,21-22,28,de GER,Köln,de Bundesliga,13,1170,13.0,13,0,13,21,56,36,62.5,4.0,6.0,3,1.0,7.7,GK
+47,Marco Bizot,68.8,21-22,30,nl NED,Brest,fr Ligue 1,38,3420,38.0,38,0,0,57,170,115,68.8,13.0,9.0,16,7.0,18.4,GK
+48,Ivo Grbić,69.4,21-22,25,hr CRO,2 Teams,2 Comps,21,1890,21.0,21,0,12,28,85,58,69.4,8.0,7.0,6,2.0,9.5,GK
+49,Kristoffer Klaesson,100.0,21-22,20,no NOR,Leeds United,eng Premier League,1,36,0.4,0,1,37,0,4,4,100.0,0.0,0.0,0,0.0,,GK
+50,Yann Sommer,68.7,21-22,32,ch SUI,Gladbach,de Bundesliga,33,2970,33.0,33,0,1,60,182,120,68.7,12.0,8.0,13,5.0,15.2,GK
+51,Zack Steffen,100.0,21-22,26,us USA,Manchester City,eng Premier League,1,90,1.0,1,0,29,0,2,2,100.0,1.0,0.0,0,1.0,100.0,GK
+52,Mathew Ryan,73.3,21-22,29,au AUS,Real Sociedad,es La Liga,3,270,3.0,3,0,32,5,15,10,73.3,2.0,0.0,1,1.0,33.3,GK
+53,Ivor Pandur,66.7,21-22,21,hr CRO,Hellas Verona,it Serie A,3,270,3.0,3,0,20,6,15,9,66.7,1.0,0.0,2,0.0,0.0,GK
+54,Aaron Ramsdale,73.4,21-22,23,eng ENG,Arsenal,eng Premier League,34,3060,34.0,34,0,2,39,128,90,73.4,21.0,3.0,10,12.0,35.3,GK
+55,Oliver Baumann,64.5,21-22,31,de GER,Hoffenheim,de Bundesliga,33,2970,33.0,33,0,0,57,155,98,64.5,12.0,7.0,14,8.0,24.2,GK
+56,Jordan Pickford,66.5,21-22,27,eng ENG,Everton,eng Premier League,35,3150,35.0,35,0,0,58,170,116,66.5,10.0,6.0,19,7.0,20.0,GK
+57,Nick Pope,74.5,21-22,29,eng ENG,Burnley,eng Premier League,36,3240,36.0,36,0,0,47,165,119,74.5,7.0,14.0,15,9.0,25.0,GK
+58,Mattia Perin,56.3,21-22,28,it ITA,Juventus,it Serie A,5,405,4.5,5,0,32,7,16,10,56.3,2.0,1.0,2,1.0,20.0,GK
+59,Andreas Linde,62.9,21-22,28,se SWE,Greuther Fürth,de Bundesliga,12,1080,12.0,12,0,4,24,62,39,62.9,1.0,5.0,6,3.0,25.0,GK
+60,Alban Lafont,71.6,21-22,22,ci CIV,Nantes,fr Ligue 1,38,3420,38.0,38,0,0,48,155,105,71.6,15.0,10.0,13,8.0,21.1,GK
+61,Vid Belec,65.9,21-22,31,si SVN,Salernitana,it Serie A,23,1938,21.5,21,2,15,49,135,87,65.9,3.0,2.0,16,1.0,4.8,GK
+62,Kasper Schmeichel,72.7,21-22,34,dk DEN,Leicester City,eng Premier League,37,3330,37.0,37,0,1,58,187,128,72.7,13.0,10.0,14,7.0,18.9,GK
+63,Luca Gemello,100.0,21-22,21,it ITA,Torino,it Serie A,1,90,1.0,1,0,27,0,3,3,100.0,1.0,0.0,0,1.0,100.0,GK
+64,Marcel Lotka,65.3,21-22,20,pl POL,Hertha BSC,de Bundesliga,10,885,9.8,9,1,3,20,49,29,65.3,2.0,1.0,6,2.0,22.2,GK
+65,Predrag Rajković,75.8,21-22,25,rs SRB,Reims,fr Ligue 1,38,3420,38.0,38,0,0,44,161,116,75.8,11.0,13.0,14,11.0,28.9,GK
+66,Kiko Casilla,71.7,21-22,34,es ESP,Elche,es La Liga,14,1260,14.0,14,0,20,17,60,43,71.7,3.0,4.0,7,3.0,21.4,GK
+67,Robin Zentner,68.3,21-22,26,de GER,Mainz 05,de Bundesliga,32,2880,32.0,32,0,2,42,120,78,68.3,12.0,6.0,14,10.0,31.3,GK
+68,Unai Simón,74.8,21-22,24,es ESP,Athletic Club,es La Liga,34,3060,34.0,34,0,0,31,111,81,74.8,13.0,11.0,10,12.0,35.3,GK
+69,Marc-Aurèle Caillard,67.8,21-22,27,fr FRA,Metz,fr Ligue 1,19,1542,17.1,17,2,15,30,87,57,67.8,4.0,5.0,8,5.0,29.4,GK
+70,Sergio Rico,55.0,21-22,27,es ESP,2 Teams,2 Comps,15,1283,14.3,14,1,10,30,60,31,55.0,4.0,0.0,10,1.0,7.1,GK
+71,Manolo Reina,68.0,21-22,36,es ESP,Mallorca,es La Liga,21,1890,21.0,21,0,13,26,75,49,68.0,6.0,9.0,6,8.0,38.1,GK
+72,Ouparine Djoco,65.7,21-22,23,gw GNB,Clermont Foot,fr Ligue 1,24,2116,23.5,23,1,14,36,99,65,65.7,6.0,4.0,13,5.0,21.7,GK
+73,Gerónimo Rulli,75.0,21-22,29,ar ARG,Villarreal,es La Liga,32,2880,32.0,32,0,6,28,100,72,75.0,14.0,9.0,9,14.0,43.8,GK
+74,Stefanos Kapino,100.0,21-22,27,gr GRE,Arminia,de Bundesliga,1,90,1.0,1,0,29,0,4,4,100.0,1.0,0.0,0,1.0,100.0,GK
+75,Caoimhín Kelleher,75.0,21-22,22,ie IRL,Liverpool,eng Premier League,2,180,2.0,2,0,34,2,8,6,75.0,1.0,1.0,0,1.0,50.0,GK
+76,Emil Audero,63.8,21-22,24,id IDN,Sampdoria,it Serie A,29,2560,28.4,29,0,7,48,130,82,63.8,8.0,5.0,16,5.0,17.2,GK
+77,Etienne Green,61.2,21-22,21,eng ENG,Saint-Étienne,fr Ligue 1,15,1197,13.3,15,0,18,27,67,42,61.2,2.0,5.0,8,1.0,6.7,GK
+78,Aarón Escandell,75.0,21-22,25,es ESP,Granada,es La Liga,4,284,3.2,3,1,31,6,16,10,75.0,0.0,2.0,1,1.0,33.3,GK
+79,Ionuț Radu,33.3,21-22,24,ro ROU,Inter,it Serie A,1,90,1.0,1,0,37,2,3,1,33.3,0.0,0.0,1,0.0,0.0,GK
+80,Robert Sánchez,72.3,21-22,23,es ESP,Brighton,eng Premier League,37,3329,37.0,37,0,0,42,141,99,72.3,12.0,15.0,10,11.0,29.7,GK
+81,Illan Meslier,66.4,21-22,21,fr FRA,Leeds United,eng Premier League,38,3384,37.6,38,0,0,79,220,142,66.4,9.0,11.0,18,5.0,13.2,GK
+82,Jeremías Ledesma,76.5,21-22,28,ar ARG,Cádiz,es La Liga,38,3420,38.0,38,0,0,51,170,117,76.5,8.0,15.0,15,13.0,34.2,GK
+83,Marc-André ter Stegen,70.6,21-22,29,de GER,Barcelona,es La Liga,35,3150,35.0,35,0,0,34,109,74,70.6,19.0,9.0,7,11.0,31.4,GK
+84,Diego López,70.7,21-22,39,es ESP,Espanyol,es La Liga,36,3177,35.3,36,0,0,49,157,110,70.7,10.0,12.0,14,9.0,25.0,GK
+85,Samir Handanović,79.0,21-22,37,si SVN,Inter,it Serie A,37,3330,37.0,37,0,1,30,124,95,79.0,25.0,9.0,3,15.0,40.5,GK
+86,Romain Salin,33.3,21-22,37,fr FRA,Rennes,fr Ligue 1,1,90,1.0,1,0,23,2,3,1,33.3,0.0,0.0,1,0.0,0.0,GK
+87,Wayne Hennessey,53.8,21-22,34,wls WAL,Burnley,eng Premier League,2,180,2.0,2,0,36,6,13,8,53.8,0.0,0.0,2,0.0,0.0,GK
+88,Guglielmo Vicario,69.9,21-22,24,it ITA,Empoli,it Serie A,38,3420,38.0,38,0,0,70,216,150,69.9,10.0,11.0,17,7.0,18.4,GK
+89,Emiliano Martínez,68.6,21-22,28,ar ARG,Aston Villa,eng Premier League,36,3240,36.0,36,0,0,48,140,93,68.6,13.0,6.0,17,11.0,30.6,GK
+90,Rui Patrício,74.0,21-22,33,pt POR,Roma,it Serie A,38,3420,38.0,38,0,0,43,146,104,74.0,18.0,9.0,11,15.0,39.5,GK
+91,Alisson,75.8,21-22,28,br BRA,Liverpool,eng Premier League,36,3240,36.0,36,0,0,24,99,76,75.8,27.0,7.0,2,20.0,55.6,GK
+92,Asmir Begović,61.1,21-22,34,ba BIH,Everton,eng Premier League,3,270,3.0,3,0,35,8,18,11,61.1,1.0,0.0,2,1.0,33.3,GK
+93,Francesco Rossi,50.0,21-22,30,it ITA,Atalanta,it Serie A,1,37,0.4,0,1,35,1,2,1,50.0,0.0,0.0,0,0.0,,GK
+94,David de Gea,70.0,21-22,30,es ESP,Manchester Utd,eng Premier League,38,3420,38.0,38,0,0,57,180,124,70.0,16.0,10.0,12,8.0,21.1,GK
+95,Sven Ulreich,56.5,21-22,32,de GER,Bayern Munich,de Bundesliga,6,540,6.0,6,0,18,11,23,13,56.5,2.0,1.0,3,1.0,16.7,GK
+96,Andreas Luthe,64.4,21-22,34,de GER,Union Berlin,de Bundesliga,27,2430,27.0,27,0,3,39,104,68,64.4,11.0,7.0,9,6.0,22.2,GK
+97,David Ospina,77.4,21-22,32,co COL,Napoli,it Serie A,31,2790,31.0,31,0,5,25,106,82,77.4,19.0,6.0,6,13.0,41.9,GK
+98,Matz Sels,70.0,21-22,29,be BEL,Strasbourg,fr Ligue 1,37,3330,37.0,37,0,0,43,130,88,70.0,16.0,12.0,9,13.0,35.1,GK
+99,Michael Esser,76.2,21-22,33,de GER,Bochum,de Bundesliga,3,270,3.0,3,0,30,7,21,14,76.2,2.0,0.0,1,0.0,0.0,GK
+100,Marius Funk,48.1,21-22,25,de GER,Greuther Fürth,de Bundesliga,8,720,8.0,8,0,10,30,54,26,48.1,0.0,0.0,8,0.0,0.0,GK
+101,Marvin Schwäbe,71.4,21-22,26,de GER,Köln,de Bundesliga,21,1890,21.0,21,0,10,28,98,70,71.4,10.0,4.0,7,3.0,14.3,GK
+102,Manuel Neuer,71.9,21-22,35,de GER,Bayern Munich,de Bundesliga,28,2510,27.9,28,0,1,26,89,63,71.9,22.0,4.0,2,10.0,35.7,GK
+103,Davide Marfella,100.0,21-22,21,it ITA,Napoli,it Serie A,1,11,0.1,0,1,34,0,1,1,100.0,0.0,0.0,0,1.0,,GK
+104,Walter Benítez,78.0,21-22,28,ar ARG,Nice,fr Ligue 1,37,3330,37.0,37,0,0,35,141,105,78.0,20.0,7.0,10,14.0,37.8,GK
+105,Andrey Lunyov,50.0,21-22,29,ru RUS,Leverkusen,de Bundesliga,1,90,1.0,1,0,23,1,2,1,50.0,1.0,0.0,0,0.0,0.0,GK
+106,Andrea Consigli,67.8,21-22,34,it ITA,Sassuolo,it Serie A,37,3322,36.9,37,0,0,63,171,108,67.8,13.0,11.0,13,3.0,8.1,GK
+107,Juan Pérez,25.0,21-22,25,es ESP,Osasuna,es La Liga,2,180,2.0,2,0,31,3,4,2,25.0,0.0,1.0,1,0.0,0.0,GK
+108,Hugo Lloris,72.3,21-22,34,fr FRA,Tottenham,eng Premier League,38,3420,38.0,38,0,0,40,137,98,72.3,22.0,5.0,11,16.0,42.1,GK
+109,David Soria,70.5,21-22,28,es ESP,Getafe,es La Liga,38,3414,37.9,38,0,0,41,132,91,70.5,8.0,15.0,15,13.0,34.2,GK
+110,José Sá,80.6,21-22,28,pt POR,Wolves,eng Premier League,37,3285,36.5,37,0,1,40,160,121,80.6,15.0,5.0,17,11.0,29.7,GK
+111,Leo Román,71.4,21-22,21,es ESP,Mallorca,es La Liga,2,180,2.0,2,0,13,5,14,10,71.4,0.0,0.0,2,0.0,0.0,GK
+112,Łukasz Fabiański,70.4,21-22,36,pl POL,West Ham,eng Premier League,37,3330,37.0,37,0,0,50,162,111,70.4,16.0,8.0,13,8.0,21.6,GK
+113,Jonas Lössl,28.6,21-22,32,dk DEN,Brentford,eng Premier League,2,180,2.0,2,0,10,5,7,2,28.6,0.0,0.0,2,0.0,0.0,GK
+114,Alex Meret,79.3,21-22,24,it ITA,Napoli,it Serie A,7,619,6.9,7,0,25,6,29,23,79.3,5.0,1.0,1,2.0,28.6,GK
+115,Fernando Pacheco,62.8,21-22,29,es ESP,Alavés,es La Liga,34,3053,33.9,34,0,1,60,148,85,62.8,8.0,5.0,21,5.0,14.7,GK
+116,David Raya,77.7,21-22,25,es ESP,Brentford,eng Premier League,24,2160,24.0,24,0,0,27,103,76,77.7,10.0,5.0,9,8.0,33.3,GK
+117,Antonio Sivera,81.3,21-22,24,es ESP,Alavés,es La Liga,4,277,3.1,3,1,33,4,16,12,81.3,0.0,1.0,2,1.0,33.3,GK
+118,Roman Bürki,100.0,21-22,30,ch SUI,Dortmund,de Bundesliga,1,90,1.0,1,0,2,1,1,0,100.0,1.0,0.0,0,0.0,0.0,GK
+119,Doğan Alemdar,66.7,21-22,18,tr TUR,Rennes,fr Ligue 1,12,1080,12.0,12,0,7,13,36,22,66.7,6.0,1.0,5,4.0,33.3,GK
+120,Sergio Asenjo,71.4,21-22,32,es ESP,Villarreal,es La Liga,6,540,6.0,6,0,30,9,28,19,71.4,2.0,2.0,2,0.0,0.0,GK
+121,Wladimiro Falcone,75.9,21-22,26,it ITA,Sampdoria,it Serie A,10,855,9.5,9,1,27,14,54,41,75.9,2.0,1.0,6,2.0,22.2,GK
+122,Manuel Riemann,72.9,21-22,32,de GER,Bochum,de Bundesliga,31,2790,31.0,31,0,0,45,155,112,72.9,10.0,6.0,15,7.0,22.6,GK
+123,Vanja Milinković-Savić,67.5,21-22,24,rs SRB,Torino,it Serie A,27,2430,27.0,27,0,8,33,80,46,67.5,9.0,7.0,11,4.0,14.8,GK
+124,Aitor Fernández,65.4,21-22,30,es ESP,Levante,es La Liga,13,1166,13.0,13,0,22,29,81,51,65.4,1.0,5.0,7,2.0,15.4,GK
+125,Juan Musso,67.2,21-22,27,ar ARG,Atalanta,it Serie A,33,2932,32.6,33,0,4,42,119,80,67.2,16.0,8.0,9,8.0,24.2,GK
+126,Willy Caballero,54.5,21-22,39,ar ARG,Southampton,eng Premier League,2,180,2.0,2,0,19,5,11,6,54.5,0.0,1.0,1,0.0,0.0,GK
+127,Vincenzo Fiorillo,37.5,21-22,31,it ITA,Salernitana,it Serie A,1,90,1.0,1,0,19,5,8,3,37.5,0.0,0.0,1,0.0,0.0,GK
+128,Julen Agirrezabala,75.0,21-22,20,es ESP,Athletic Club,es La Liga,4,360,4.0,4,0,10,5,20,15,75.0,1.0,2.0,1,1.0,25.0,GK
+129,Eiji Kawashima,100.0,21-22,38,jp JPN,Strasbourg,fr Ligue 1,1,90,1.0,1,0,33,0,1,1,100.0,1.0,0.0,0,1.0,100.0,GK
+130,Sergio Herrera,70.1,21-22,28,es ESP,Osasuna,es La Liga,36,3240,36.0,36,0,1,48,147,97,70.1,12.0,10.0,14,12.0,33.3,GK
+131,Frederik Rønnow,72.2,21-22,28,dk DEN,Union Berlin,de Bundesliga,7,630,7.0,7,0,26,5,18,14,72.2,5.0,2.0,0,2.0,28.6,GK
+132,Jed Steer,25.0,21-22,28,eng ENG,Aston Villa,eng Premier League,1,90,1.0,1,0,18,3,4,1,25.0,0.0,0.0,1,0.0,0.0,GK
+133,Mark Flekken,73.8,21-22,28,nl NED,Freiburg,de Bundesliga,32,2880,32.0,32,0,0,39,141,103,73.8,15.0,9.0,8,10.0,31.3,GK
+134,Benjamin Uphoff,41.7,21-22,27,de GER,Freiburg,de Bundesliga,2,180,2.0,2,0,31,7,12,5,41.7,0.0,1.0,1,0.0,0.0,GK
+135,Neto,71.4,21-22,32,br BRA,Barcelona,es La Liga,3,270,3.0,3,0,33,4,14,10,71.4,2.0,1.0,0,0.0,0.0,GK
+136,Vicente Guaita,74.1,21-22,34,es ESP,Crystal Palace,eng Premier League,30,2655,29.5,30,0,5,33,116,83,74.1,9.0,11.0,10,11.0,36.7,GK
+137,Łukasz Skorupski,74.1,21-22,30,pl POL,Bologna,it Serie A,36,3240,36.0,36,0,0,53,174,122,74.1,11.0,9.0,16,12.0,33.3,GK
+138,Marko Dmitrović,73.7,21-22,29,rs SRB,Sevilla,es La Liga,6,540,6.0,6,0,31,5,19,14,73.7,4.0,2.0,0,4.0,66.7,GK
+139,Marco Sportiello,83.3,21-22,29,it ITA,Atalanta,it Serie A,5,450,5.0,5,0,31,5,18,13,83.3,0.0,3.0,2,2.0,40.0,GK
+140,Nicola Bagnolini,100.0,21-22,17,it ITA,Bologna,it Serie A,1,3,0.0,0,1,9,0,1,1,100.0,0.0,0.0,0,1.0,,GK
+141,Lukáš Hrádecký,72.7,21-22,31,fi FIN,Leverkusen,de Bundesliga,32,2880,32.0,32,0,1,44,154,109,72.7,17.0,7.0,8,8.0,25.0,GK
+142,Alexandre Oukidja,60.4,21-22,33,dz ALG,Metz,fr Ligue 1,21,1875,20.8,21,0,13,39,91,54,60.4,2.0,8.0,11,3.0,14.3,GK
+143,Alexander Nübel,77.3,21-22,24,de GER,Monaco,fr Ligue 1,38,3420,38.0,38,0,0,40,141,104,77.3,20.0,9.0,9,11.0,28.9,GK
+144,Ciprian Tătărușanu,66.7,21-22,35,ro ROU,Milan,it Serie A,6,540,6.0,6,0,30,10,24,14,66.7,4.0,1.0,1,1.0,16.7,GK
+145,Giacomo Satalino,100.0,21-22,22,it ITA,Sassuolo,it Serie A,1,8,0.1,0,1,28,0,1,1,100.0,0.0,0.0,0,0.0,,GK
+146,Oier Olazábal,100.0,21-22,31,es ESP,Espanyol,es La Liga,2,135,1.5,1,1,22,1,9,8,100.0,0.0,0.0,1,1.0,100.0,GK
+147,Matías Dituro,71.3,21-22,34,ar ARG,Celta Vigo,es La Liga,38,3420,38.0,38,0,0,43,136,91,71.3,12.0,10.0,16,14.0,36.8,GK
+148,Diant Ramaj,75.0,21-22,19,de GER,Eint Frankfurt,de Bundesliga,1,90,1.0,1,0,19,1,4,3,75.0,0.0,1.0,0,0.0,0.0,GK
+149,Danijel Petković,69.2,21-22,28,me MNE,Angers,fr Ligue 1,15,1350,15.0,15,0,22,22,65,45,69.2,3.0,3.0,9,2.0,13.3,GK
+150,Péter Gulácsi,72.1,21-22,31,hu HUN,RB Leipzig,de Bundesliga,33,2967,33.0,33,0,0,34,111,78,72.1,17.0,7.0,9,9.0,27.3,GK
+151,Stefan Bajic,62.1,21-22,19,fr FRA,Saint-Étienne,fr Ligue 1,7,510,5.7,4,3,12,13,29,16,62.1,0.0,1.0,3,0.0,0.0,GK
+152,Stefan Ortega,73.9,21-22,28,de GER,Arminia,de Bundesliga,33,2970,33.0,33,0,0,53,176,125,73.9,4.0,13.0,16,6.0,18.2,GK
+153,Lorenzo Montipò,65.0,21-22,25,it ITA,Hellas Verona,it Serie A,34,3060,34.0,34,0,2,50,137,88,65.0,13.0,10.0,11,4.0,11.8,GK
+154,Gaëtan Poussin,55.7,21-22,22,fr FRA,Bordeaux,fr Ligue 1,13,1170,13.0,13,0,23,29,61,32,55.7,3.0,5.0,5,2.0,15.4,GK
+155,Fraser Forster,67.3,21-22,33,eng ENG,Southampton,eng Premier League,19,1710,19.0,19,0,14,35,101,68,67.3,6.0,5.0,8,3.0,15.8,GK
+156,Philipp Pentke,57.1,21-22,36,de GER,Hoffenheim,de Bundesliga,1,90,1.0,1,0,16,3,7,4,57.1,1.0,0.0,0,0.0,0.0,GK
+157,Jonas Omlin,75.9,21-22,27,ch SUI,Montpellier,fr Ligue 1,29,2587,28.7,29,0,0,41,158,117,75.9,10.0,4.0,15,8.0,27.6,GK
+158,Luca Zidane,64.9,21-22,23,dz ALG,Rayo Vallecano,es La Liga,8,645,7.2,8,0,29,13,37,24,64.9,0.0,1.0,7,0.0,0.0,GK
+159,Pavao Pervan,65.8,21-22,33,at AUT,Wolfsburg,de Bundesliga,6,540,6.0,6,0,28,14,38,25,65.8,1.0,0.0,5,1.0,16.7,GK
+160,Luca Lezzerini,76.9,21-22,26,it ITA,Venezia,it Serie A,6,495,5.5,6,0,7,9,39,30,76.9,2.0,1.0,3,0.0,0.0,GK
+161,Jaume Doménech,63.6,21-22,30,es ESP,Valencia,es La Liga,4,343,3.8,3,1,28,4,11,8,63.6,2.0,0.0,1,1.0,33.3,GK
+162,Florian Müller,65.5,21-22,23,de GER,Stuttgart,de Bundesliga,30,2700,30.0,30,0,1,52,139,88,65.5,7.0,10.0,13,4.0,13.3,GK
+163,Jeroen Zoet,58.1,21-22,30,nl NED,Spezia,it Serie A,7,630,7.0,7,0,29,19,43,23,58.1,1.0,1.0,5,0.0,0.0,GK
+164,Jack Butland,53.6,21-22,28,eng ENG,Crystal Palace,eng Premier League,9,765,8.5,8,1,29,13,28,16,53.6,2.0,4.0,2,1.0,12.5,GK
+165,Gregor Kobel,67.3,21-22,23,ch SUI,Dortmund,de Bundesliga,29,2565,28.5,29,0,0,39,110,73,67.3,20.0,3.0,6,7.0,24.1,GK
+166,Karl Darlow,64.9,21-22,30,wls WAL,Newcastle Utd,eng Premier League,8,720,8.0,8,0,26,15,37,23,64.9,0.0,5.0,3,0.0,0.0,GK
+167,Kevin Trapp,73.2,21-22,31,de GER,Eint Frankfurt,de Bundesliga,32,2880,32.0,32,0,0,46,157,112,73.2,10.0,11.0,11,5.0,15.6,GK
+168,Alfred Gomis,68.7,21-22,27,sn SEN,Rennes,fr Ligue 1,25,2250,25.0,25,0,1,25,67,43,68.7,14.0,5.0,6,10.0,40.0,GK
+169,Daniele Padelli,61.9,21-22,35,it ITA,Udinese,it Serie A,3,270,3.0,3,0,34,8,21,13,61.9,1.0,0.0,2,1.0,33.3,GK
+170,Ben Foster,60.3,21-22,38,eng ENG,Watford,eng Premier League,26,2340,26.0,26,0,2,49,116,67,60.3,5.0,5.0,16,4.0,15.4,GK
+171,Fabian Bredlow,70.8,21-22,26,de GER,Stuttgart,de Bundesliga,4,360,4.0,4,0,26,7,24,17,70.8,0.0,2.0,2,0.0,0.0,GK
+172,Danny Ward,80.0,21-22,28,wls WAL,Leicester City,eng Premier League,1,90,1.0,1,0,31,1,5,4,80.0,1.0,0.0,0,0.0,0.0,GK
+173,Giorgi Mamardashvili,76.0,21-22,20,ge GEO,Valencia,es La Liga,18,1620,18.0,18,0,17,20,75,55,76.0,5.0,7.0,6,8.0,44.4,GK
+174,Jesús Owono,75.0,21-22,20,gq EQG,Alavés,es La Liga,1,90,1.0,1,0,2,1,4,3,75.0,0.0,1.0,0,0.0,0.0,GK
+175,Julian Pollersbeck,92.0,21-22,26,de GER,Lyon,fr Ligue 1,6,436,4.8,4,2,29,6,25,19,92.0,3.0,0.0,1,1.0,25.0,GK
+176,Nicola Ravaglia,100.0,21-22,32,it ITA,Sampdoria,it Serie A,1,5,0.1,0,1,34,1,1,0,100.0,0.0,0.0,0,0.0,,GK
+177,John Ruddy,57.1,21-22,34,eng ENG,Wolves,eng Premier League,2,135,1.5,1,1,36,3,7,4,57.1,0.0,1.0,0,0.0,0.0,GK
+178,Gauthier Gallon,72.6,21-22,28,fr FRA,Troyes,fr Ligue 1,31,2790,31.0,31,0,0,45,135,92,72.6,8.0,8.0,15,8.0,25.8,GK
+179,Koen Casteels,68.6,21-22,29,be BEL,Wolfsburg,de Bundesliga,28,2520,28.0,28,0,0,40,118,76,68.6,11.0,6.0,11,10.0,35.7,GK
+180,Marcin Bułka,80.0,21-22,21,pl POL,Nice,fr Ligue 1,1,90,1.0,1,0,37,1,5,4,80.0,0.0,0.0,1,0.0,0.0,GK
+181,Finn Dahmen,60.0,21-22,23,de GER,Mainz 05,de Bundesliga,2,180,2.0,2,0,28,3,5,2,60.0,1.0,1.0,0,0.0,0.0,GK
+182,Angus Gunn,64.9,21-22,25,sct SCO,Norwich City,eng Premier League,9,810,9.0,9,0,29,22,57,34,64.9,1.0,2.0,6,1.0,11.1,GK
+183,Dani Cárdenas,65.0,21-22,24,es ESP,Levante,es La Liga,24,2160,24.0,24,0,12,46,120,74,65.0,6.0,6.0,12,5.0,20.8,GK
+184,Pietro Terracciano,59.0,21-22,31,it ITA,Fiorentina,it Serie A,32,2862,31.8,31,1,5,43,100,58,59.0,16.0,5.0,10,9.0,29.0,GK
+185,Pepe Reina,58.3,21-22,38,es ESP,Lazio,it Serie A,15,1350,15.0,15,0,23,29,60,31,58.3,6.0,4.0,5,2.0,13.3,GK
+186,Édgar Badía,75.4,21-22,29,es ESP,Elche,es La Liga,24,2160,24.0,24,0,14,35,114,78,75.4,8.0,5.0,11,5.0,20.8,GK
+187,Robin Olsen,40.0,21-22,31,se SWE,Aston Villa,eng Premier League,1,90,1.0,1,0,17,3,5,2,40.0,0.0,0.0,1,0.0,0.0,GK
+188,Arthur Desmas,54.5,21-22,27,fr FRA,Clermont Foot,fr Ligue 1,15,1304,14.5,15,0,16,33,66,34,54.5,3.0,5.0,7,3.0,20.0,GK
+189,Rui Silva,75.0,21-22,27,pt POR,Betis,es La Liga,22,1964,21.8,21,1,14,21,76,55,75.0,11.0,4.0,6,8.0,38.1,GK
+190,Alessandro Berardi,57.1,21-22,30,it ITA,Hellas Verona,it Serie A,1,90,1.0,1,0,30,3,7,4,57.1,0.0,1.0,0,0.0,0.0,GK
+191,Keylor Navas,79.5,21-22,34,cr CRC,Paris S-G,fr Ligue 1,21,1856,20.6,21,0,11,18,78,60,79.5,13.0,6.0,2,7.0,33.3,GK
+192,Jean-Louis Leca,70.0,21-22,35,fr FRA,Lens,fr Ligue 1,27,2313,25.7,27,0,7,33,100,66,70.0,10.0,8.0,9,5.0,18.5,GK
+193,Etrit Berisha,85.4,21-22,32,al ALB,Torino,it Serie A,10,900,10.0,10,0,26,8,41,32,85.4,3.0,4.0,3,4.0,40.0,GK
+194,Jan Oblak,66.0,21-22,28,si SVN,Atlético Madrid,es La Liga,38,3420,38.0,38,0,0,43,106,65,66.0,21.0,8.0,9,12.0,31.6,GK
+195,Anthony Lopes,71.6,21-22,30,pt POR,Lyon,fr Ligue 1,34,2982,33.1,34,0,0,45,148,105,71.6,14.0,11.0,9,8.0,23.5,GK
+196,Adrian Šemper,75.0,21-22,23,hr CRO,Genoa,it Serie A,1,90,1.0,1,0,34,1,4,3,75.0,0.0,0.0,1,0.0,0.0,GK
+197,Gianluca Pegolo,40.0,21-22,40,it ITA,Sassuolo,it Serie A,1,90,1.0,1,0,37,3,5,2,40.0,0.0,0.0,1,0.0,0.0,GK
+198,Álvaro Fernández,66.7,21-22,23,es ESP,Brentford,eng Premier League,12,1080,12.0,12,0,19,24,69,47,66.7,3.0,2.0,7,1.0,8.3,GK
+199,Tim Krul,66.7,21-22,33,nl NED,Norwich City,eng Premier League,29,2610,29.0,29,0,3,62,165,105,66.7,4.0,5.0,20,5.0,17.2,GK
+200,Jens Grahl,50.0,21-22,32,de GER,Eint Frankfurt,de Bundesliga,1,90,1.0,1,0,14,2,4,2,50.0,0.0,0.0,1,0.0,0.0,GK
+201,Alejandro Primo,50.0,21-22,17,es ESP,Levante,es La Liga,1,90,1.0,1,0,1,1,2,1,50.0,1.0,0.0,0,0.0,0.0,GK
+202,Alessio Cragno,66.1,21-22,27,it ITA,Cagliari,it Serie A,35,3150,35.0,35,0,0,63,168,104,66.1,6.0,10.0,19,2.0,5.7,GK
+203,Léo Jardim,75.8,21-22,26,br BRA,Lille,fr Ligue 1,17,1530,17.0,17,0,5,20,66,47,75.8,6.0,6.0,5,8.0,47.1,GK
+204,Yassine Bounou,78.0,21-22,30,ma MAR,Sevilla,es La Liga,31,2790,31.0,31,0,2,24,100,75,78.0,14.0,13.0,4,13.0,41.9,GK
+205,Carlo Pinsoglio,100.0,21-22,31,it ITA,Juventus,it Serie A,1,45,0.5,0,1,35,1,2,1,100.0,0.0,0.0,0,0.0,,GK
+206,Anthony Mandrea,68.2,21-22,24,dz ALG,Angers,fr Ligue 1,10,900,10.0,10,0,16,14,44,31,68.2,3.0,3.0,4,2.0,20.0,GK
+207,Matthieu Dreyer,57.9,21-22,32,fr FRA,Lorient,fr Ligue 1,16,1440,16.0,16,0,22,25,57,32,57.9,5.0,4.0,7,7.0,43.8,GK
+208,Stole Dimitrievski,76.2,21-22,27,mk MKD,Rayo Vallecano,es La Liga,31,2772,30.8,30,1,6,37,126,88,76.2,11.0,8.0,11,9.0,30.0,GK
+209,Mike Maignan,81.2,21-22,26,fr FRA,Milan,it Serie A,32,2880,32.0,32,0,0,21,101,81,81.2,22.0,7.0,3,17.0,53.1,GK
+1,Samuele Perisan,62.5,22-23,24,it ITA,Empoli,it Serie A,7,630,7.0,7,0,29,9,24,15,62.5,1.0,1.0,5,2.0,28.6,GK
+2,Filip Jørgensen,50.0,22-23,20,dk DEN,Villarreal,es La Liga,2,180,2.0,2,0,24,3,6,3,50.0,0.0,1.0,1,0.0,0.0,GK
+3,Wojciech Szczęsny,75.3,22-23,32,pl POL,Juventus,it Serie A,28,2472,27.5,28,0,6,26,93,67,75.3,17.0,3.0,8,14.0,50.0,GK
+4,Patrick Pentz,58.6,22-23,25,at AUT,2 Teams,2 Comps,7,630,7.0,7,0,27,14,29,16,58.6,1.0,3.0,3,0.0,0.0,GK
+5,Bartłomiej Drągowski,69.5,22-23,24,pl POL,Spezia,it Serie A,34,2946,32.7,34,0,3,54,164,112,69.5,6.0,10.0,18,6.0,17.6,GK
+6,Gianluigi Donnarumma,76.3,22-23,23,it ITA,Paris S-G,fr Ligue 1,38,3409,37.9,38,0,0,40,160,120,76.3,27.0,4.0,7,13.0,34.2,GK
+7,Jiří Pavlenka,65.3,22-23,30,cz CZE,Werder Bremen,de Bundesliga,33,2908,32.3,33,0,0,61,170,110,65.3,10.0,5.0,18,4.0,12.1,GK
+8,Francesco Bardi,100.0,22-23,30,it ITA,Bologna,it Serie A,1,90,1.0,1,0,36,0,4,4,100.0,1.0,0.0,0,1.0,100.0,GK
+9,Marco Silvestri,69.3,22-23,31,it ITA,Udinese,it Serie A,38,3420,38.0,38,0,0,48,137,91,69.3,11.0,13.0,14,10.0,26.3,GK
+10,Alexander Schwolow,60.9,22-23,30,de GER,Schalke 04,de Bundesliga,23,2035,22.6,22,1,11,58,138,80,60.9,4.0,4.0,14,2.0,9.1,GK
+11,Tobias Sippel,66.7,22-23,34,de GER,Gladbach,de Bundesliga,6,510,5.7,5,1,12,12,33,21,66.7,1.0,1.0,3,1.0,20.0,GK
+12,Maxime Dupé,70.4,22-23,29,fr FRA,Toulouse,fr Ligue 1,38,3420,38.0,38,0,0,57,179,122,70.4,13.0,9.0,16,9.0,23.7,GK
+13,Claudio Bravo,81.0,22-23,39,cl CHI,Betis,es La Liga,12,1080,12.0,12,0,21,9,42,33,81.0,5.0,5.0,2,4.0,33.3,GK
+14,Daniel Iversen,66.1,22-23,25,dk DEN,Leicester City,eng Premier League,12,1080,12.0,12,0,26,22,59,38,66.1,2.0,4.0,6,1.0,8.3,GK
+15,Salvatore Sirigu,100.0,22-23,35,it ITA,2 Teams,it Serie A,1,90,1.0,1,0,22,0,5,5,100.0,1.0,0.0,0,1.0,100.0,GK
+16,Martin Turk,73.3,22-23,18,si SVN,Sampdoria,it Serie A,4,360,4.0,4,0,16,9,30,21,73.3,1.0,1.0,2,0.0,0.0,GK
+17,Rafał Gikiewicz,70.6,22-23,34,pl POL,Augsburg,de Bundesliga,23,2070,23.0,23,0,0,41,136,93,70.6,8.0,3.0,12,5.0,21.7,GK
+18,Marek Rodák,50.0,22-23,25,sk SVK,Fulham,eng Premier League,2,180,2.0,2,0,36,2,4,2,50.0,0.0,2.0,0,1.0,50.0,GK
+19,Thibaut Courtois,78.8,22-23,30,be BEL,Real Madrid,es La Liga,31,2790,31.0,31,0,1,29,118,88,78.8,20.0,5.0,6,10.0,32.3,GK
+20,Ghjuvanni Quilichini,100.0,22-23,19,fr FRA,Ajaccio,fr Ligue 1,1,82,0.9,0,1,5,0,4,4,100.0,0.0,0.0,0,1.0,,GK
+21,Steve Mandanda,73.6,22-23,37,fr FRA,Rennes,fr Ligue 1,34,3014,33.5,34,0,1,31,110,79,73.6,19.0,5.0,10,12.0,35.3,GK
+22,Ralf Fährmann,78.2,22-23,33,de GER,Schalke 04,de Bundesliga,12,1025,11.4,12,0,15,13,55,43,78.2,3.0,6.0,3,5.0,41.7,GK
+23,Benjamin Leroy,60.9,22-23,33,fr FRA,Ajaccio,fr Ligue 1,32,2798,31.1,32,0,3,60,133,74,60.9,6.0,4.0,22,4.0,12.5,GK
+24,Guillermo Ochoa,71.4,22-23,37,mx MEX,Salernitana,it Serie A,20,1800,20.0,20,0,3,33,105,71,71.4,4.0,10.0,6,4.0,20.0,GK
+25,Pau López,76.4,22-23,27,es ESP,Marseille,fr Ligue 1,33,2925,32.5,32,1,2,34,123,90,76.4,21.0,4.0,7,10.0,31.3,GK
+26,Benoît Costil,60.4,22-23,35,fr FRA,2 Teams,fr Ligue 1,19,1710,19.0,19,0,19,41,96,55,60.4,3.0,4.0,12,2.0,10.5,GK
+27,Bernd Leno,77.1,22-23,30,de GER,Fulham,eng Premier League,36,3240,36.0,36,0,2,51,192,142,77.1,15.0,5.0,16,8.0,22.2,GK
+28,Ivan Provedel,77.3,22-23,28,it ITA,Lazio,it Serie A,38,3413,37.9,37,1,0,30,128,99,77.3,21.0,8.0,8,21.0,56.8,GK
+29,Jason Steele,61.4,22-23,31,eng ENG,Brighton,eng Premier League,15,1350,15.0,15,0,22,23,57,36,61.4,7.0,3.0,5,6.0,40.0,GK
+30,Kepa Arrizabalaga,73.3,22-23,27,es ESP,Chelsea,eng Premier League,29,2565,28.5,29,0,7,33,120,90,73.3,8.0,9.0,12,9.0,31.0,GK
+31,Paul Bernardoni,62.2,22-23,25,fr FRA,Angers,fr Ligue 1,27,2430,27.0,27,0,11,62,143,84,62.2,1.0,5.0,21,3.0,11.1,GK
+32,Alphonse Areola,68.8,22-23,29,fr FRA,West Ham,eng Premier League,5,309,3.4,2,3,30,7,16,9,68.8,0.0,1.0,1,1.0,50.0,GK
+33,Benjamin Lecomte,75.0,22-23,31,fr FRA,2 Teams,2 Comps,29,2609,29.0,29,0,4,36,136,99,75.0,11.0,8.0,10,9.0,31.0,GK
+34,Dominik Greif,62.5,22-23,25,sk SVK,Mallorca,es La Liga,1,90,1.0,1,0,24,3,8,5,62.5,0.0,0.0,1,0.0,0.0,GK
+35,Andriy Lunin,61.1,22-23,23,ua UKR,Real Madrid,es La Liga,7,630,7.0,7,0,30,7,18,12,61.1,4.0,1.0,2,3.0,42.9,GK
+36,Edouard Mendy,64.1,22-23,30,sn SEN,Chelsea,eng Premier League,10,855,9.5,9,1,13,14,39,25,64.1,3.0,2.0,4,1.0,11.1,GK
+37,Luigi Sepe,73.6,22-23,31,it ITA,Salernitana,it Serie A,17,1530,17.0,17,0,16,27,87,57,73.6,4.0,5.0,8,3.0,17.6,GK
+38,Alex McCarthy,46.7,22-23,32,eng ENG,Southampton,eng Premier League,6,540,6.0,6,0,21,17,30,14,46.7,0.0,1.0,5,0.0,0.0,GK
+39,Álex Remiro,74.4,22-23,27,es ESP,Real Sociedad,es La Liga,38,3420,38.0,38,0,0,35,133,99,74.4,21.0,8.0,9,15.0,39.5,GK
+40,Lennart Grill,64.0,22-23,23,de GER,Union Berlin,de Bundesliga,5,450,5.0,5,0,29,11,25,14,64.0,2.0,1.0,2,2.0,40.0,GK
+41,Bingourou Kamara,60.0,22-23,25,sn SEN,Montpellier,fr Ligue 1,5,408,4.5,4,1,24,11,25,13,60.0,0.0,1.0,3,0.0,0.0,GK
+42,Alessandro Russo,57.1,22-23,21,it ITA,Sassuolo,it Serie A,1,90,1.0,1,0,33,3,7,4,57.1,0.0,0.0,1,0.0,0.0,GK
+43,Martin Dúbravka,88.9,22-23,33,sk SVK,2 Teams,eng Premier League,2,157,1.7,1,1,26,1,9,9,88.9,0.0,1.0,0,0.0,0.0,GK
+44,Ederson,62.3,22-23,28,br BRA,Manchester City,eng Premier League,35,3150,35.0,35,0,3,32,77,46,62.3,26.0,4.0,5,11.0,31.4,GK
+45,Marco Bizot,73.3,22-23,31,nl NED,Brest,fr Ligue 1,37,3330,37.0,37,0,0,54,176,122,73.3,11.0,10.0,16,8.0,21.6,GK
+46,Ivo Grbić,81.3,22-23,26,hr CRO,Atlético Madrid,es La Liga,12,922,10.2,10,2,25,12,48,36,81.3,6.0,3.0,1,2.0,20.0,GK
+47,Tjark Ernst,85.7,22-23,19,de GER,Hertha BSC,de Bundesliga,1,90,1.0,1,0,30,1,7,6,85.7,1.0,0.0,0,0.0,0.0,GK
+48,Joseph Whitworth,50.0,22-23,18,eng ENG,Crystal Palace,eng Premier League,2,180,2.0,2,0,12,5,10,5,50.0,0.0,0.0,2,0.0,0.0,GK
+49,Yann Sommer,73.9,22-23,33,ch SUI,2 Teams,de Bundesliga,29,2610,29.0,29,0,0,39,115,77,73.9,15.0,8.0,6,8.0,27.6,GK
+50,Aaron Ramsdale,70.6,22-23,24,eng ENG,Arsenal,eng Premier League,38,3420,38.0,38,0,0,43,136,94,70.6,26.0,6.0,6,14.0,36.8,GK
+51,Oliver Baumann,65.8,22-23,32,de GER,Hoffenheim,de Bundesliga,34,3060,34.0,34,0,0,57,161,105,65.8,10.0,6.0,18,5.0,14.7,GK
+52,Rémy Descamps,83.3,22-23,26,fr FRA,Nantes,fr Ligue 1,1,90,1.0,1,0,31,1,6,5,83.3,0.0,1.0,0,0.0,0.0,GK
+53,Jordan Pickford,71.3,22-23,28,eng ENG,Everton,eng Premier League,37,3330,37.0,37,0,0,57,181,123,71.3,7.0,12.0,18,8.0,21.6,GK
+54,Nick Pope,74.6,22-23,30,eng ENG,Newcastle Utd,eng Premier League,37,3261,36.2,37,0,0,32,118,85,74.6,19.0,13.0,5,14.0,37.8,GK
+55,Mattia Perin,85.0,22-23,29,it ITA,Juventus,it Serie A,11,948,10.5,10,1,26,7,40,32,85.0,5.0,3.0,2,6.0,60.0,GK
+56,Michele Di Gregorio,72.5,22-23,25,it ITA,Monza,it Serie A,37,3330,37.0,37,0,1,49,167,119,72.5,14.0,10.0,13,10.0,27.0,GK
+57,Alban Lafont,74.9,22-23,23,ci CIV,Nantes,fr Ligue 1,37,3329,37.0,37,0,0,54,179,129,74.9,7.0,14.0,16,11.0,29.7,GK
+58,Donovan Léon,90.9,22-23,29,gf GUF,Auxerre,fr Ligue 1,2,180,2.0,2,0,34,2,11,9,90.9,1.0,1.0,0,0.0,0.0,GK
+59,Kasper Schmeichel,77.3,22-23,35,dk DEN,Nice,fr Ligue 1,36,3240,36.0,36,0,2,35,141,105,77.3,15.0,12.0,9,11.0,30.6,GK
+60,Petar Zovko,33.3,22-23,20,ba BIH,Spezia,it Serie A,1,74,0.8,0,1,27,2,3,1,33.3,0.0,0.0,0,0.0,,GK
+61,Predrag Rajković,74.4,22-23,26,rs SRB,Mallorca,es La Liga,36,3240,36.0,36,0,2,40,133,92,74.4,13.0,8.0,15,12.0,33.3,GK
+62,Robin Zentner,67.0,22-23,27,de GER,Mainz 05,de Bundesliga,26,2340,26.0,26,0,1,39,109,69,67.0,9.0,8.0,9,7.0,26.9,GK
+63,Unai Simón,67.3,22-23,25,es ESP,Athletic Club,es La Liga,31,2745,30.5,31,0,4,37,104,70,67.3,13.0,6.0,12,9.0,29.0,GK
+64,Brice Samba,80.0,22-23,28,fr FRA,Lens,fr Ligue 1,37,3330,37.0,37,0,1,28,125,98,80.0,24.0,9.0,4,15.0,40.5,GK
+65,Ouparine Djoco,33.3,22-23,24,gw GNB,Clermont Foot,fr Ligue 1,1,90,1.0,1,0,30,2,3,1,33.3,0.0,0.0,1,0.0,0.0,GK
+66,Gerónimo Rulli,82.1,22-23,30,ar ARG,Villarreal,es La Liga,14,1260,14.0,14,0,1,10,56,46,82.1,6.0,3.0,5,7.0,50.0,GK
+67,Caoimhín Kelleher,60.0,22-23,23,ie IRL,Liverpool,eng Premier League,1,90,1.0,1,0,28,4,10,6,60.0,0.0,1.0,0,0.0,0.0,GK
+68,Paulo Gazzaniga,73.6,22-23,30,ar ARG,Girona,es La Liga,28,2520,28.0,28,0,7,37,125,87,73.6,11.0,8.0,9,4.0,14.3,GK
+69,Emil Audero,71.9,22-23,25,id IDN,Sampdoria,it Serie A,25,2250,25.0,25,0,0,39,121,82,71.9,2.0,6.0,17,4.0,16.0,GK
+70,Janis Blaswich,69.3,22-23,31,de GER,RB Leipzig,de Bundesliga,26,2340,26.0,26,0,7,29,75,45,69.3,16.0,4.0,6,7.0,26.9,GK
+71,Ionuț Radu,73.9,22-23,25,ro ROU,2 Teams,2 Comps,26,2340,26.0,26,0,0,39,138,98,73.9,4.0,9.0,13,6.0,23.1,GK
+72,Juan Carlos,62.8,22-23,34,es ESP,Girona,es La Liga,10,900,10.0,10,0,28,18,43,25,62.8,2.0,2.0,6,0.0,0.0,GK
+73,Daniel Bentley,76.9,22-23,29,eng ENG,Wolves,eng Premier League,2,180,2.0,2,0,16,3,13,10,76.9,0.0,1.0,1,0.0,0.0,GK
+74,Robert Sánchez,66.2,22-23,24,es ESP,Brighton,eng Premier League,23,2070,23.0,23,0,10,30,74,46,66.2,11.0,5.0,7,6.0,26.1,GK
+75,Joaquín Blázquez,100.0,22-23,21,ar ARG,Brest,fr Ligue 1,1,90,1.0,1,0,33,0,3,3,100.0,0.0,1.0,0,1.0,100.0,GK
+76,Illan Meslier,59.5,22-23,22,fr FRA,Leeds United,eng Premier League,34,3060,34.0,34,0,4,67,158,92,59.5,7.0,9.0,18,5.0,14.7,GK
+77,Jeremías Ledesma,77.7,22-23,29,ar ARG,Cádiz,es La Liga,34,3060,34.0,34,0,0,48,179,130,77.7,9.0,11.0,14,12.0,35.3,GK
+78,Marc-André ter Stegen,84.7,22-23,30,de GER,Barcelona,es La Liga,38,3347,37.2,38,0,0,18,98,83,84.7,28.0,4.0,6,26.0,68.4,GK
+79,Diego López,20.0,22-23,40,es ESP,Rayo Vallecano,es La Liga,2,96,1.1,1,1,30,4,5,1,20.0,0.0,0.0,1,0.0,0.0,GK
+80,Samir Handanović,67.3,22-23,38,si SVN,Inter,it Serie A,14,1234,13.7,14,0,21,18,52,35,67.3,9.0,0.0,5,4.0,28.6,GK
+81,Wayne Hennessey,64.3,22-23,35,wls WAL,Nott'ham Forest,eng Premier League,4,271,3.0,3,1,33,5,14,9,64.3,0.0,2.0,1,1.0,33.3,GK
+82,Guglielmo Vicario,73.9,22-23,25,it ITA,Empoli,it Serie A,31,2783,30.9,31,0,0,39,134,95,73.9,9.0,12.0,10,7.0,22.6,GK
+83,Emiliano Martínez,74.2,22-23,29,ar ARG,Aston Villa,eng Premier League,36,3139,34.9,36,0,1,38,132,97,74.2,17.0,7.0,12,11.0,30.6,GK
+84,Rui Patrício,69.4,22-23,34,pt POR,Roma,it Serie A,35,3150,35.0,35,0,1,35,108,73,69.4,17.0,8.0,10,13.0,37.1,GK
+85,Alisson,72.1,22-23,29,br BRA,Liverpool,eng Premier League,37,3330,37.0,37,0,0,43,147,105,72.1,19.0,9.0,9,14.0,37.8,GK
+86,Asmir Begović,100.0,22-23,35,ba BIH,Everton,eng Premier League,1,90,1.0,1,0,37,0,4,4,100.0,1.0,0.0,0,1.0,100.0,GK
+87,David de Gea,71.1,22-23,31,es ESP,Manchester Utd,eng Premier League,38,3420,38.0,38,0,0,43,142,99,71.1,23.0,6.0,9,17.0,44.7,GK
+88,Sven Ulreich,75.0,22-23,33,de GER,Bayern Munich,de Bundesliga,3,270,3.0,3,0,30,2,8,5,75.0,3.0,0.0,0,2.0,66.7,GK
+89,Rémy Riou,83.3,22-23,34,fr FRA,Lyon,fr Ligue 1,7,601,6.7,6,1,31,8,24,17,83.3,2.0,4.0,0,1.0,16.7,GK
+90,Matz Sels,71.8,22-23,30,be BEL,Strasbourg,fr Ligue 1,38,3420,38.0,38,0,0,59,174,115,71.8,9.0,13.0,16,6.0,15.8,GK
+91,Agustín Marchesín,62.5,22-23,34,ar ARG,Celta Vigo,es La Liga,19,1710,19.0,19,0,0,29,72,42,62.5,5.0,5.0,9,6.0,31.6,GK
+92,Matis Carvalho,62.5,22-23,23,pt POR,Montpellier,fr Ligue 1,2,136,1.5,1,1,5,3,8,5,62.5,0.0,0.0,1,1.0,100.0,GK
+93,Marvin Schwäbe,61.2,22-23,27,de GER,Köln,de Bundesliga,34,3060,34.0,34,0,0,54,129,77,61.2,10.0,12.0,12,6.0,17.6,GK
+94,Manuel Neuer,79.5,22-23,36,de GER,Bayern Munich,de Bundesliga,12,1080,12.0,12,0,0,11,44,33,79.5,7.0,4.0,1,4.0,33.3,GK
+95,Joan García,50.0,22-23,21,es ESP,Espanyol,es La Liga,1,90,1.0,1,0,35,3,4,1,50.0,0.0,1.0,0,0.0,0.0,GK
+96,Andrey Lunyov,50.0,22-23,30,ru RUS,Leverkusen,de Bundesliga,1,90,1.0,1,0,10,2,4,2,50.0,0.0,0.0,1,0.0,0.0,GK
+97,Andrea Consigli,55.6,22-23,35,it ITA,Sassuolo,it Serie A,35,3150,35.0,35,0,1,55,117,64,55.6,12.0,8.0,15,9.0,25.7,GK
+98,Marco Carnesecchi,70.6,22-23,22,it ITA,Cremonese,it Serie A,27,2430,27.0,27,0,4,47,153,107,70.6,4.0,9.0,14,4.0,14.8,GK
+99,Hugo Lloris,67.5,22-23,35,fr FRA,Tottenham,eng Premier League,25,2205,24.5,25,0,1,39,117,79,67.5,13.0,3.0,9,7.0,28.0,GK
+100,David Soria,75.3,22-23,29,es ESP,Getafe,es La Liga,38,3420,38.0,38,0,0,45,166,119,75.3,10.0,12.0,16,13.0,34.2,GK
+101,Jordi Masip,74.5,22-23,33,es ESP,Valladolid,es La Liga,28,2507,27.9,28,0,6,42,145,101,74.5,9.0,5.0,14,8.0,28.6,GK
+102,José Sá,67.1,22-23,29,pt POR,Wolves,eng Premier League,36,3240,36.0,36,0,2,55,161,105,67.1,11.0,7.0,18,11.0,30.6,GK
+103,Leo Román,100.0,22-23,22,es ESP,Mallorca,es La Liga,1,90,1.0,1,0,30,0,4,4,100.0,1.0,0.0,0,1.0,100.0,GK
+104,Łukasz Fabiański,70.1,22-23,37,pl POL,West Ham,eng Premier League,36,3111,34.6,36,0,0,48,154,106,70.1,11.0,6.0,19,8.0,22.2,GK
+105,Alex Meret,74.7,22-23,25,it ITA,Napoli,it Serie A,34,3060,34.0,34,0,4,24,91,66,74.7,26.0,5.0,3,16.0,47.1,GK
+106,Rubén Blanco,68.4,22-23,27,es ESP,Marseille,fr Ligue 1,6,495,5.5,6,0,32,6,19,15,68.4,1.0,3.0,2,0.0,0.0,GK
+107,Fernando Pacheco,66.7,22-23,30,es ESP,2 Teams,es La Liga,17,1530,17.0,17,0,13,35,93,57,66.7,4.0,3.0,10,3.0,17.6,GK
+108,David Raya,77.7,22-23,26,es ESP,Brentford,eng Premier League,38,3420,38.0,38,0,0,46,197,154,77.7,15.0,14.0,9,12.0,31.6,GK
+109,Michael Zetterer,78.6,22-23,27,de GER,Werder Bremen,de Bundesliga,2,152,1.7,1,1,32,3,14,11,78.6,0.0,1.0,0,0.0,0.0,GK
+110,Yahia Fofana,66.7,22-23,21,ci CIV,Angers,fr Ligue 1,11,990,11.0,11,0,16,19,54,35,66.7,3.0,1.0,7,1.0,9.1,GK
+111,Doğan Alemdar,56.3,22-23,19,tr TUR,Rennes,fr Ligue 1,6,406,4.5,4,2,32,8,16,7,56.3,2.0,0.0,2,1.0,25.0,GK
+112,Sam Johnstone,76.5,22-23,29,eng ENG,Crystal Palace,eng Premier League,9,810,9.0,9,0,21,10,34,25,76.5,4.0,3.0,2,3.0,33.3,GK
+113,Sergio Asenjo,60.8,22-23,33,es ESP,Valladolid,es La Liga,10,900,10.0,10,0,20,21,51,30,60.8,2.0,2.0,6,1.0,10.0,GK
+114,Wladimiro Falcone,73.7,22-23,27,it ITA,Lecce,it Serie A,38,3420,38.0,38,0,0,46,156,112,73.7,8.0,12.0,18,6.0,15.8,GK
+115,Manuel Riemann,68.0,22-23,33,de GER,Bochum,de Bundesliga,34,3060,34.0,34,0,0,72,200,128,68.0,10.0,5.0,19,5.0,14.7,GK
+116,Vanja Milinković-Savić,73.5,22-23,25,rs SRB,Torino,it Serie A,38,3420,38.0,38,0,0,41,136,95,73.5,14.0,11.0,13,11.0,28.9,GK
+117,Aitor Fernández,75.3,22-23,31,es ESP,Osasuna,es La Liga,21,1890,21.0,21,0,17,19,77,59,75.3,10.0,5.0,6,8.0,38.1,GK
+118,Juan Musso,71.9,22-23,28,ar ARG,Atalanta,it Serie A,24,2077,23.1,24,0,10,27,89,64,71.9,13.0,4.0,7,7.0,29.2,GK
+119,Vincenzo Fiorillo,50.0,22-23,32,it ITA,Salernitana,it Serie A,1,90,1.0,1,0,32,2,4,2,50.0,1.0,0.0,0,0.0,0.0,GK
+120,Julen Agirrezabala,68.4,22-23,21,es ESP,Athletic Club,es La Liga,8,675,7.5,7,1,26,6,19,13,68.4,1.0,3.0,3,2.0,28.6,GK
+121,Sergio Herrera,69.0,22-23,29,es ESP,Osasuna,es La Liga,17,1530,17.0,17,0,19,23,71,48,69.0,5.0,3.0,9,3.0,17.6,GK
+122,Frederik Rønnow,81.5,22-23,29,dk DEN,Union Berlin,de Bundesliga,29,2610,29.0,29,0,0,27,119,92,81.5,16.0,7.0,6,11.0,37.9,GK
+123,Mark Flekken,74.0,22-23,29,nl NED,Freiburg,de Bundesliga,34,3060,34.0,34,0,0,44,150,106,74.0,17.0,8.0,9,13.0,38.2,GK
+124,Neto,74.6,22-23,33,br BRA,Bournemouth,eng Premier League,27,2385,26.5,27,0,3,39,138,100,74.6,9.0,6.0,12,6.0,22.2,GK
+125,Vicente Guaita,72.4,22-23,35,es ESP,Crystal Palace,eng Premier League,27,2430,27.0,27,0,5,34,116,84,72.4,7.0,9.0,11,6.0,22.2,GK
+126,Łukasz Skorupski,73.9,22-23,31,pl POL,Bologna,it Serie A,37,3330,37.0,37,0,0,49,161,113,73.9,13.0,12.0,12,7.0,18.9,GK
+127,Marko Dmitrović,76.4,22-23,30,rs SRB,Sevilla,es La Liga,15,1269,14.1,13,2,21,13,55,43,76.4,6.0,4.0,3,5.0,38.5,GK
+128,Marco Sportiello,68.8,22-23,30,it ITA,Atalanta,it Serie A,15,1339,14.9,14,1,22,21,64,43,68.8,6.0,3.0,5,2.0,14.3,GK
+129,Lukáš Hrádecký,71.8,22-23,32,fi FIN,Leverkusen,de Bundesliga,33,2969,33.0,33,0,0,47,142,97,71.8,14.0,8.0,11,9.0,27.3,GK
+130,Oliver Christensen,61.3,22-23,23,dk DEN,Hertha BSC,de Bundesliga,33,2970,33.0,33,0,1,68,163,94,61.3,6.0,8.0,19,3.0,9.1,GK
+131,Alexander Nübel,72.8,22-23,25,de GER,Monaco,fr Ligue 1,38,3420,38.0,38,0,0,58,195,140,72.8,19.0,8.0,11,9.0,23.7,GK
+132,Ciprian Tătărușanu,67.2,22-23,36,ro ROU,Milan,it Serie A,16,1440,16.0,16,0,22,22,61,40,67.2,9.0,3.0,4,4.0,25.0,GK
+133,Lucas Chevalier,72.4,22-23,20,fr FRA,Lille,fr Ligue 1,32,2880,32.0,32,0,6,31,105,76,72.4,16.0,9.0,7,10.0,31.3,GK
+134,Alexander Meyer,62.5,22-23,31,de GER,Dortmund,de Bundesliga,7,630,7.0,7,0,27,12,32,20,62.5,3.0,2.0,2,1.0,14.3,GK
+135,Diant Ramaj,80.0,22-23,20,de GER,Eint Frankfurt,de Bundesliga,1,90,1.0,1,0,33,1,5,4,80.0,0.0,1.0,0,0.0,0.0,GK
+136,Mouhamadou Sarr,62.5,22-23,25,sn SEN,Cremonese,it Serie A,2,180,2.0,2,0,31,3,8,5,62.5,1.0,0.0,1,1.0,50.0,GK
+137,Simone Perilli,100.0,22-23,27,it ITA,Hellas Verona,it Serie A,1,90,1.0,1,0,35,0,4,4,100.0,0.0,1.0,0,1.0,100.0,GK
+138,Péter Gulácsi,65.4,22-23,32,hu HUN,RB Leipzig,de Bundesliga,6,540,6.0,6,0,0,10,26,17,65.4,2.0,2.0,2,2.0,33.3,GK
+139,Mile Svilar,70.0,22-23,22,rs SRB,Roma,it Serie A,3,270,3.0,3,0,35,3,10,7,70.0,1.0,1.0,1,1.0,33.3,GK
+140,Ørjan Nyland,60.0,22-23,31,no NOR,RB Leipzig,de Bundesliga,2,180,2.0,2,0,23,2,5,4,60.0,2.0,0.0,0,1.0,50.0,GK
+141,Álvaro Aceves,100.0,22-23,19,es ESP,Valladolid,es La Liga,1,13,0.1,0,1,13,0,3,3,100.0,0.0,0.0,0,0.0,,GK
+142,Axel Werner,50.0,22-23,26,ar ARG,Elche,es La Liga,2,180,2.0,2,0,36,4,8,4,50.0,0.0,0.0,2,0.0,0.0,GK
+143,Stefan Ortega,93.3,22-23,29,de GER,Manchester City,eng Premier League,3,270,3.0,3,0,35,1,15,14,93.3,2.0,1.0,0,2.0,66.7,GK
+144,Lorenzo Montipò,68.0,22-23,26,it ITA,Hellas Verona,it Serie A,37,3330,37.0,37,0,0,59,181,124,68.0,7.0,9.0,21,5.0,13.5,GK
+145,Fraser Forster,60.0,22-23,34,eng ENG,Tottenham,eng Premier League,14,1215,13.5,13,1,24,24,55,30,60.0,5.0,3.0,5,3.0,23.1,GK
+146,Vito Mannone,72.6,22-23,34,it ITA,Lorient,fr Ligue 1,18,1608,17.9,17,1,9,24,84,60,72.6,4.0,6.0,7,5.0,29.4,GK
+147,Jonas Omlin,69.8,22-23,28,ch SUI,2 Teams,2 Comps,29,2456,27.3,29,0,0,44,129,86,69.8,10.0,5.0,14,7.0,24.1,GK
+148,Gavin Bazunu,54.2,22-23,20,ie IRL,Southampton,eng Premier League,32,2880,32.0,32,0,6,56,120,67,54.2,6.0,6.0,20,4.0,12.5,GK
+149,Florian Müller,62.1,22-23,24,de GER,Stuttgart,de Bundesliga,19,1710,19.0,19,0,14,34,87,53,62.1,3.0,7.0,9,1.0,5.3,GK
+150,Jeroen Zoet,76.9,22-23,31,nl NED,Spezia,it Serie A,5,334,3.7,4,1,24,4,13,9,76.9,0.0,3.0,1,0.0,0.0,GK
+151,Iñaki Peña,50.0,22-23,23,es ESP,Barcelona,es La Liga,2,73,0.8,0,2,36,2,4,2,50.0,0.0,0.0,0,0.0,,GK
+152,Gregor Kobel,73.9,22-23,24,ch SUI,Dortmund,de Bundesliga,27,2430,27.0,27,0,2,32,119,88,73.9,19.0,3.0,5,11.0,40.7,GK
+153,Joel Robles,66.7,22-23,32,es ESP,Leeds United,eng Premier League,4,360,4.0,4,0,23,11,27,16,66.7,0.0,1.0,3,0.0,0.0,GK
+154,Iván Villar,66.1,22-23,25,es ESP,Celta Vigo,es La Liga,19,1710,19.0,19,0,19,24,62,38,66.1,6.0,5.0,8,4.0,21.1,GK
+155,Kevin Trapp,62.3,22-23,32,de GER,Eint Frankfurt,de Bundesliga,33,2970,33.0,33,0,0,51,130,80,62.3,13.0,10.0,10,6.0,18.2,GK
+156,Fabian Bredlow,69.5,22-23,27,de GER,Stuttgart,de Bundesliga,15,1350,15.0,15,0,18,23,59,37,69.5,4.0,5.0,6,1.0,6.7,GK
+157,Danny Ward,63.0,22-23,29,wls WAL,Leicester City,eng Premier League,26,2340,26.0,26,0,9,46,119,75,63.0,7.0,3.0,16,6.0,23.1,GK
+158,Giorgi Mamardashvili,70.9,22-23,21,ge GEO,Valencia,es La Liga,38,3420,38.0,38,0,0,45,148,105,70.9,11.0,9.0,18,7.0,18.4,GK
+159,Nicola Ravaglia,67.2,22-23,33,it ITA,Sampdoria,it Serie A,9,810,9.0,9,0,20,23,64,41,67.2,0.0,3.0,6,0.0,0.0,GK
+160,Diego Mariño,60.0,22-23,32,es ESP,Almería,es La Liga,1,45,0.5,0,1,17,2,5,3,60.0,0.0,0.0,0,0.0,,GK
+161,Fernando,70.5,22-23,32,es ESP,Almería,es La Liga,37,3285,36.5,37,0,1,61,193,132,70.5,11.0,8.0,18,4.0,10.8,GK
+162,Gauthier Gallon,66.1,22-23,29,fr FRA,Troyes,fr Ligue 1,30,2667,29.6,30,0,5,65,177,114,66.1,3.0,9.0,18,0.0,0.0,GK
+163,Koen Casteels,70.1,22-23,30,be BEL,Wolfsburg,de Bundesliga,34,3060,34.0,34,0,0,48,147,101,70.1,13.0,10.0,11,12.0,35.3,GK
+164,Marcin Bułka,66.7,22-23,22,pl POL,Nice,fr Ligue 1,2,180,2.0,2,0,20,2,6,4,66.7,0.0,1.0,1,0.0,0.0,GK
+165,Yvon Mvogo,71.4,22-23,28,ch SUI,Lorient,fr Ligue 1,21,1812,20.1,21,0,1,29,98,70,71.4,11.0,4.0,6,3.0,14.3,GK
+166,Tomáš Koubek,66.2,22-23,29,cz CZE,Augsburg,de Bundesliga,11,990,11.0,11,0,15,22,65,45,66.2,1.0,4.0,6,1.0,9.1,GK
+167,Finn Dahmen,65.9,22-23,24,de GER,Mainz 05,de Bundesliga,8,720,8.0,8,0,26,16,44,26,65.9,3.0,2.0,3,0.0,0.0,GK
+168,Pietro Terracciano,66.7,22-23,32,it ITA,Fiorentina,it Serie A,29,2610,29.0,29,0,8,38,96,59,66.7,9.0,8.0,12,5.0,17.2,GK
+169,Pepe Reina,73.6,22-23,39,es ESP,Villarreal,es La Liga,22,1980,22.0,22,0,12,27,87,61,73.6,13.0,3.0,6,5.0,22.7,GK
+170,Édgar Badía,72.0,22-23,30,es ESP,Elche,es La Liga,36,3240,36.0,36,0,0,63,200,136,72.0,5.0,10.0,21,4.0,11.1,GK
+171,Dean Henderson,65.9,22-23,25,eng ENG,Nott'ham Forest,eng Premier League,18,1620,18.0,18,0,0,31,85,52,65.9,5.0,5.0,8,6.0,33.3,GK
+172,Alex Cordaz,100.0,22-23,39,it ITA,Inter,it Serie A,1,26,0.3,0,1,34,0,2,2,100.0,0.0,0.0,0,1.0,,GK
+173,Robin Olsen,63.2,22-23,32,se SWE,Aston Villa,eng Premier League,4,281,3.1,2,2,30,8,19,11,63.2,1.0,0.0,1,1.0,50.0,GK
+174,André Onana,73.5,22-23,26,cm CMR,Inter,it Serie A,24,2160,24.0,24,0,14,24,83,61,73.5,14.0,3.0,7,8.0,33.3,GK
+175,Rui Silva,71.2,22-23,28,pt POR,Betis,es La Liga,26,2340,26.0,26,0,11,32,104,73,71.2,12.0,4.0,10,9.0,34.6,GK
+176,Keylor Navas,66.3,22-23,35,cr CRC,2 Teams,2 Comps,17,1529,17.0,17,0,17,32,83,51,66.3,4.0,4.0,9,1.0,5.9,GK
+177,Jean-Louis Leca,75.0,22-23,36,fr FRA,Lens,fr Ligue 1,1,90,1.0,1,0,36,1,4,3,75.0,1.0,0.0,0,0.0,0.0,GK
+178,Jan Oblak,75.9,22-23,29,si SVN,Atlético Madrid,es La Liga,28,2492,27.7,28,0,0,20,79,59,75.9,17.0,5.0,6,11.0,39.3,GK
+179,Yehvann Diouf,78.1,22-23,22,sn SEN,Reims,fr Ligue 1,31,2790,31.0,31,0,4,31,137,107,78.1,11.0,12.0,8,14.0,45.2,GK
+180,Michele Cerofolini,81.8,22-23,23,it ITA,Fiorentina,it Serie A,5,450,5.0,5,0,33,3,11,8,81.8,4.0,1.0,0,2.0,40.0,GK
+181,Anthony Lopes,75.6,22-23,31,pt POR,Lyon,fr Ligue 1,32,2816,31.3,32,0,0,39,131,94,75.6,16.0,4.0,12,7.0,21.9,GK
+182,Gianluca Pegolo,66.7,22-23,41,it ITA,Sassuolo,it Serie A,2,180,2.0,2,0,36,3,6,3,66.7,0.0,1.0,1,0.0,0.0,GK
+183,Pierluigi Gollini,75.0,22-23,27,it ITA,2 Teams,it Serie A,7,630,7.0,7,0,25,6,24,18,75.0,3.0,3.0,1,4.0,57.1,GK
+184,Álvaro Fernández,64.0,22-23,24,es ESP,Espanyol,es La Liga,11,990,11.0,11,0,23,18,50,33,64.0,3.0,4.0,4,2.0,18.2,GK
+185,François-Joseph Sollacaro,45.8,22-23,28,fr FRA,Ajaccio,fr Ligue 1,6,540,6.0,6,0,28,14,24,11,45.8,1.0,1.0,4,1.0,16.7,GK
+186,Mory Diaw,75.8,22-23,29,sn SEN,Clermont Foot,fr Ligue 1,37,3330,37.0,37,0,0,47,161,110,75.8,17.0,8.0,12,10.0,27.0,GK
+187,Alessio Cragno,40.0,22-23,28,it ITA,Monza,it Serie A,1,90,1.0,1,0,37,3,5,2,40.0,0.0,0.0,1,0.0,0.0,GK
+188,Léo Jardim,35.3,22-23,27,br BRA,Lille,fr Ligue 1,6,540,6.0,6,0,12,13,17,4,35.3,3.0,1.0,2,0.0,0.0,GK
+189,Yassine Bounou,63.2,22-23,31,ma MAR,Sevilla,es La Liga,25,2151,23.9,25,0,12,41,106,66,63.2,7.0,6.0,12,4.0,16.0,GK
+190,Federico Marchetti,33.3,22-23,39,it ITA,Spezia,it Serie A,1,66,0.7,0,1,16,2,3,1,33.3,0.0,0.0,0,0.0,,GK
+191,Jan Olschowsky,67.7,22-23,20,de GER,Gladbach,de Bundesliga,4,360,4.0,4,0,17,11,31,20,67.7,1.0,1.0,2,0.0,0.0,GK
+192,Stole Dimitrievski,67.6,22-23,28,mk MKD,Rayo Vallecano,es La Liga,37,3324,36.9,37,0,1,49,139,94,67.6,13.0,10.0,14,9.0,24.3,GK
+193,Mike Maignan,69.4,22-23,27,fr FRA,Milan,it Serie A,22,1978,22.0,22,0,0,21,62,40,69.4,11.0,7.0,4,8.0,36.4,GK
+194,Mateusz Lis,72.5,22-23,25,pl POL,Troyes,fr Ligue 1,9,751,8.3,8,1,21,16,51,34,72.5,1.0,3.0,4,1.0,12.5,GK
+195,Mark Travers,54.5,22-23,23,ie IRL,Bournemouth,eng Premier League,12,1035,11.5,11,1,26,32,66,36,54.5,2.0,0.0,9,2.0,18.2,GK
+196,David Gil,82.6,22-23,28,es ESP,Cádiz,es La Liga,4,360,4.0,4,0,23,5,23,18,82.6,1.0,1.0,2,1.0,25.0,GK
+1,Samuele Perisan,60.0,23-24,25,it ITA,Empoli,it Serie A,1,90,1.0,1,0,37,2,5,3,60.0,0.0,0.0,1,0.0,0.0,GK
+2,Filip Jørgensen,72.2,23-24,21,dk DEN,Villarreal,es La Liga,36,3240,36.0,36,0,2,63,205,143,72.2,13.0,10.0,13,6.0,16.7,GK
+3,Álvaro Vallés,74.3,23-24,26,es ESP,Las Palmas,es La Liga,37,3263,36.3,37,0,0,44,152,108,74.3,10.0,10.0,17,8.0,21.6,GK
+4,Wojciech Szczęsny,74.1,23-24,33,pl POL,Juventus,it Serie A,35,3150,35.0,35,0,1,30,108,79,74.1,17.0,13.0,5,15.0,42.9,GK
+5,Odysseas Vlachodimos,50.0,23-24,29,gr GRE,Nott'ham Forest,eng Premier League,5,450,5.0,5,0,14,12,22,10,50.0,1.0,0.0,4,1.0,20.0,GK
+6,Alaa Bellaarouch,63.5,23-24,21,ma MAR,Strasbourg,fr Ligue 1,15,1350,15.0,15,0,19,26,63,37,63.5,4.0,2.0,9,2.0,13.3,GK
+7,Gianluigi Donnarumma,84.5,23-24,24,it ITA,Paris S-G,fr Ligue 1,25,2169,24.1,25,0,4,20,110,89,84.5,18.0,6.0,1,10.0,40.0,GK
+8,Jiří Pavlenka,60.5,23-24,31,cz CZE,Werder Bremen,de Bundesliga,7,630,7.0,7,0,17,17,38,21,60.5,2.0,0.0,5,1.0,14.3,GK
+9,Đorđe Petrović,65.7,23-24,23,rs SRB,Chelsea,eng Premier League,23,1987,22.1,22,1,12,38,108,73,65.7,13.0,5.0,4,5.0,22.7,GK
+10,Marco Silvestri,67.6,23-24,32,it ITA,Udinese,it Serie A,17,1530,17.0,17,0,16,28,68,40,67.6,1.0,11.0,5,4.0,23.5,GK
+11,Alexander Schwolow,66.7,23-24,31,de GER,Union Berlin,de Bundesliga,1,90,1.0,1,0,28,2,6,4,66.7,0.0,0.0,1,0.0,0.0,GK
+12,Boris Radunović,55.6,23-24,27,rs SRB,Cagliari,it Serie A,7,630,7.0,7,0,31,12,27,16,55.6,0.0,2.0,5,2.0,28.6,GK
+13,Claudio Bravo,75.0,23-24,40,cl CHI,Betis,es La Liga,7,630,7.0,7,0,13,5,20,16,75.0,3.0,4.0,0,2.0,28.6,GK
+14,Josep Martinez,69.2,23-24,25,es ESP,Genoa,it Serie A,36,3239,36.0,36,0,1,43,130,87,69.2,11.0,13.0,12,8.0,22.2,GK
+15,André Ferreira,66.2,23-24,27,pt POR,Granada,es La Liga,15,1340,14.9,14,1,6,29,77,49,66.2,0.0,5.0,9,0.0,0.0,GK
+16,Thibaut Courtois,100.0,23-24,31,be BEL,Real Madrid,es La Liga,4,332,3.7,4,0,1,0,15,15,100.0,3.0,1.0,0,3.0,75.0,GK
+17,Thomas Kaminski,63.3,23-24,30,be BEL,Luton Town,eng Premier League,38,3405,37.8,38,0,0,85,221,140,63.3,6.0,8.0,24,2.0,5.3,GK
+18,Steve Mandanda,70.7,23-24,38,fr FRA,Rennes,fr Ligue 1,34,3060,34.0,34,0,0,46,147,104,70.7,12.0,10.0,12,7.0,20.6,GK
+19,Guillermo Ochoa,67.8,23-24,38,mx MEX,Salernitana,it Serie A,21,1890,21.0,21,0,4,44,115,72,67.8,0.0,6.0,15,1.0,4.8,GK
+20,Pau López,71.0,23-24,28,es ESP,Marseille,fr Ligue 1,33,2939,32.7,33,0,0,39,124,86,71.0,13.0,11.0,9,7.0,21.2,GK
+21,Radosław Majecki,81.5,23-24,23,pl POL,Monaco,fr Ligue 1,12,1080,12.0,12,0,22,10,54,45,81.5,9.0,2.0,1,7.0,58.3,GK
+22,Moritz Nicolas,71.9,23-24,25,de GER,Gladbach,de Bundesliga,27,2430,27.0,27,0,7,49,160,111,71.9,6.0,11.0,10,4.0,14.8,GK
+23,Benoît Costil,60.6,23-24,36,fr FRA,Salernitana,it Serie A,13,1170,13.0,13,0,25,29,66,38,60.6,2.0,3.0,8,1.0,7.7,GK
+24,James Trafford,65.7,23-24,20,eng ENG,Burnley,eng Premier League,28,2520,28.0,28,0,8,62,166,106,65.7,3.0,5.0,20,2.0,7.1,GK
+25,Bernd Leno,72.1,23-24,31,de GER,Fulham,eng Premier League,38,3420,38.0,38,0,0,61,190,133,72.1,13.0,8.0,17,10.0,26.3,GK
+26,Ivan Provedel,73.9,23-24,29,it ITA,Lazio,it Serie A,30,2699,30.0,30,0,2,33,119,86,73.9,12.0,6.0,12,9.0,30.0,GK
+27,Jason Steele,58.1,23-24,32,eng ENG,Brighton,eng Premier League,17,1530,17.0,17,0,21,34,74,42,58.1,5.0,4.0,8,2.0,11.8,GK
+28,Kepa Arrizabalaga,76.3,23-24,28,es ESP,Real Madrid,es La Liga,14,1198,13.3,13,1,21,9,38,30,76.3,10.0,2.0,1,8.0,61.5,GK
+29,Fran Vieites,77.8,23-24,24,es ESP,Betis,es La Liga,4,315,3.5,3,1,28,4,18,14,77.8,1.0,2.0,0,2.0,66.7,GK
+30,Alphonse Areola,74.5,23-24,30,fr FRA,West Ham,eng Premier League,31,2699,30.0,31,0,2,53,188,136,74.5,11.0,9.0,11,4.0,12.9,GK
+31,Benjamin Lecomte,75.9,23-24,32,fr FRA,Montpellier,fr Ligue 1,30,2700,30.0,30,0,0,37,137,102,75.9,9.0,11.0,10,10.0,33.3,GK
+32,Dominik Greif,100.0,23-24,26,sk SVK,Mallorca,es La Liga,1,90,1.0,1,0,37,0,4,4,100.0,0.0,1.0,0,1.0,100.0,GK
+33,Antonio Mirante,62.5,23-24,40,it ITA,Milan,it Serie A,2,177,2.0,2,0,27,3,8,5,62.5,0.0,1.0,1,0.0,0.0,GK
+34,Andriy Lunin,75.4,23-24,24,ua UKR,Real Madrid,es La Liga,21,1890,21.0,21,0,17,17,65,48,75.4,16.0,5.0,0,10.0,47.6,GK
+35,Arnau Tenas,72.0,23-24,22,es ESP,Paris S-G,fr Ligue 1,6,529,5.9,5,1,13,7,25,18,72.0,2.0,2.0,1,1.0,20.0,GK
+36,Massamba Ndiaye,79.2,23-24,21,sn SEN,Clermont Foot,fr Ligue 1,4,360,4.0,4,0,30,6,24,18,79.2,1.0,2.0,1,0.0,0.0,GK
+37,Loris Karius,42.9,23-24,30,de GER,Newcastle Utd,eng Premier League,1,90,1.0,1,0,21,4,7,4,42.9,0.0,0.0,1,0.0,0.0,GK
+38,Luís Maximiano,66.3,23-24,24,pt POR,Almería,es La Liga,33,2970,33.0,33,0,4,63,175,111,66.3,2.0,11.0,20,6.0,18.2,GK
+39,Thomas Strakosha,75.0,23-24,28,al ALB,Brentford,eng Premier League,2,135,1.5,1,1,32,2,8,6,75.0,0.0,0.0,1,0.0,0.0,GK
+40,Marc Martínez,60.9,23-24,33,es ESP,Granada,es La Liga,3,270,3.0,3,0,14,11,23,12,60.9,0.0,0.0,3,0.0,0.0,GK
+41,Álex Remiro,76.2,23-24,28,es ESP,Real Sociedad,es La Liga,37,3275,36.4,37,0,0,36,130,94,76.2,16.0,12.0,9,15.0,40.5,GK
+42,Dimitry Bertaud,67.6,23-24,25,cd COD,Montpellier,fr Ligue 1,4,360,4.0,4,0,25,11,34,23,67.6,1.0,1.0,2,0.0,0.0,GK
+43,Martin Dúbravka,70.8,23-24,34,sk SVK,Newcastle Utd,eng Premier League,23,1985,22.1,22,1,14,42,130,87,70.8,9.0,4.0,9,5.0,22.7,GK
+44,Ederson,70.7,23-24,29,br BRA,Manchester City,eng Premier League,33,2785,30.9,33,0,2,27,82,56,70.7,24.0,6.0,3,10.0,30.3,GK
+45,Marco Bizot,75.2,23-24,32,nl NED,Brest,fr Ligue 1,32,2876,32.0,32,0,0,34,129,94,75.2,15.0,10.0,7,13.0,40.6,GK
+46,Ivo Grbić,57.6,23-24,27,hr CRO,2 Teams,2 Comps,9,771,8.6,9,0,23,25,59,36,57.6,0.0,3.0,6,0.0,0.0,GK
+47,Simone Scuffet,59.7,23-24,27,it ITA,Cagliari,it Serie A,31,2789,31.0,31,0,7,55,129,76,59.7,8.0,10.0,13,3.0,9.7,GK
+48,Yann Sommer,82.7,23-24,34,ch SUI,Inter,it Serie A,34,3060,34.0,34,0,3,19,98,78,82.7,27.0,6.0,1,19.0,55.9,GK
+49,Aaron Ramsdale,64.3,23-24,25,eng ENG,Arsenal,eng Premier League,6,540,6.0,6,0,31,5,14,9,64.3,5.0,1.0,0,2.0,33.3,GK
+50,Oliver Baumann,69.7,23-24,33,de GER,Hoffenheim,de Bundesliga,34,3060,34.0,34,0,0,66,211,143,69.7,13.0,7.0,14,2.0,5.9,GK
+51,Rémy Descamps,73.0,23-24,27,fr FRA,Nantes,fr Ligue 1,6,540,6.0,6,0,18,11,37,26,73.0,2.0,2.0,2,1.0,16.7,GK
+52,Jordan Pickford,73.9,23-24,29,eng ENG,Everton,eng Premier League,38,3420,38.0,38,0,0,51,165,117,73.9,13.0,9.0,16,13.0,34.2,GK
+53,Matt Turner,67.5,23-24,29,us USA,Nott'ham Forest,eng Premier League,17,1530,17.0,17,0,20,28,80,52,67.5,4.0,5.0,8,2.0,11.8,GK
+54,Nick Pope,72.4,23-24,31,eng ENG,Newcastle Utd,eng Premier League,15,1345,14.9,15,0,3,16,58,42,72.4,9.0,2.0,4,5.0,33.3,GK
+55,Mattia Perin,80.0,23-24,30,it ITA,Juventus,it Serie A,3,225,2.5,3,0,30,1,5,4,80.0,2.0,1.0,0,1.0,33.3,GK
+56,Mathieu Gorgelin,80.0,23-24,32,fr FRA,Le Havre,fr Ligue 1,1,90,1.0,1,0,29,2,5,3,80.0,0.0,0.0,1,0.0,0.0,GK
+57,Michele Di Gregorio,79.9,23-24,26,it ITA,Monza,it Serie A,33,2872,31.9,33,0,1,35,159,122,79.9,11.0,11.0,11,12.0,36.4,GK
+58,Alban Lafont,70.3,23-24,24,ci CIV,Nantes,fr Ligue 1,28,2496,27.7,28,0,1,43,118,75,70.3,7.0,4.0,17,7.0,25.0,GK
+59,Luca Gemello,55.6,23-24,23,it ITA,Torino,it Serie A,2,180,2.0,2,0,35,5,9,4,55.6,0.0,0.0,2,0.0,0.0,GK
+60,Predrag Rajković,71.7,23-24,27,rs SRB,Mallorca,es La Liga,36,3240,36.0,36,0,2,43,138,95,71.7,7.0,15.0,14,9.0,25.0,GK
+61,Robin Zentner,64.8,23-24,28,de GER,Mainz 05,de Bundesliga,30,2700,30.0,30,0,0,48,128,81,64.8,7.0,12.0,11,7.0,23.3,GK
+62,Unai Simón,73.8,23-24,26,es ESP,Athletic Club,es La Liga,36,3182,35.4,36,0,1,33,122,90,73.8,18.0,11.0,7,16.0,44.4,GK
+63,Nicola Leali,77.8,23-24,30,it ITA,Genoa,it Serie A,3,176,2.0,2,1,34,2,9,7,77.8,1.0,0.0,1,0.0,0.0,GK
+64,Marcel Schuhen,62.1,23-24,30,de GER,Darmstadt 98,de Bundesliga,31,2790,31.0,31,0,2,76,198,123,62.1,3.0,7.0,21,3.0,9.7,GK
+65,Brice Samba,78.7,23-24,29,fr FRA,Lens,fr Ligue 1,33,2970,33.0,33,0,0,35,136,101,78.7,14.0,8.0,11,14.0,42.4,GK
+66,Caoimhín Kelleher,71.1,23-24,24,ie IRL,Liverpool,eng Premier League,10,900,10.0,10,0,27,11,38,28,71.1,8.0,2.0,0,2.0,20.0,GK
+67,Paulo Gazzaniga,75.6,23-24,31,ar ARG,Girona,es La Liga,38,3420,38.0,38,0,0,46,168,121,75.6,25.0,6.0,7,12.0,31.6,GK
+68,Emil Audero,72.7,23-24,26,id IDN,Inter,it Serie A,4,337,3.7,4,0,34,3,11,8,72.7,2.0,1.0,1,2.0,50.0,GK
+69,Janis Blaswich,65.8,23-24,32,de GER,RB Leipzig,de Bundesliga,21,1890,21.0,21,0,13,30,76,46,65.8,10.0,4.0,7,5.0,23.8,GK
+70,Federico Ravaglia,83.3,23-24,23,it ITA,Bologna,it Serie A,6,535,5.9,6,0,32,3,18,13,83.3,4.0,1.0,1,4.0,66.7,GK
+71,Aarón Escandell,25.0,23-24,27,es ESP,Las Palmas,es La Liga,2,153,1.7,1,1,33,3,4,1,25.0,0.0,0.0,1,0.0,0.0,GK
+72,Ionuț Radu,36.4,23-24,26,ro ROU,Bournemouth,eng Premier League,2,180,2.0,2,0,11,7,11,4,36.4,1.0,0.0,1,0.0,0.0,GK
+73,Daniel Bentley,53.3,23-24,30,eng ENG,Wolves,eng Premier League,5,383,4.3,3,2,33,7,15,8,53.3,1.0,0.0,2,1.0,33.3,GK
+74,Robert Sánchez,70.5,23-24,25,es ESP,Chelsea,eng Premier League,16,1433,15.9,16,0,2,25,78,52,70.5,5.0,4.0,7,3.0,18.8,GK
+75,Guillaume Restes,69.8,23-24,18,fr FRA,Toulouse,fr Ligue 1,34,3060,34.0,34,0,0,46,139,93,69.8,11.0,10.0,13,6.0,17.6,GK
+76,Jeremías Ledesma,70.2,23-24,30,ar ARG,Cádiz,es La Liga,34,3048,33.9,34,0,1,47,151,104,70.2,6.0,12.0,16,9.0,26.5,GK
+77,Marc-André ter Stegen,75.5,23-24,31,de GER,Barcelona,es La Liga,28,2520,28.0,28,0,0,27,102,75,75.5,20.0,5.0,3,15.0,53.6,GK
+78,Raúl Fernández,35.3,23-24,35,es ESP,Granada,es La Liga,4,280,3.1,4,0,10,11,17,7,35.3,1.0,0.0,3,0.0,0.0,GK
+79,Iván Cuéllar,83.3,23-24,39,es ESP,Mallorca,es La Liga,1,90,1.0,1,0,30,1,6,5,83.3,1.0,0.0,0,0.0,0.0,GK
+80,Guglielmo Vicario,67.7,23-24,26,it ITA,Tottenham,eng Premier League,38,3420,38.0,38,0,0,61,167,109,67.7,20.0,6.0,12,7.0,18.4,GK
+81,Emiliano Martínez,66.2,23-24,30,ar ARG,Aston Villa,eng Premier League,34,3015,33.5,34,0,0,48,139,95,66.2,19.0,8.0,7,8.0,23.5,GK
+82,Rui Patrício,66.2,23-24,35,pt POR,Roma,it Serie A,23,2070,23.0,23,0,15,27,74,49,66.2,11.0,5.0,7,6.0,26.1,GK
+83,Alisson,73.4,23-24,30,br BRA,Liverpool,eng Premier League,28,2520,28.0,28,0,0,30,109,80,73.4,16.0,8.0,4,8.0,28.6,GK
+84,Raffaele Di Gennaro,100.0,23-24,29,it ITA,Inter,it Serie A,1,23,0.3,0,1,36,0,4,4,100.0,0.0,0.0,0,0.0,,GK
+85,Francesco Rossi,100.0,23-24,32,it ITA,Atalanta,it Serie A,1,5,0.1,0,1,34,0,1,1,100.0,0.0,0.0,0,1.0,,GK
+86,Sven Ulreich,64.5,23-24,34,de GER,Bayern Munich,de Bundesliga,11,990,11.0,11,0,21,12,31,19,64.5,7.0,2.0,2,4.0,36.4,GK
+87,Rémy Riou,57.1,23-24,35,fr FRA,Lyon,fr Ligue 1,3,270,3.0,3,0,10,6,14,8,57.1,0.0,1.0,2,1.0,33.3,GK
+88,Matz Sels,60.2,23-24,31,be BEL,2 Teams,2 Comps,35,3150,35.0,35,0,0,51,123,76,60.2,10.0,11.0,14,4.0,11.4,GK
+89,Marvin Schwäbe,66.1,23-24,28,de GER,Köln,de Bundesliga,34,3060,34.0,34,0,0,60,168,108,66.1,5.0,12.0,17,4.0,11.8,GK
+90,Manuel Neuer,66.7,23-24,37,de GER,Bayern Munich,de Bundesliga,23,2053,22.8,23,0,0,33,93,59,66.7,16.0,1.0,6,6.0,26.1,GK
+91,Andrea Consigli,61.6,23-24,36,it ITA,Sassuolo,it Serie A,35,3150,35.0,35,0,0,68,159,93,61.6,6.0,8.0,21,3.0,8.6,GK
+92,Marco Carnesecchi,75.7,23-24,23,it ITA,Atalanta,it Serie A,27,2425,26.9,27,0,11,30,107,75,75.7,15.0,5.0,7,8.0,29.6,GK
+93,Alessandro Sorrentino,62.5,23-24,21,it ITA,Monza,it Serie A,7,548,6.1,5,2,31,16,32,16,62.5,0.0,1.0,4,0.0,0.0,GK
+94,David Soria,72.5,23-24,30,es ESP,Getafe,es La Liga,38,3413,37.9,38,0,0,52,171,118,72.5,10.0,13.0,15,10.0,26.3,GK
+95,José Sá,73.4,23-24,30,pt POR,Wolves,eng Premier League,35,3037,33.7,35,0,0,58,188,131,73.4,12.0,7.0,16,4.0,11.4,GK
+96,Łukasz Fabiański,66.0,23-24,38,pl POL,West Ham,eng Premier League,10,721,8.0,7,3,27,21,53,33,66.0,3.0,1.0,3,1.0,14.3,GK
+97,Alex Meret,63.5,23-24,26,it ITA,Napoli,it Serie A,31,2773,30.8,31,0,1,40,104,62,63.5,10.0,13.0,8,5.0,16.1,GK
+98,Rubén Blanco,66.7,23-24,28,es ESP,Marseille,fr Ligue 1,2,121,1.3,1,1,30,2,6,4,66.7,0.0,0.0,1,0.0,0.0,GK
+99,Tommaso Martinelli,33.3,23-24,17,it ITA,Fiorentina,it Serie A,1,90,1.0,1,0,31,2,3,1,33.3,1.0,0.0,0,0.0,0.0,GK
+100,Wes Foderingham,63.7,23-24,32,eng ENG,Sheffield Utd,eng Premier League,30,2649,29.4,29,1,8,79,204,130,63.7,3.0,4.0,22,1.0,3.4,GK
+101,Elia Caprile,78.3,23-24,21,it ITA,Empoli,it Serie A,23,2070,23.0,23,0,9,27,106,78,78.3,6.0,6.0,11,5.0,21.7,GK
+102,David Raya,68.1,23-24,27,es ESP,Arsenal,eng Premier League,32,2880,32.0,32,0,3,24,69,45,68.1,23.0,4.0,5,16.0,50.0,GK
+103,Alexander Brunst,41.2,23-24,28,de GER,Darmstadt 98,de Bundesliga,3,270,3.0,3,0,21,10,17,7,41.2,0.0,1.0,2,0.0,0.0,GK
+104,Antonio Sivera,75.6,23-24,26,es ESP,Alavés,es La Liga,34,3060,34.0,34,0,4,38,123,87,75.6,11.0,8.0,15,10.0,29.4,GK
+105,Arijanet Muric,80.8,23-24,24,xk KVX,Burnley,eng Premier League,10,900,10.0,10,0,25,16,78,62,80.8,2.0,4.0,4,0.0,0.0,GK
+106,Cristian,66.7,23-24,25,es ESP,Valencia,es La Liga,1,57,0.6,0,1,37,1,3,2,66.7,0.0,0.0,0,0.0,,GK
+107,Michael Zetterer,74.2,23-24,28,de GER,Werder Bremen,de Bundesliga,27,2430,27.0,27,0,7,37,128,92,74.2,9.0,9.0,9,6.0,22.2,GK
+108,Sam Johnstone,62.7,23-24,30,eng ENG,Crystal Palace,eng Premier League,20,1796,20.0,20,0,4,27,67,41,62.7,5.0,6.0,9,6.0,30.0,GK
+109,Wladimiro Falcone,71.7,23-24,28,it ITA,Lecce,it Serie A,38,3420,38.0,38,0,0,54,173,119,71.7,8.0,14.0,16,7.0,18.4,GK
+110,Manuel Riemann,67.0,23-24,34,de GER,Bochum,de Bundesliga,33,2970,33.0,33,0,0,70,185,116,67.0,7.0,12.0,14,4.0,12.1,GK
+111,Vanja Milinković-Savić,81.3,23-24,26,rs SRB,Torino,it Serie A,36,3240,36.0,36,0,1,31,134,103,81.3,13.0,14.0,9,18.0,50.0,GK
+112,Aitor Fernández,60.0,23-24,32,es ESP,Osasuna,es La Liga,7,551,6.1,6,1,30,9,20,11,60.0,0.0,2.0,4,1.0,16.7,GK
+113,Juan Musso,70.6,23-24,29,ar ARG,Atalanta,it Serie A,11,990,11.0,11,0,27,12,34,23,70.6,6.0,1.0,4,6.0,54.5,GK
+114,Vincenzo Fiorillo,69.2,23-24,33,it ITA,Salernitana,it Serie A,4,360,4.0,4,0,22,8,26,18,69.2,0.0,2.0,2,0.0,0.0,GK
+115,Julen Agirrezabala,66.7,23-24,22,es ESP,Athletic Club,es La Liga,4,238,2.6,2,2,34,4,12,8,66.7,1.0,0.0,1,2.0,100.0,GK
+116,Sergio Herrera,64.4,23-24,30,es ESP,Osasuna,es La Liga,32,2869,31.9,32,0,6,47,132,84,64.4,12.0,7.0,13,9.0,28.1,GK
+117,Frederik Rønnow,68.5,23-24,30,dk DEN,Union Berlin,de Bundesliga,33,2970,33.0,33,0,0,56,162,105,68.5,9.0,6.0,18,7.0,21.2,GK
+118,Mark Flekken,65.3,23-24,30,nl NED,Brentford,eng Premier League,37,3285,36.5,37,0,0,63,176,113,65.3,10.0,9.0,18,7.0,18.9,GK
+119,Neto,69.7,23-24,34,br BRA,Bournemouth,eng Premier League,32,2880,32.0,32,0,4,55,165,110,69.7,10.0,9.0,13,7.0,21.9,GK
+120,Simone Aresti,100.0,23-24,37,it ITA,Cagliari,it Serie A,1,1,0.0,0,1,33,1,1,0,100.0,0.0,0.0,0,0.0,,GK
+121,Vicente Guaita,70.8,23-24,36,es ESP,Celta Vigo,es La Liga,27,2403,26.7,26,1,6,39,120,83,70.8,8.0,7.0,11,6.0,23.1,GK
+122,Łukasz Skorupski,75.5,23-24,32,pl POL,Bologna,it Serie A,32,2880,32.0,32,0,6,29,106,77,75.5,14.0,13.0,5,13.0,40.6,GK
+123,Maduka Okoye,75.3,23-24,23,ng NGA,Udinese,it Serie A,21,1890,21.0,21,0,16,25,89,65,75.3,5.0,8.0,8,5.0,23.8,GK
+124,Marko Dmitrović,66.2,23-24,31,rs SRB,Sevilla,es La Liga,13,1170,13.0,13,0,23,25,68,44,66.2,2.0,2.0,9,2.0,15.4,GK
+125,Marco Sportiello,69.7,23-24,31,it ITA,Milan,it Serie A,7,630,7.0,7,0,19,11,33,23,69.7,3.0,3.0,1,2.0,28.6,GK
+126,Nicola Bagnolini,100.0,23-24,19,it ITA,Bologna,it Serie A,1,5,0.1,0,1,29,0,1,1,100.0,0.0,0.0,0,0.0,,GK
+127,Lukáš Hrádecký,76.5,23-24,33,fi FIN,Leverkusen,de Bundesliga,33,2970,33.0,33,0,1,24,102,78,76.5,28.0,5.0,0,15.0,45.5,GK
+128,Alexandre Oukidja,72.4,23-24,35,dz ALG,Metz,fr Ligue 1,34,2987,33.2,34,0,0,57,185,128,72.4,8.0,5.0,21,6.0,17.6,GK
+129,Oliver Christensen,63.2,23-24,24,dk DEN,Fiorentina,it Serie A,4,360,4.0,4,0,24,9,19,10,63.2,1.0,1.0,2,0.0,0.0,GK
+130,Alexander Nübel,69.2,23-24,26,de GER,Stuttgart,de Bundesliga,30,2700,30.0,30,0,0,36,107,74,69.2,20.0,3.0,7,11.0,36.7,GK
+131,Lucas Chevalier,76.4,23-24,21,fr FRA,Lille,fr Ligue 1,33,2969,33.0,33,0,0,32,123,91,76.4,16.0,10.0,7,15.0,45.5,GK
+132,Alexander Meyer,66.7,23-24,32,de GER,Dortmund,de Bundesliga,8,695,7.7,7,1,26,9,27,19,66.7,4.0,1.0,2,3.0,42.9,GK
+133,Simone Perilli,80.0,23-24,28,it ITA,Hellas Verona,it Serie A,1,90,1.0,1,0,37,2,10,8,80.0,0.0,1.0,0,0.0,0.0,GK
+134,Matej Kovar,100.0,23-24,23,cz CZE,Leverkusen,de Bundesliga,1,90,1.0,1,0,32,0,3,3,100.0,0.0,1.0,0,1.0,100.0,GK
+135,Péter Gulácsi,78.0,23-24,33,hu HUN,RB Leipzig,de Bundesliga,13,1170,13.0,13,0,16,9,41,33,78.0,9.0,4.0,0,5.0,38.5,GK
+136,Mile Svilar,76.6,23-24,23,rs SRB,Roma,it Serie A,15,1350,15.0,15,0,23,19,77,58,76.6,7.0,4.0,4,5.0,33.3,GK
+137,Ørjan Nyland,76.9,23-24,32,no NOR,Sevilla,es La Liga,24,2160,24.0,24,0,4,27,104,78,76.9,8.0,9.0,7,6.0,25.0,GK
+138,Stefano Turati,65.1,23-24,21,it ITA,Frosinone,it Serie A,31,2745,30.5,31,0,2,58,152,94,65.1,6.0,9.0,16,4.0,12.9,GK
+139,Lapo Nava,50.0,23-24,19,it ITA,Milan,it Serie A,1,3,0.0,0,1,23,1,2,1,50.0,0.0,0.0,0,0.0,,GK
+140,Stefan Ortega,74.1,23-24,30,de GER,Manchester City,eng Premier League,9,635,7.1,5,4,29,7,27,20,74.1,4.0,1.0,0,3.0,60.0,GK
+141,Lorenzo Montipò,69.3,23-24,27,it ITA,Hellas Verona,it Serie A,37,3330,37.0,37,0,0,49,153,105,69.3,9.0,10.0,18,8.0,21.6,GK
+142,Vito Mannone,60.0,23-24,35,it ITA,2 Teams,fr Ligue 1,2,91,1.0,1,1,29,2,5,3,60.0,0.0,1.0,0,0.0,0.0,GK
+143,Jonas Omlin,66.0,23-24,29,ch SUI,Gladbach,de Bundesliga,7,630,7.0,7,0,1,18,47,29,66.0,1.0,2.0,4,0.0,0.0,GK
+144,Pavao Pervan,52.8,23-24,35,at AUT,Wolfsburg,de Bundesliga,9,810,9.0,9,0,25,17,36,20,52.8,2.0,1.0,6,2.0,22.2,GK
+145,Jaume Doménech,75.0,23-24,32,es ESP,Valencia,es La Liga,2,79,0.9,1,1,32,3,12,9,75.0,0.0,0.0,1,0.0,0.0,GK
+146,Grégoire Coudert,100.0,23-24,24,fr FRA,Brest,fr Ligue 1,3,181,2.0,2,1,31,0,4,4,100.0,2.0,0.0,0,2.0,100.0,GK
+147,Iñaki Peña,56.4,23-24,24,es ESP,Barcelona,es La Liga,10,900,10.0,10,0,25,17,39,22,56.4,6.0,2.0,2,2.0,20.0,GK
+148,Gregor Kobel,75.4,23-24,25,ch SUI,Dortmund,de Bundesliga,27,2365,26.3,27,0,0,34,118,84,75.4,14.0,8.0,5,7.0,25.9,GK
+149,Iván Villar,63.6,23-24,26,es ESP,Celta Vigo,es La Liga,12,1014,11.3,12,0,22,18,44,26,63.6,2.0,4.0,6,0.0,0.0,GK
+150,Kevin Trapp,71.5,23-24,33,de GER,Eint Frankfurt,de Bundesliga,32,2880,32.0,32,0,0,48,137,87,71.5,10.0,13.0,9,7.0,21.9,GK
+151,Bart Verbruggen,72.5,23-24,20,nl NED,Brighton,eng Premier League,21,1890,21.0,21,0,17,28,91,63,72.5,7.0,8.0,6,4.0,19.0,GK
+152,Fabian Bredlow,86.4,23-24,28,de GER,Stuttgart,de Bundesliga,4,360,4.0,4,0,26,3,22,19,86.4,3.0,1.0,0,1.0,25.0,GK
+153,Giorgi Mamardashvili,73.8,23-24,22,ge GEO,Valencia,es La Liga,37,3284,36.5,37,0,0,41,145,103,73.8,13.0,10.0,14,13.0,35.1,GK
+154,Jesús Owono,66.7,23-24,22,gq EQG,Alavés,es La Liga,4,360,4.0,4,0,31,8,24,16,66.7,1.0,2.0,1,1.0,25.0,GK
+155,Diego Mariño,100.0,23-24,33,es ESP,Almería,es La Liga,1,90,1.0,1,0,37,2,4,2,100.0,0.0,0.0,1,0.0,0.0,GK
+156,Fernando,56.5,23-24,33,es ESP,Almería,es La Liga,4,360,4.0,4,0,34,10,23,13,56.5,1.0,1.0,2,0.0,0.0,GK
+157,Koen Casteels,67.8,23-24,31,be BEL,Wolfsburg,de Bundesliga,25,2250,25.0,25,0,0,39,115,78,67.8,8.0,6.0,11,4.0,16.0,GK
+158,Marcin Bułka,77.1,23-24,23,pl POL,Nice,fr Ligue 1,34,3060,34.0,34,0,0,29,105,74,77.1,15.0,10.0,9,17.0,50.0,GK
+159,Noah Atubolu,65.2,23-24,21,de GER,Freiburg,de Bundesliga,34,3060,34.0,34,0,0,58,158,99,65.2,11.0,9.0,14,10.0,29.4,GK
+160,Yvon Mvogo,72.0,23-24,29,ch SUI,Lorient,fr Ligue 1,34,3060,34.0,34,0,0,66,207,142,72.0,7.0,8.0,19,4.0,11.8,GK
+161,Tomáš Koubek,68.0,23-24,30,cz CZE,Augsburg,de Bundesliga,3,270,3.0,3,0,31,8,25,17,68.0,0.0,0.0,3,0.0,0.0,GK
+162,Finn Dahmen,71.5,23-24,25,de GER,Augsburg,de Bundesliga,31,2790,31.0,31,0,0,52,158,106,71.5,10.0,9.0,12,3.0,9.7,GK
+163,Guillaume Dietsch,66.7,23-24,22,fr FRA,Metz,fr Ligue 1,1,73,0.8,0,1,33,1,3,2,66.7,0.0,0.0,0,0.0,,GK
+164,Pietro Terracciano,77.0,23-24,33,it ITA,Fiorentina,it Serie A,33,2970,33.0,33,0,5,35,126,90,77.0,15.0,8.0,10,8.0,24.2,GK
+165,Pepe Reina,77.8,23-24,40,es ESP,Villarreal,es La Liga,2,180,2.0,2,0,29,2,9,7,77.8,1.0,1.0,0,0.0,0.0,GK
+166,Dean Henderson,66.3,23-24,26,eng ENG,2 Teams,eng Premier League,18,1620,18.0,18,0,10,30,86,57,66.3,8.0,4.0,6,4.0,22.2,GK
+167,Robin Olsen,61.8,23-24,33,se SWE,Aston Villa,eng Premier League,5,405,4.5,4,1,26,13,34,20,61.8,1.0,0.0,3,0.0,0.0,GK
+168,Arthur Desmas,72.5,23-24,29,fr FRA,Le Havre,fr Ligue 1,33,2970,33.0,33,0,0,43,153,111,72.5,7.0,11.0,15,7.0,21.2,GK
+169,André Onana,74.9,23-24,27,cm CMR,Manchester Utd,eng Premier League,38,3420,38.0,38,0,0,58,203,146,74.9,18.0,6.0,14,9.0,23.7,GK
+170,Rui Silva,75.8,23-24,29,pt POR,Betis,es La Liga,28,2475,27.5,28,0,6,36,120,85,75.8,10.0,9.0,9,9.0,32.1,GK
+171,Daniel Batz,82.4,23-24,32,de GER,Mainz 05,de Bundesliga,4,360,4.0,4,0,16,3,17,14,82.4,0.0,2.0,2,1.0,25.0,GK
+172,Keylor Navas,58.3,23-24,36,cr CRC,Paris S-G,fr Ligue 1,4,360,4.0,4,0,18,6,12,6,58.3,2.0,2.0,0,1.0,25.0,GK
+173,James Shea,100.0,23-24,32,eng ENG,Luton Town,eng Premier League,1,15,0.2,0,1,13,0,2,2,100.0,0.0,0.0,0,0.0,,GK
+174,Etrit Berisha,68.9,23-24,34,al ALB,Empoli,it Serie A,14,1260,14.0,14,0,12,25,74,49,68.9,3.0,3.0,8,4.0,28.6,GK
+175,Jan Oblak,70.8,23-24,30,si SVN,Atlético Madrid,es La Liga,38,3420,38.0,38,0,0,43,144,101,70.8,24.0,4.0,10,13.0,34.2,GK
+176,Yehvann Diouf,70.1,23-24,23,sn SEN,Reims,fr Ligue 1,34,3060,34.0,34,0,0,47,137,90,70.1,13.0,8.0,13,8.0,23.5,GK
+177,Michele Cerofolini,60.7,23-24,24,it ITA,Frosinone,it Serie A,8,675,7.5,7,1,30,11,28,18,60.7,2.0,2.0,3,3.0,42.9,GK
+178,Anthony Lopes,71.0,23-24,32,pt POR,Lyon,fr Ligue 1,31,2790,31.0,31,0,0,49,155,106,71.0,16.0,4.0,11,9.0,29.0,GK
+179,Pierluigi Gollini,66.7,23-24,28,it ITA,Napoli,it Serie A,7,630,7.0,7,0,22,8,24,16,66.7,3.0,1.0,3,1.0,14.3,GK
+180,Unai Marrero,60.0,23-24,21,es ESP,Real Sociedad,es La Liga,2,142,1.6,1,1,36,3,5,2,60.0,0.0,0.0,1,0.0,0.0,GK
+181,Kevin Müller,72.4,23-24,32,de GER,Heidenheim,de Bundesliga,34,3060,34.0,34,0,0,55,174,121,72.4,10.0,12.0,12,6.0,17.6,GK
+182,Jens Grahl,77.8,23-24,34,de GER,Eint Frankfurt,de Bundesliga,2,180,2.0,2,0,32,2,9,7,77.8,1.0,1.0,0,0.0,0.0,GK
+183,Mory Diaw,74.5,23-24,30,sn SEN,Clermont Foot,fr Ligue 1,30,2700,30.0,30,0,0,54,188,134,74.5,4.0,8.0,18,5.0,16.7,GK
+184,Alessio Cragno,57.1,23-24,29,it ITA,Sassuolo,it Serie A,3,270,3.0,3,0,34,7,14,8,57.1,1.0,1.0,1,0.0,0.0,GK
+185,Yassine Bounou,33.3,23-24,32,ma MAR,Sevilla,es La Liga,1,90,1.0,1,0,0,2,3,1,33.3,0.0,0.0,1,0.0,0.0,GK
+186,Carlo Pinsoglio,100.0,23-24,33,it ITA,Juventus,it Serie A,1,45,0.5,0,1,37,0,3,3,100.0,0.0,0.0,0,1.0,,GK
+187,Christos Mandas,79.3,23-24,21,gr GRE,Lazio,it Serie A,9,721,8.0,8,1,26,6,29,23,79.3,6.0,1.0,1,4.0,50.0,GK
+188,Augusto Batalla,67.4,23-24,27,ar ARG,Granada,es La Liga,17,1530,17.0,17,0,3,28,86,58,67.4,3.0,4.0,10,3.0,17.6,GK
+189,Stole Dimitrievski,69.3,23-24,29,mk MKD,Rayo Vallecano,es La Liga,37,3330,37.0,37,0,1,47,150,104,69.3,8.0,14.0,15,13.0,35.1,GK
+190,Mike Maignan,77.5,23-24,28,fr FRA,Milan,it Serie A,29,2609,29.0,29,0,2,34,120,86,77.5,19.0,5.0,5,10.0,34.5,GK
+191,Mark Travers,77.8,23-24,24,ie IRL,Bournemouth,eng Premier League,4,360,4.0,4,0,25,5,18,13,77.8,2.0,0.0,2,2.0,50.0,GK
+192,David Gil,66.7,23-24,29,es ESP,Cádiz,es La Liga,5,372,4.1,4,1,32,8,24,17,66.7,0.0,3.0,1,1.0,25.0,GK
+193,Philipp Köhn,72.2,23-24,25,ch SUI,Monaco,fr Ligue 1,22,1980,22.0,22,0,12,32,97,65,72.2,11.0,5.0,6,5.0,22.7,GK
+1,Filip Jørgensen,71.4,24-25,22,dk DEN,Chelsea,eng Premier League,6,540,6.0,6,0,31,9,28,19,71.4,3.0,0.0,3,1.0,16.7,GK
+2,Wojciech Szczęsny,66.7,24-25,34,pl POL,Barcelona,es La Liga,15,1350,15.0,15,0,14,12,33,21,66.7,14.0,1.0,0,8.0,53.3,GK
+3,Marius Müller,78.3,24-25,31,de GER,Wolfsburg,de Bundesliga,6,475,5.3,5,1,24,5,23,18,78.3,2.0,3.0,0,1.0,20.0,GK
+4,Jasper Cillessen,70.3,24-25,35,nl NED,Las Palmas,es La Liga,27,2335,25.9,27,0,5,42,128,85,70.3,6.0,8.0,13,3.0,11.1,GK
+5,Altay Bayındır,41.2,24-25,26,tr TUR,Manchester Utd,eng Premier League,4,360,4.0,4,0,27,10,17,8,41.2,1.0,0.0,3,1.0,25.0,GK
+6,Gianluigi Donnarumma,67.6,24-25,25,it ITA,Paris S-G,fr Ligue 1,24,2091,23.2,24,0,5,25,74,49,67.6,18.0,5.0,1,4.0,16.7,GK
+7,Đorđe Petrović,78.9,24-25,24,rs SRB,Strasbourg,fr Ligue 1,31,2790,31.0,31,0,0,38,147,110,78.9,15.0,8.0,8,10.0,32.3,GK
+8,Marco Silvestri,59.3,24-25,33,it ITA,2 Teams,it Serie A,5,450,5.0,5,0,12,11,27,17,59.3,0.0,1.0,4,0.0,0.0,GK
+9,Alexander Schwolow,57.1,24-25,32,de GER,Union Berlin,de Bundesliga,6,540,6.0,6,0,26,13,28,15,57.1,2.0,0.0,4,0.0,0.0,GK
+10,Tobias Sippel,25.0,24-25,36,de GER,Gladbach,de Bundesliga,1,59,0.7,0,1,14,3,4,1,25.0,0.0,0.0,0,0.0,,GK
+11,Josep Martinez,78.6,24-25,26,es ESP,Inter,it Serie A,5,450,5.0,5,0,33,3,14,11,78.6,4.0,1.0,0,3.0,60.0,GK
+12,Vitezslav Jaros,100.0,24-25,23,cz CZE,Liverpool,eng Premier League,1,12,0.1,0,1,11,0,1,1,100.0,0.0,0.0,0,1.0,,GK
+13,André Ferreira,56.4,24-25,28,pt POR,Valladolid,es La Liga,6,540,6.0,6,0,27,20,39,19,56.4,0.0,0.0,6,0.0,0.0,GK
+14,Patrik Carlgren,75.0,24-25,32,se SWE,Nantes,fr Ligue 1,5,417,4.6,4,1,26,7,28,21,75.0,1.0,2.0,1,1.0,25.0,GK
+15,Thibaut Courtois,75.0,24-25,32,be BEL,Real Madrid,es La Liga,30,2700,30.0,30,0,2,29,104,76,75.0,20.0,6.0,4,11.0,36.7,GK
+16,Steve Mandanda,58.8,24-25,39,fr FRA,Rennes,fr Ligue 1,18,1486,16.5,17,1,16,23,51,29,58.8,6.0,2.0,9,6.0,35.3,GK
+17,Melvin Zinga,75.0,24-25,22,fr FRA,Angers,fr Ligue 1,1,90,1.0,1,0,33,2,4,2,75.0,0.0,0.0,1,0.0,0.0,GK
+18,Timon Weiner,59.3,24-25,25,de GER,Holstein Kiel,de Bundesliga,25,2250,25.0,25,0,7,61,140,81,59.3,4.0,5.0,16,2.0,8.0,GK
+19,Nediljko Labrović,60.8,24-25,24,hr CRO,Augsburg,de Bundesliga,15,1350,15.0,15,0,19,32,74,42,60.8,4.0,4.0,7,2.0,13.3,GK
+20,Pau López,33.3,24-25,29,es ESP,Girona,es La Liga,1,45,0.5,0,1,16,2,3,1,33.3,0.0,0.0,0,0.0,,GK
+21,Radosław Majecki,69.2,24-25,24,pl POL,Monaco,fr Ligue 1,15,1350,15.0,15,0,11,22,65,43,69.2,7.0,2.0,6,3.0,20.0,GK
+22,Moritz Nicolas,78.3,24-25,26,de GER,Gladbach,de Bundesliga,19,1639,18.2,19,0,3,25,92,69,78.3,9.0,4.0,6,4.0,21.1,GK
+23,Lasse Rieß,75.0,24-25,23,de GER,Mainz 05,de Bundesliga,2,180,2.0,2,0,32,2,8,6,75.0,1.0,1.0,0,0.0,0.0,GK
+24,Bernd Leno,67.9,24-25,32,de GER,Fulham,eng Premier League,38,3420,38.0,38,0,0,54,159,106,67.9,15.0,9.0,14,5.0,13.2,GK
+25,Ivan Provedel,58.7,24-25,30,it ITA,Lazio,it Serie A,29,2610,29.0,29,0,9,42,92,52,58.7,15.0,6.0,8,5.0,17.2,GK
+26,Jason Steele,75.0,24-25,33,eng ENG,Brighton,eng Premier League,2,180,2.0,2,0,24,1,4,3,75.0,2.0,0.0,0,1.0,50.0,GK
+27,Kepa Arrizabalaga,73.9,24-25,29,es ESP,Bournemouth,eng Premier League,31,2790,31.0,31,0,1,39,134,95,73.9,13.0,7.0,11,8.0,25.8,GK
+28,Fran Vieites,54.5,24-25,25,es ESP,Betis,es La Liga,4,360,4.0,4,0,30,5,11,6,54.5,1.0,2.0,1,0.0,0.0,GK
+29,Alphonse Areola,64.3,24-25,31,fr FRA,West Ham,eng Premier League,26,2260,25.1,25,1,8,41,115,77,64.3,5.0,7.0,13,5.0,20.0,GK
+30,Benjamin Lecomte,64.2,24-25,33,fr FRA,Montpellier,fr Ligue 1,30,2700,30.0,30,0,4,68,173,107,64.2,3.0,4.0,23,1.0,3.3,GK
+31,Dominik Greif,72.4,24-25,27,sk SVK,Mallorca,es La Liga,31,2790,31.0,31,0,7,34,116,83,72.4,11.0,8.0,12,7.0,22.6,GK
+32,Andriy Lunin,65.0,24-25,25,ua UKR,Real Madrid,es La Liga,7,630,7.0,7,0,29,7,20,13,65.0,6.0,0.0,1,4.0,57.1,GK
+33,Arnau Tenas,75.0,24-25,23,es ESP,Paris S-G,fr Ligue 1,1,90,1.0,1,0,11,1,4,3,75.0,1.0,0.0,0,0.0,0.0,GK
+34,Alex McCarthy,70.3,24-25,34,eng ENG,Southampton,eng Premier League,5,450,5.0,5,0,33,13,37,24,70.3,0.0,0.0,5,0.0,0.0,GK
+35,Álex Remiro,70.8,24-25,29,es ESP,Real Sociedad,es La Liga,36,3240,36.0,36,0,2,43,130,86,70.8,13.0,7.0,16,13.0,36.1,GK
+36,Dimitry Bertaud,57.1,24-25,26,cd COD,Montpellier,fr Ligue 1,4,360,4.0,4,0,30,11,21,10,57.1,1.0,0.0,3,0.0,0.0,GK
+37,Martin Dúbravka,70.7,24-25,35,sk SVK,Newcastle Utd,eng Premier League,10,900,10.0,10,0,24,12,41,29,70.7,7.0,0.0,3,5.0,50.0,GK
+38,Ederson,69.2,24-25,30,br BRA,Manchester City,eng Premier League,26,2320,25.8,26,0,4,26,78,53,69.2,16.0,4.0,6,10.0,38.5,GK
+39,Timo Horn,59.3,24-25,31,de GER,Bochum,de Bundesliga,13,1170,13.0,13,0,21,22,54,32,59.3,3.0,3.0,7,3.0,23.1,GK
+40,Marco Bizot,64.1,24-25,33,nl NED,Brest,fr Ligue 1,32,2880,32.0,32,0,0,54,128,74,64.1,14.0,5.0,13,10.0,31.3,GK
+41,Daniel Peretz,28.6,24-25,24,il ISR,Bayern Munich,de Bundesliga,3,270,3.0,3,0,14,5,7,2,28.6,2.0,0.0,1,0.0,0.0,GK
+42,Simone Scuffet,68.3,24-25,28,it ITA,2 Teams,it Serie A,14,1260,14.0,14,0,24,24,60,36,68.3,3.0,4.0,7,1.0,7.1,GK
+43,Razvan Sava,74.5,24-25,22,ro ROU,Udinese,it Serie A,12,1080,12.0,12,0,19,16,51,37,74.5,5.0,4.0,3,4.0,33.3,GK
+44,Yann Sommer,75.0,24-25,35,ch SUI,Inter,it Serie A,33,2970,33.0,33,0,3,32,116,84,75.0,20.0,8.0,5,13.0,39.4,GK
+45,Mathew Ryan,75.8,24-25,32,au AUS,2 Teams,2 Comps,14,1260,14.0,14,0,19,17,62,44,75.8,8.0,1.0,5,6.0,42.9,GK
+46,Aaron Ramsdale,67.6,24-25,26,eng ENG,2 Teams,eng Premier League,30,2700,30.0,30,0,2,66,188,120,67.6,2.0,5.0,23,3.0,10.0,GK
+47,Benjamin Siegrist,83.3,24-25,32,ch SUI,Genoa,it Serie A,2,152,1.7,2,0,14,2,12,10,83.3,1.0,1.0,0,0.0,0.0,GK
+48,Oliver Baumann,63.0,24-25,34,de GER,Hoffenheim,de Bundesliga,28,2520,28.0,28,0,0,53,138,84,63.0,6.0,8.0,14,4.0,14.3,GK
+49,Rémy Descamps,66.7,24-25,28,fr FRA,Lyon,fr Ligue 1,1,90,1.0,1,0,31,2,6,4,66.7,0.0,0.0,1,0.0,0.0,GK
+50,Jordan Pickford,73.0,24-25,30,eng ENG,Everton,eng Premier League,38,3420,38.0,38,0,0,44,163,117,73.0,11.0,15.0,12,12.0,31.6,GK
+51,Nick Pope,71.7,24-25,32,eng ENG,Newcastle Utd,eng Premier League,28,2520,28.0,28,0,3,35,120,86,71.7,13.0,6.0,9,8.0,28.6,GK
+52,Mattia Perin,81.3,24-25,31,it ITA,Juventus,it Serie A,5,450,5.0,5,0,31,3,16,13,81.3,2.0,3.0,0,3.0,60.0,GK
+53,Mathieu Gorgelin,63.4,24-25,33,fr FRA,Le Havre,fr Ligue 1,16,1440,16.0,16,0,17,33,82,50,63.4,5.0,4.0,7,1.0,6.3,GK
+54,Michele Di Gregorio,73.8,24-25,27,it ITA,Juventus,it Serie A,33,2970,33.0,33,0,5,32,103,71,73.8,16.0,13.0,4,14.0,42.4,GK
+55,Alban Lafont,67.3,24-25,25,ci CIV,Nantes,fr Ligue 1,12,1080,12.0,12,0,4,19,49,32,67.3,2.0,4.0,6,2.0,16.7,GK
+56,Diego Conde,68.1,24-25,25,es ESP,Villarreal,es La Liga,22,1962,21.8,22,0,11,33,94,62,68.1,11.0,6.0,5,2.0,9.1,GK
+57,Semuel Pizzignacco,55.3,24-25,22,it ITA,Monza,it Serie A,9,736,8.2,8,1,29,17,38,22,55.3,1.0,2.0,5,1.0,12.5,GK
+58,Donovan Léon,73.8,24-25,31,gf GUF,Auxerre,fr Ligue 1,32,2880,32.0,32,0,0,48,164,118,73.8,11.0,8.0,13,9.0,28.1,GK
+59,Zion Suzuki,68.0,24-25,21,jp JPN,Parma,it Serie A,37,3314,36.8,37,0,0,53,150,99,68.0,7.0,15.0,15,7.0,19.4,GK
+60,Juan Soriano,72.0,24-25,26,es ESP,Leganés,es La Liga,6,540,6.0,6,0,30,7,25,19,72.0,1.0,2.0,3,1.0,16.7,GK
+61,Hákon Valdimarsson,50.0,24-25,22,is ISL,Brentford,eng Premier League,2,145,1.6,1,1,36,2,4,3,50.0,0.0,0.0,1,1.0,100.0,GK
+62,Robin Zentner,73.9,24-25,29,de GER,Mainz 05,de Bundesliga,32,2880,32.0,32,0,0,41,142,100,73.9,13.0,9.0,10,9.0,28.1,GK
+63,Lucas Perri,74.4,24-25,26,br BRA,Lyon,fr Ligue 1,33,2970,33.0,33,0,0,44,160,116,74.4,17.0,6.0,10,10.0,30.3,GK
+64,Unai Simón,79.0,24-25,27,es ESP,Athletic Club,es La Liga,21,1890,21.0,21,0,4,14,62,47,79.0,10.0,8.0,3,10.0,47.6,GK
+65,Brandon Austin,50.0,24-25,25,eng ENG,Tottenham,eng Premier League,1,90,1.0,1,0,12,2,4,2,50.0,0.0,0.0,1,0.0,0.0,GK
+66,Nicola Leali,74.8,24-25,31,it ITA,Genoa,it Serie A,29,2610,29.0,29,0,9,31,111,82,74.8,8.0,10.0,11,10.0,34.5,GK
+67,Brice Samba,74.5,24-25,30,fr FRA,2 Teams,fr Ligue 1,32,2879,32.0,32,0,0,41,141,98,74.5,13.0,6.0,13,12.0,37.5,GK
+68,Kamil Grabara,65.7,24-25,25,pl POL,Wolfsburg,de Bundesliga,29,2585,28.7,29,0,0,49,137,88,65.7,9.0,7.0,13,5.0,17.2,GK
+69,Gerónimo Rulli,67.4,24-25,32,ar ARG,Marseille,fr Ligue 1,34,3060,34.0,34,0,0,47,135,87,67.4,20.0,5.0,9,5.0,14.7,GK
+70,Caoimhín Kelleher,67.6,24-25,25,ie IRL,Liverpool,eng Premier League,10,900,10.0,10,0,27,12,37,24,67.6,7.0,2.0,1,4.0,40.0,GK
+71,Paulo Gazzaniga,65.7,24-25,32,ar ARG,Girona,es La Liga,36,3195,35.5,36,0,2,51,143,90,65.7,11.0,8.0,17,8.0,22.2,GK
+72,Emil Audero,58.8,24-25,27,id IDN,Como,it Serie A,8,720,8.0,8,0,15,18,34,16,58.8,2.0,2.0,4,0.0,0.0,GK
+73,Federico Ravaglia,45.8,24-25,24,it ITA,Bologna,it Serie A,12,1056,11.7,11,1,26,14,24,10,45.8,5.0,2.0,4,4.0,36.4,GK
+74,Vladyslav Krapyvtsov,66.7,24-25,19,ua UKR,Girona,es La Liga,2,180,2.0,2,0,13,7,18,11,66.7,0.0,0.0,2,0.0,0.0,GK
+75,Ionuț Radu,76.9,24-25,27,ro ROU,Venezia,it Serie A,15,1350,15.0,15,0,0,18,65,47,76.9,2.0,7.0,6,4.0,26.7,GK
+76,Daniel Bentley,66.7,24-25,31,eng ENG,Wolves,eng Premier League,2,180,2.0,2,0,16,4,12,8,66.7,1.0,0.0,1,1.0,50.0,GK
+77,Robert Sánchez,76.4,24-25,26,es ESP,Chelsea,eng Premier League,32,2880,32.0,32,0,6,34,127,92,76.4,17.0,9.0,6,10.0,31.3,GK
+78,Guillaume Restes,62.0,24-25,19,fr FRA,Toulouse,fr Ligue 1,29,2543,28.3,29,0,0,36,92,58,62.0,9.0,7.0,13,8.0,27.6,GK
+79,Alex Palmer,59.2,24-25,27,eng ENG,Ipswich Town,eng Premier League,13,1170,13.0,13,0,0,30,71,43,59.2,1.0,3.0,9,0.0,0.0,GK
+80,Marc-André ter Stegen,63.6,24-25,32,de GER,Barcelona,es La Liga,8,674,7.5,8,0,3,9,22,13,63.6,7.0,0.0,1,1.0,12.5,GK
+81,Jacopo Seghetti,50.0,24-25,19,it ITA,Empoli,it Serie A,1,90,1.0,1,0,37,3,6,3,50.0,0.0,0.0,1,0.0,0.0,GK
+82,Guglielmo Vicario,64.7,24-25,27,it ITA,Tottenham,eng Premier League,24,2160,24.0,24,0,2,37,102,67,64.7,9.0,3.0,12,4.0,16.7,GK
+83,Tiago Cardoso,87.0,24-25,18,lu LUX,Gladbach,de Bundesliga,5,380,4.2,4,1,6,3,23,20,87.0,2.0,1.0,1,2.0,50.0,GK
+84,Emiliano Martínez,69.0,24-25,31,ar ARG,Aston Villa,eng Premier League,37,3194,35.5,37,0,0,45,142,96,69.0,18.0,9.0,10,8.0,21.6,GK
+85,Rui Patrício,78.6,24-25,36,pt POR,Atalanta,it Serie A,3,270,3.0,3,0,33,3,14,11,78.6,2.0,1.0,0,1.0,33.3,GK
+86,Alisson,72.0,24-25,31,br BRA,Liverpool,eng Premier League,28,2508,27.9,28,0,0,29,100,73,72.0,18.0,7.0,3,9.0,32.1,GK
+87,David de Gea,72.6,24-25,33,es ESP,Fiorentina,it Serie A,35,3150,35.0,35,0,3,38,135,96,72.6,19.0,5.0,11,11.0,31.4,GK
+88,Jean Butez,73.5,24-25,29,fr FRA,Como,it Serie A,19,1666,18.5,18,1,1,20,68,48,73.5,8.0,4.0,6,5.0,27.8,GK
+89,Jesse Joronen,70.0,24-25,31,fi FIN,Venezia,it Serie A,8,703,7.8,7,1,28,15,40,27,70.0,1.0,1.0,5,2.0,28.6,GK
+90,Matz Sels,73.9,24-25,32,be BEL,Nott'ham Forest,eng Premier League,38,3420,38.0,38,0,0,46,165,119,73.9,19.0,8.0,11,13.0,34.2,GK
+91,Manuel Neuer,68.9,24-25,38,de GER,Bayern Munich,de Bundesliga,22,1980,22.0,22,0,1,15,45,30,68.9,18.0,4.0,0,13.0,59.1,GK
+92,Joan García,75.5,24-25,23,es ESP,Espanyol,es La Liga,38,3420,38.0,38,0,0,51,192,140,75.5,11.0,9.0,18,8.0,21.1,GK
+93,Leandro Chichizola,50.0,24-25,34,ar ARG,Parma,it Serie A,1,90,1.0,1,0,18,3,6,3,50.0,0.0,0.0,1,0.0,0.0,GK
+94,Marco Carnesecchi,75.2,24-25,24,it ITA,Atalanta,it Serie A,34,3060,34.0,34,0,2,34,129,97,75.2,19.0,7.0,8,13.0,38.2,GK
+95,David Soria,75.4,24-25,31,es ESP,Getafe,es La Liga,38,3420,38.0,38,0,0,39,126,86,75.4,11.0,9.0,18,9.0,23.7,GK
+96,Dinko Horkaš,66.7,24-25,25,hr CRO,Las Palmas,es La Liga,13,1085,12.1,11,2,23,19,54,35,66.7,2.0,0.0,9,1.0,9.1,GK
+97,José Sá,63.2,24-25,31,pt POR,Wolves,eng Premier League,29,2609,29.0,29,0,4,48,117,69,63.2,11.0,5.0,13,7.0,24.1,GK
+98,Leo Román,81.6,24-25,24,es ESP,Mallorca,es La Liga,7,630,7.0,7,0,31,10,49,39,81.6,2.0,1.0,4,2.0,28.6,GK
+99,Jonas Urbig,57.1,24-25,20,de GER,Bayern Munich,de Bundesliga,8,720,8.0,8,0,7,12,28,16,57.1,4.0,3.0,1,2.0,25.0,GK
+100,Łukasz Fabiański,74.6,24-25,39,pl POL,West Ham,eng Premier League,14,1160,12.9,13,1,21,21,71,50,74.6,6.0,3.0,4,2.0,15.4,GK
+101,Alex Meret,71.4,24-25,27,it ITA,Napoli,it Serie A,34,3005,33.4,34,0,1,25,84,59,71.4,21.0,9.0,4,16.0,47.1,GK
+102,Alberto Paleari,57.1,24-25,31,it ITA,Torino,it Serie A,1,90,1.0,1,0,37,3,7,4,57.1,0.0,0.0,1,0.0,0.0,GK
+103,Elia Caprile,70.3,24-25,22,it ITA,2 Teams,it Serie A,22,1945,21.6,21,1,15,23,74,51,70.3,8.0,4.0,9,8.0,38.1,GK
+104,David Raya,74.2,24-25,28,es ESP,Arsenal,eng Premier League,38,3420,38.0,38,0,0,34,120,86,74.2,20.0,14.0,4,13.0,34.2,GK
+105,Antonio Sivera,73.2,24-25,27,es ESP,Alavés,es La Liga,32,2810,31.2,32,0,0,39,112,75,73.2,9.0,10.0,13,8.0,25.0,GK
+106,Arijanet Muric,70.0,24-25,25,xk KVX,Ipswich Town,eng Premier League,18,1620,18.0,18,0,8,33,100,67,70.0,2.0,6.0,10,1.0,5.6,GK
+107,Michael Zetterer,65.4,24-25,29,de GER,Werder Bremen,de Bundesliga,34,3060,34.0,34,0,0,57,156,102,65.4,14.0,9.0,11,10.0,29.4,GK
+108,Yahia Fofana,74.2,24-25,23,ci CIV,Angers,fr Ligue 1,33,2970,33.0,33,0,1,51,186,135,74.2,10.0,6.0,17,7.0,21.2,GK
+109,Sam Johnstone,61.5,24-25,31,eng ENG,2 Teams,eng Premier League,7,630,7.0,7,0,18,17,39,23,61.5,0.0,1.0,6,0.0,0.0,GK
+110,Wladimiro Falcone,72.4,24-25,29,it ITA,Lecce,it Serie A,38,3420,38.0,38,0,0,58,181,125,72.4,8.0,10.0,20,9.0,23.7,GK
+111,Vanja Milinković-Savić,77.5,24-25,27,rs SRB,Torino,it Serie A,37,3330,37.0,37,0,0,42,173,129,77.5,10.0,14.0,13,10.0,27.0,GK
+112,Aitor Fernández,100.0,24-25,33,es ESP,Osasuna,es La Liga,1,90,1.0,1,0,37,0,5,5,100.0,0.0,1.0,0,1.0,100.0,GK
+113,Juan Musso,100.0,24-25,30,ar ARG,2 Teams,2 Comps,3,270,3.0,3,0,35,0,6,6,100.0,3.0,0.0,0,3.0,100.0,GK
+114,Alex Padilla,70.6,24-25,20,es ESP,Athletic Club,es La Liga,5,321,3.6,3,2,8,6,17,12,70.6,0.0,1.0,2,0.0,0.0,GK
+115,Julen Agirrezabala,76.5,24-25,23,es ESP,Athletic Club,es La Liga,14,1206,13.4,14,0,22,9,34,24,76.5,9.0,4.0,1,5.0,35.7,GK
+116,Sergio Herrera,75.3,24-25,31,es ESP,Osasuna,es La Liga,37,3330,37.0,37,0,0,52,182,131,75.3,12.0,15.0,10,8.0,21.6,GK
+117,Jakub Stolarczyk,63.6,24-25,23,pl POL,Leicester City,eng Premier League,10,900,10.0,10,0,11,16,44,28,63.6,3.0,1.0,6,2.0,20.0,GK
+118,Karl-Johan Johnsson,77.3,24-25,34,se SWE,Strasbourg,fr Ligue 1,3,270,3.0,3,0,31,6,22,16,77.3,1.0,1.0,1,0.0,0.0,GK
+119,Frederik Rønnow,67.6,24-25,31,dk DEN,Union Berlin,de Bundesliga,28,2520,28.0,28,0,0,37,111,71,67.6,8.0,11.0,9,8.0,28.6,GK
+120,Patrick Drewes,56.6,24-25,31,de GER,Bochum,de Bundesliga,21,1890,21.0,21,0,12,46,99,51,56.6,2.0,5.0,14,2.0,9.5,GK
+121,Daniele Sommariva,66.7,24-25,27,it ITA,Genoa,it Serie A,1,28,0.3,0,1,37,1,3,2,66.7,0.0,0.0,0,0.0,,GK
+122,Mark Flekken,73.4,24-25,31,nl NED,Brentford,eng Premier League,37,3275,36.4,37,0,0,55,203,150,73.4,16.0,8.0,13,7.0,18.9,GK
+123,Neto,84.6,24-25,35,br BRA,2 Teams,eng Premier League,2,180,2.0,2,0,33,2,13,11,84.6,0.0,2.0,0,0.0,0.0,GK
+124,Karl Jakob Hein,60.7,24-25,22,ee EST,Valladolid,es La Liga,31,2790,31.0,31,0,2,68,163,96,60.7,4.0,4.0,23,5.0,16.1,GK
+125,Vicente Guaita,64.6,24-25,37,es ESP,Celta Vigo,es La Liga,34,3060,34.0,34,0,3,48,127,79,64.6,14.0,7.0,13,8.0,23.5,GK
+126,Łukasz Skorupski,61.0,24-25,33,pl POL,Bologna,it Serie A,27,2364,26.3,27,0,8,33,82,50,61.0,11.0,12.0,4,8.0,29.6,GK
+127,Maduka Okoye,67.3,24-25,24,ng NGA,Udinese,it Serie A,25,2250,25.0,25,0,0,40,110,73,67.3,6.0,4.0,15,4.0,16.0,GK
+128,Marko Dmitrović,72.0,24-25,32,rs SRB,Leganés,es La Liga,32,2880,32.0,32,0,6,49,150,103,72.0,8.0,11.0,13,10.0,31.3,GK
+129,Marco Sportiello,66.7,24-25,32,it ITA,Milan,it Serie A,2,126,1.4,1,1,29,2,6,4,66.7,1.0,0.0,0,1.0,100.0,GK
+130,Lukáš Hrádecký,71.2,24-25,34,fi FIN,Leverkusen,de Bundesliga,29,2610,29.0,29,0,4,38,118,83,71.2,16.0,11.0,2,6.0,20.7,GK
+131,Alexander Nübel,62.5,24-25,27,de GER,Stuttgart,de Bundesliga,34,3060,34.0,34,0,0,53,136,83,62.5,14.0,8.0,12,7.0,20.6,GK
+132,Théo De Percin,77.8,24-25,23,mq MTQ,Auxerre,fr Ligue 1,2,180,2.0,2,0,30,3,9,5,77.8,0.0,1.0,1,1.0,50.0,GK
+133,Antonín Kinský,65.6,24-25,21,cz CZE,Tottenham,eng Premier League,6,540,6.0,6,0,12,11,32,23,65.6,1.0,0.0,5,1.0,16.7,GK
+134,Lucas Chevalier,74.6,24-25,22,fr FRA,Lille,fr Ligue 1,34,3060,34.0,34,0,0,36,126,91,74.6,17.0,9.0,8,11.0,32.4,GK
+135,Gautier Larsonneur,69.4,24-25,27,fr FRA,Saint-Étienne,fr Ligue 1,34,3060,34.0,34,0,0,77,209,132,69.4,8.0,6.0,20,5.0,14.7,GK
+136,Alexander Meyer,63.6,24-25,33,de GER,Dortmund,de Bundesliga,2,180,2.0,2,0,31,4,11,7,63.6,1.0,0.0,1,0.0,0.0,GK
+137,Simone Perilli,81.8,24-25,29,it ITA,Hellas Verona,it Serie A,2,180,2.0,2,0,36,2,11,9,81.8,1.0,0.0,1,0.0,0.0,GK
+138,Matej Kovar,68.8,24-25,24,cz CZE,Leverkusen,de Bundesliga,5,450,5.0,5,0,28,5,16,12,68.8,3.0,1.0,1,3.0,60.0,GK
+139,Péter Gulácsi,73.0,24-25,34,hu HUN,RB Leipzig,de Bundesliga,30,2631,29.2,30,0,1,39,137,97,73.0,12.0,11.0,7,14.0,46.7,GK
+140,Mile Svilar,79.5,24-25,24,rs SRB,Roma,it Serie A,38,3420,38.0,38,0,0,35,151,117,79.5,20.0,9.0,9,16.0,42.1,GK
+141,Ørjan Nyland,67.9,24-25,33,no NOR,Sevilla,es La Liga,30,2673,29.7,30,0,4,39,112,73,67.9,8.0,10.0,12,7.0,23.3,GK
+142,Joe Lumley,65.0,24-25,29,eng ENG,Southampton,eng Premier League,3,270,3.0,3,0,5,7,20,13,65.0,0.0,1.0,2,0.0,0.0,GK
+143,Stefano Turati,65.5,24-25,22,it ITA,Monza,it Serie A,30,2676,29.7,30,0,4,52,145,93,65.5,2.0,7.0,21,2.0,6.7,GK
+144,Adrian Rodriguez,83.3,24-25,23,es ESP,Alavés,es La Liga,2,122,1.4,1,1,23,2,6,4,83.3,0.0,1.0,0,1.0,100.0,GK
+145,Stefan Ortega,68.0,24-25,31,de GER,Manchester City,eng Premier League,13,1100,12.2,12,1,25,18,50,33,68.0,5.0,4.0,3,3.0,25.0,GK
+146,Lorenzo Montipò,61.5,24-25,28,it ITA,Hellas Verona,it Serie A,36,3240,36.0,36,0,1,64,161,97,61.5,9.0,7.0,20,8.0,22.2,GK
+147,Fraser Forster,69.0,24-25,36,eng ENG,Tottenham,eng Premier League,7,630,7.0,7,0,11,15,42,27,69.0,1.0,2.0,4,1.0,14.3,GK
+148,Jonas Omlin,66.7,24-25,30,ch SUI,Gladbach,de Bundesliga,12,978,10.9,11,1,11,26,72,45,66.7,2.0,1.0,8,1.0,9.1,GK
+149,Christian Walton,56.4,24-25,28,eng ENG,Ipswich Town,eng Premier League,7,630,7.0,7,0,27,19,39,20,56.4,1.0,1.0,5,1.0,14.3,GK
+150,Kauã Santos,76.1,24-25,21,br BRA,Eint Frankfurt,de Bundesliga,9,765,8.5,8,1,20,12,46,35,76.1,5.0,1.0,2,3.0,37.5,GK
+151,Mads Hermansen,64.5,24-25,24,dk DEN,Leicester City,eng Premier League,27,2385,26.5,27,0,0,58,155,99,64.5,3.0,6.0,18,1.0,3.7,GK
+152,Grégoire Coudert,61.5,24-25,25,fr FRA,Brest,fr Ligue 1,2,180,2.0,2,0,32,5,13,9,61.5,1.0,0.0,1,0.0,0.0,GK
+153,Florian Müller,53.3,24-25,26,de GER,Freiburg,de Bundesliga,9,753,8.4,8,1,19,16,30,15,53.3,4.0,1.0,3,1.0,12.5,GK
+154,Iñaki Peña,69.8,24-25,25,es ESP,Barcelona,es La Liga,16,1396,15.5,15,1,22,18,53,35,69.8,7.0,3.0,5,4.0,26.7,GK
+155,Frank Feller,100.0,24-25,20,de GER,Heidenheim,de Bundesliga,2,121,1.3,1,1,14,0,2,2,100.0,1.0,0.0,0,2.0,200.0,GK
+156,Gregor Kobel,66.7,24-25,26,ch SUI,Dortmund,de Bundesliga,32,2880,32.0,32,0,0,47,129,82,66.7,16.0,6.0,10,7.0,21.9,GK
+157,Iván Villar,50.0,24-25,27,es ESP,Celta Vigo,es La Liga,4,360,4.0,4,0,34,9,18,10,50.0,2.0,0.0,2,0.0,0.0,GK
+158,Kevin Trapp,70.9,24-25,34,de GER,Eint Frankfurt,de Bundesliga,26,2295,25.5,26,0,0,34,117,82,70.9,12.0,8.0,6,6.0,23.1,GK
+159,Bart Verbruggen,65.7,24-25,21,nl NED,Brighton,eng Premier League,36,3240,36.0,36,0,0,58,143,87,65.7,14.0,13.0,9,7.0,19.4,GK
+160,Daniele Padelli,100.0,24-25,38,it ITA,Udinese,it Serie A,1,90,1.0,1,0,37,0,3,3,100.0,1.0,0.0,0,1.0,100.0,GK
+161,Luiz Lúcio Reis Júnior,78.8,24-25,23,br BRA,Villarreal,es La Liga,17,1458,16.2,16,1,20,18,66,48,78.8,9.0,4.0,3,5.0,31.3,GK
+162,Filip Stankovic,77.1,24-25,22,rs SRB,Venezia,it Serie A,16,1367,15.2,16,0,12,23,83,60,77.1,2.0,6.0,8,0.0,0.0,GK
+163,Kjetil Haug,56.3,24-25,26,no NOR,Toulouse,fr Ligue 1,6,498,5.5,5,1,11,7,16,9,56.3,2.0,2.0,1,1.0,20.0,GK
+164,Danny Ward,40.0,24-25,31,wls WAL,Leicester City,eng Premier League,2,135,1.5,1,1,14,6,10,4,40.0,0.0,0.0,1,0.0,0.0,GK
+165,Giorgi Mamardashvili,68.4,24-25,23,ge GEO,Valencia,es La Liga,34,3060,34.0,34,0,0,48,136,89,68.4,11.0,11.0,12,8.0,23.5,GK
+166,Jesús Owono,57.1,24-25,23,gq EQG,Alavés,es La Liga,6,487,5.4,5,1,26,7,14,7,57.1,1.0,1.0,3,0.0,0.0,GK
+167,Matvei Safonov,72.0,24-25,25,ru RUS,Paris S-G,fr Ligue 1,10,879,9.8,9,1,23,9,25,17,72.0,7.0,1.0,1,3.0,33.3,GK
+168,Marcin Bułka,75.8,24-25,24,pl POL,Nice,fr Ligue 1,34,3060,34.0,34,0,0,41,161,120,75.8,17.0,9.0,8,8.0,23.5,GK
+169,Noah Atubolu,69.2,24-25,22,de GER,Freiburg,de Bundesliga,26,2307,25.6,26,0,2,37,120,81,69.2,12.0,6.0,8,10.0,38.5,GK
+170,Finn Dahmen,79.3,24-25,26,de GER,Augsburg,de Bundesliga,19,1710,19.0,19,0,10,19,82,65,79.3,7.0,6.0,6,9.0,47.4,GK
+171,Dani Cárdenas,70.0,24-25,27,es ESP,Rayo Vallecano,es La Liga,6,540,6.0,6,0,32,6,20,14,70.0,3.0,1.0,2,2.0,33.3,GK
+172,Pietro Terracciano,76.9,24-25,34,it ITA,Fiorentina,it Serie A,3,270,3.0,3,0,35,3,13,10,76.9,0.0,3.0,0,1.0,33.3,GK
+173,Pepe Reina,68.3,24-25,41,es ESP,Como,it Serie A,12,1034,11.5,12,0,26,14,41,27,68.3,3.0,4.0,5,2.0,16.7,GK
+174,Dean Henderson,66.7,24-25,27,eng ENG,Crystal Palace,eng Premier League,38,3420,38.0,38,0,0,51,150,101,66.7,13.0,14.0,11,11.0,28.9,GK
+175,Robin Olsen,64.3,24-25,34,se SWE,Aston Villa,eng Premier League,4,226,2.5,1,3,26,6,14,8,64.3,1.0,0.0,0,1.0,100.0,GK
+176,Arthur Desmas,61.3,24-25,30,fr FRA,Le Havre,fr Ligue 1,18,1620,18.0,18,0,15,38,93,54,61.3,5.0,0.0,13,3.0,16.7,GK
+177,André Onana,68.9,24-25,28,cm CMR,Manchester Utd,eng Premier League,34,3060,34.0,34,0,0,44,132,88,68.9,10.0,9.0,15,9.0,26.5,GK
+178,Rui Silva,72.2,24-25,30,pt POR,Betis,es La Liga,15,1350,15.0,15,0,0,18,54,37,72.2,5.0,5.0,5,4.0,26.7,GK
+179,Luca Philipp,60.0,24-25,23,de GER,Hoffenheim,de Bundesliga,6,540,6.0,6,0,28,15,35,21,60.0,1.0,3.0,2,0.0,0.0,GK
+180,Jan Oblak,78.1,24-25,31,si SVN,Atlético Madrid,es La Liga,36,3240,36.0,36,0,0,30,114,86,78.1,20.0,10.0,6,15.0,41.7,GK
+181,Ben Alexander Voll,60.0,24-25,23,de GER,St. Pauli,de Bundesliga,2,91,1.0,1,1,22,2,5,3,60.0,0.0,1.0,0,0.0,0.0,GK
+182,Alen Sherri,64.5,24-25,26,al ALB,Cagliari,it Serie A,7,621,6.9,7,0,31,11,31,20,64.5,1.0,2.0,4,1.0,14.3,GK
+183,Yehvann Diouf,76.0,24-25,24,sn SEN,Reims,fr Ligue 1,34,3060,34.0,34,0,0,47,179,131,76.0,8.0,9.0,17,7.0,20.6,GK
+184,Anthony Lopes,69.0,24-25,33,pt POR,2 Teams,fr Ligue 1,18,1563,17.4,18,0,2,26,71,46,69.0,5.0,6.0,7,3.0,16.7,GK
+185,Nikola Vasilj,71.9,24-25,28,ba BIH,St. Pauli,de Bundesliga,33,2969,33.0,33,0,0,39,135,93,71.9,8.0,7.0,18,9.0,27.3,GK
+186,Pierluigi Gollini,62.5,24-25,29,it ITA,2 Teams,it Serie A,7,630,7.0,7,0,24,15,32,16,62.5,1.0,2.0,4,1.0,14.3,GK
+187,Unai Marrero,75.0,24-25,22,es ESP,Real Sociedad,es La Liga,2,180,2.0,2,0,36,3,12,8,75.0,0.0,0.0,2,0.0,0.0,GK
+188,Álvaro Fernández,61.1,24-25,26,es ESP,Sevilla,es La Liga,9,747,8.3,8,1,29,16,36,20,61.1,2.0,1.0,5,3.0,37.5,GK
+189,Thomas Dähne,69.1,24-25,30,de GER,Holstein Kiel,de Bundesliga,9,810,9.0,9,0,25,19,55,36,69.1,2.0,2.0,5,0.0,0.0,GK
+190,Kevin Müller,65.7,24-25,33,de GER,Heidenheim,de Bundesliga,33,2939,32.7,33,0,0,64,169,105,65.7,7.0,5.0,21,7.0,21.2,GK
+191,Adrián,65.8,24-25,37,es ESP,Betis,es La Liga,19,1710,19.0,19,0,17,27,76,49,65.8,10.0,5.0,4,3.0,15.8,GK
+192,Christos Mandas,74.1,24-25,22,gr GRE,Lazio,it Serie A,9,810,9.0,9,0,29,7,27,20,74.1,3.0,5.0,1,4.0,44.4,GK
+193,Maarten Vandevoordt,57.1,24-25,22,be BEL,RB Leipzig,de Bundesliga,6,429,4.8,4,2,28,9,21,12,57.1,1.0,1.0,2,0.0,0.0,GK
+194,Devis Vásquez,64.8,24-25,26,co COL,Empoli,it Serie A,32,2880,32.0,32,0,6,45,125,79,64.8,6.0,12.0,14,6.0,18.8,GK
+195,Hervé Koffi,76.9,24-25,27,bf BFA,Lens,fr Ligue 1,5,450,5.0,5,0,20,8,26,18,76.9,1.0,0.0,4,0.0,0.0,GK
+196,Augusto Batalla,75.2,24-25,28,ar ARG,Rayo Vallecano,es La Liga,32,2880,32.0,32,0,3,39,133,93,75.2,10.0,12.0,10,8.0,25.0,GK
+197,Stole Dimitrievski,58.3,24-25,30,mk MKD,Valencia,es La Liga,4,360,4.0,4,0,34,6,12,6,58.3,0.0,2.0,2,0.0,0.0,GK
+198,Mike Maignan,70.6,24-25,29,fr FRA,Milan,it Serie A,37,3294,36.6,37,0,0,41,136,97,70.6,17.0,9.0,11,12.0,32.4,GK
+199,Mark Travers,80.0,24-25,25,ie IRL,Bournemouth,eng Premier League,5,450,5.0,5,0,18,5,25,20,80.0,2.0,2.0,1,1.0,20.0,GK
+200,Philipp Köhn,71.4,24-25,26,ch SUI,Monaco,fr Ligue 1,19,1710,19.0,19,0,15,19,63,44,71.4,11.0,5.0,3,8.0,42.1,GK
+1,Filip Jørgensen,33.3,25-26,23,dk DEN,Chelsea,eng Premier League,1,84,0.9,0,1,7,2,3,1,33.3,0.0,0.0,0,0.0,,GK
+2,Álvaro Vallés,61.5,25-26,28,es ESP,Betis,es La Liga,3,270,3.0,3,0,6,5,13,9,61.5,0.0,2.0,1,0.0,0.0,GK
+3,Wojciech Szczęsny,54.5,25-26,35,pl POL,Barcelona,es La Liga,3,270,3.0,3,0,4,6,11,5,54.5,2.0,0.0,1,0.0,0.0,GK
+4,Odysseas Vlachodimos,80.0,25-26,31,gr GRE,Sevilla,es La Liga,5,450,5.0,5,0,2,7,30,23,80.0,3.0,0.0,2,1.0,20.0,GK
+5,Altay Bayındır,54.2,25-26,27,tr TUR,Manchester Utd,eng Premier League,6,540,6.0,6,0,2,11,24,13,54.2,2.0,1.0,3,0.0,0.0,GK
+6,Berke Özer,64.0,25-26,25,tr TUR,Lille,fr Ligue 1,7,630,7.0,7,0,0,9,25,15,64.0,4.0,2.0,1,2.0,28.6,GK
+7,Mike Penders,70.0,25-26,20,be BEL,Strasbourg,fr Ligue 1,7,630,7.0,7,0,0,10,30,20,70.0,4.0,1.0,2,3.0,42.9,GK
+8,Gianluigi Donnarumma,77.8,25-26,26,it ITA,Manchester City,eng Premier League,5,450,5.0,5,0,0,2,9,7,77.8,4.0,1.0,0,3.0,60.0,GK
+9,Daniel Heuer Fernandes,76.9,25-26,32,pt POR,Hamburger SV,de Bundesliga,7,630,7.0,7,0,0,10,39,28,76.9,2.0,2.0,3,3.0,42.9,GK
+10,Đorđe Petrović,70.6,25-26,25,rs SRB,Bournemouth,eng Premier League,8,720,8.0,8,0,0,11,34,23,70.6,4.0,3.0,1,3.0,37.5,GK
+11,Mio Backhaus,61.5,25-26,21,de GER,Werder Bremen,de Bundesliga,5,450,5.0,5,0,0,12,26,15,61.5,1.0,2.0,2,1.0,20.0,GK
+12,Marco Silvestri,62.5,25-26,34,it ITA,Cremonese,it Serie A,3,270,3.0,3,0,4,6,16,10,62.5,0.0,2.0,1,0.0,0.0,GK
+13,Josep Martinez,80.0,25-26,27,es ESP,Inter,it Serie A,2,180,2.0,2,0,5,1,5,4,80.0,2.0,0.0,0,1.0,50.0,GK
+14,Thibaut Courtois,69.6,25-26,33,be BEL,Real Madrid,es La Liga,9,810,9.0,9,0,0,9,23,14,69.6,8.0,0.0,1,4.0,44.4,GK
+15,Franco Israel,66.7,25-26,25,uy URU,Torino,it Serie A,7,630,7.0,7,0,0,13,33,20,66.7,2.0,2.0,3,3.0,42.9,GK
+16,Pau López,76.2,25-26,30,es ESP,Betis,es La Liga,6,540,6.0,6,0,1,5,21,15,76.2,4.0,2.0,0,2.0,33.3,GK
+17,Radosław Majecki,61.9,25-26,25,pl POL,Brest,fr Ligue 1,6,504,5.6,6,0,0,8,21,13,61.9,1.0,3.0,2,2.0,33.3,GK
+18,Moritz Nicolas,58.8,25-26,27,de GER,Gladbach,de Bundesliga,7,630,7.0,7,0,0,15,34,19,58.8,0.0,3.0,4,2.0,28.6,GK
+19,Lasse Rieß,58.8,25-26,24,de GER,Mainz 05,de Bundesliga,3,202,2.2,2,1,4,8,17,9,58.8,0.0,0.0,2,0.0,0.0,GK
+20,James Trafford,80.0,25-26,22,eng ENG,Manchester City,eng Premier League,3,270,3.0,3,0,5,4,15,11,80.0,1.0,0.0,2,1.0,33.3,GK
+21,Bernd Leno,70.6,25-26,33,de GER,Fulham,eng Premier League,8,720,8.0,8,0,0,12,34,23,70.6,2.0,2.0,4,1.0,12.5,GK
+22,Ivan Provedel,81.6,25-26,31,it ITA,Lazio,it Serie A,7,630,7.0,7,0,0,7,38,31,81.6,2.0,2.0,3,3.0,42.9,GK
+23,Alphonse Areola,70.0,25-26,32,fr FRA,West Ham,eng Premier League,4,360,4.0,4,0,4,7,20,13,70.0,0.0,1.0,3,0.0,0.0,GK
+24,Dominik Greif,58.3,25-26,28,sk SVK,Lyon,fr Ligue 1,4,360,4.0,4,0,3,5,12,8,58.3,2.0,0.0,2,2.0,50.0,GK
+25,Arnau Tenas,58.3,25-26,24,es ESP,Villarreal,es La Liga,3,270,3.0,3,0,4,6,12,6,58.3,1.0,1.0,1,0.0,0.0,GK
+26,Robin Roefs,81.3,25-26,22,nl NED,Sunderland,eng Premier League,8,720,8.0,8,0,0,6,32,25,81.3,4.0,2.0,2,4.0,50.0,GK
+27,Álex Remiro,63.6,25-26,30,es ESP,Real Sociedad,es La Liga,9,810,9.0,9,0,0,13,33,21,63.6,1.0,3.0,5,1.0,11.1,GK
+28,Bingourou Kamara,46.7,25-26,28,sn SEN,Lorient,fr Ligue 1,3,270,3.0,3,0,5,8,15,7,46.7,1.0,0.0,2,1.0,33.3,GK
+29,Martin Dúbravka,70.5,25-26,36,sk SVK,Burnley,eng Premier League,8,720,8.0,8,0,0,15,44,32,70.5,2.0,1.0,5,2.0,25.0,GK
+30,Marco Bizot,71.4,25-26,34,nl NED,Aston Villa,eng Premier League,2,180,2.0,2,0,6,3,7,4,71.4,0.0,1.0,1,1.0,50.0,GK
+31,Razvan Sava,57.1,25-26,23,ro ROU,Udinese,it Serie A,6,540,6.0,6,0,1,9,21,12,57.1,2.0,2.0,2,1.0,16.7,GK
+32,Yann Sommer,70.0,25-26,36,ch SUI,Inter,it Serie A,5,450,5.0,5,0,2,7,20,13,70.0,3.0,0.0,2,2.0,40.0,GK
+33,Mathew Ryan,68.6,25-26,33,au AUS,Levante,es La Liga,7,630,7.0,7,0,0,12,35,23,68.6,2.0,2.0,3,2.0,28.6,GK
+34,Oliver Baumann,67.7,25-26,35,de GER,Hoffenheim,de Bundesliga,7,630,7.0,7,0,0,12,31,19,67.7,3.0,1.0,3,1.0,14.3,GK
+35,Rémy Descamps,75.0,25-26,29,fr FRA,Lyon,fr Ligue 1,4,360,4.0,4,0,0,3,12,10,75.0,3.0,0.0,1,3.0,75.0,GK
+36,Jordan Pickford,74.2,25-26,31,eng ENG,Everton,eng Premier League,8,720,8.0,8,0,0,9,31,21,74.2,3.0,2.0,3,2.0,25.0,GK
+37,Nick Pope,75.9,25-26,33,eng ENG,Newcastle Utd,eng Premier League,8,720,8.0,8,0,0,7,29,22,75.9,2.0,3.0,3,5.0,62.5,GK
+38,Michele Di Gregorio,72.7,25-26,28,it ITA,Juventus,it Serie A,7,630,7.0,7,0,0,7,22,15,72.7,3.0,3.0,1,3.0,42.9,GK
+39,Donovan Léon,69.2,25-26,32,gf GUF,Auxerre,fr Ligue 1,6,494,5.5,6,0,0,8,26,18,69.2,2.0,1.0,3,2.0,33.3,GK
+40,Zion Suzuki,77.4,25-26,22,jp JPN,Parma,it Serie A,7,630,7.0,7,0,0,7,31,23,77.4,1.0,3.0,3,2.0,28.6,GK
+41,Robin Risser,74.1,25-26,20,fr FRA,Lens,fr Ligue 1,8,720,8.0,8,0,0,7,27,20,74.1,5.0,1.0,2,2.0,25.0,GK
+42,Robin Zentner,62.5,25-26,30,de GER,Mainz 05,de Bundesliga,5,426,4.7,5,0,0,6,16,10,62.5,1.0,1.0,3,0.0,0.0,GK
+43,Lucas Perri,50.0,25-26,27,br BRA,Leeds United,eng Premier League,3,270,3.0,3,0,1,5,8,3,50.0,1.0,1.0,1,2.0,66.7,GK
+44,Unai Simón,71.0,25-26,28,es ESP,Athletic Club,es La Liga,9,810,9.0,9,0,0,9,31,23,71.0,4.0,2.0,3,2.0,22.2,GK
+45,Nicola Leali,65.2,25-26,32,it ITA,Genoa,it Serie A,7,630,7.0,7,0,0,9,23,14,65.2,0.0,3.0,4,2.0,28.6,GK
+46,Brice Samba,69.7,25-26,31,fr FRA,Rennes,fr Ligue 1,8,720,8.0,8,0,0,12,33,20,69.7,2.0,5.0,1,2.0,25.0,GK
+47,Kamil Grabara,65.7,25-26,26,pl POL,Wolfsburg,de Bundesliga,7,630,7.0,7,0,0,13,35,22,65.7,1.0,2.0,4,0.0,0.0,GK
+48,Gerónimo Rulli,76.2,25-26,33,ar ARG,Marseille,fr Ligue 1,6,540,6.0,6,0,2,5,21,16,76.2,4.0,0.0,2,2.0,33.3,GK
+49,Caoimhín Kelleher,63.3,25-26,26,ie IRL,Brentford,eng Premier League,8,720,8.0,8,0,0,12,30,18,63.3,3.0,1.0,4,2.0,25.0,GK
+50,Paulo Gazzaniga,72.7,25-26,33,ar ARG,Girona,es La Liga,8,672,7.5,8,0,0,13,44,31,72.7,1.0,3.0,4,1.0,12.5,GK
+51,Emil Audero,91.3,25-26,28,id IDN,Cremonese,it Serie A,4,360,4.0,4,0,1,3,23,20,91.3,2.0,2.0,0,2.0,50.0,GK
+52,Federico Ravaglia,100.0,25-26,25,it ITA,Bologna,it Serie A,1,90,1.0,1,0,6,0,3,3,100.0,1.0,0.0,0,1.0,100.0,GK
+53,Vladyslav Krapyvtsov,44.4,25-26,20,ua UKR,Girona,es La Liga,2,136,1.5,1,1,4,6,9,3,44.4,0.0,0.0,1,0.0,0.0,GK
+54,Aarón Escandell,75.0,25-26,29,es ESP,Oviedo,es La Liga,9,810,9.0,9,0,0,16,64,47,75.0,2.0,0.0,7,1.0,11.1,GK
+55,Ionuț Radu,72.5,25-26,28,ro ROU,Celta Vigo,es La Liga,9,810,9.0,9,0,0,11,40,29,72.5,0.0,7.0,2,0.0,0.0,GK
+56,Robert Sánchez,66.7,25-26,27,es ESP,Chelsea,eng Premier League,8,634,7.0,8,0,0,7,21,14,66.7,4.0,2.0,2,3.0,37.5,GK
+57,Guillaume Restes,64.0,25-26,20,fr FRA,Toulouse,fr Ligue 1,8,720,8.0,8,0,0,12,25,13,64.0,4.0,1.0,3,3.0,37.5,GK
+58,Guglielmo Vicario,77.4,25-26,28,it ITA,Tottenham,eng Premier League,8,720,8.0,8,0,0,7,31,24,77.4,4.0,2.0,2,3.0,37.5,GK
+59,Emiliano Martínez,68.8,25-26,32,ar ARG,Aston Villa,eng Premier League,6,540,6.0,6,0,0,5,16,11,68.8,3.0,2.0,1,1.0,16.7,GK
+60,Arnaud Bodart,50.0,25-26,27,be BEL,Lille,fr Ligue 1,1,90,1.0,1,0,7,1,2,1,50.0,0.0,0.0,1,0.0,0.0,GK
+61,Alisson,56.3,25-26,32,br BRA,Liverpool,eng Premier League,6,540,6.0,6,0,0,7,16,9,56.3,5.0,0.0,1,2.0,33.3,GK
+62,David de Gea,75.0,25-26,34,es ESP,Fiorentina,it Serie A,7,630,7.0,7,0,0,10,32,22,75.0,0.0,3.0,4,2.0,28.6,GK
+63,Jean Butez,68.8,25-26,30,fr FRA,Como,it Serie A,7,630,7.0,7,0,0,5,16,11,68.8,3.0,3.0,1,2.0,28.6,GK
+64,Matz Sels,72.1,25-26,33,be BEL,Nott'ham Forest,eng Premier League,8,720,8.0,8,0,0,15,43,28,72.1,1.0,2.0,5,0.0,0.0,GK
+65,Marvin Schwäbe,74.2,25-26,30,de GER,Köln,de Bundesliga,7,630,7.0,7,0,0,10,31,21,74.2,3.0,2.0,2,2.0,28.6,GK
+66,Manuel Neuer,71.4,25-26,39,de GER,Bayern Munich,de Bundesliga,7,630,7.0,7,0,0,4,14,10,71.4,7.0,0.0,0,4.0,57.1,GK
+67,Joan García,83.3,25-26,24,es ESP,Barcelona,es La Liga,6,540,6.0,6,0,0,4,18,14,83.3,5.0,1.0,0,3.0,50.0,GK
+68,Senne Lammens,88.9,25-26,23,be BEL,Manchester Utd,eng Premier League,2,180,2.0,2,0,3,1,9,8,88.9,2.0,0.0,0,1.0,50.0,GK
+69,Marco Carnesecchi,82.1,25-26,25,it ITA,Atalanta,it Serie A,7,630,7.0,7,0,0,5,28,23,82.1,2.0,5.0,0,2.0,28.6,GK
+70,David Soria,68.4,25-26,32,es ESP,Getafe,es La Liga,9,810,9.0,9,0,0,12,38,27,68.4,3.0,2.0,4,2.0,22.2,GK
+71,José Sá,31.3,25-26,32,pt POR,Wolves,eng Premier League,4,360,4.0,4,0,3,11,16,5,31.3,0.0,0.0,4,0.0,0.0,GK
+72,Leo Román,71.4,25-26,25,es ESP,Mallorca,es La Liga,9,810,9.0,9,0,0,14,42,27,71.4,2.0,2.0,5,1.0,11.1,GK
+73,Alex Meret,75.0,25-26,28,it ITA,Napoli,it Serie A,4,360,4.0,4,0,2,4,12,8,75.0,3.0,0.0,1,2.0,50.0,GK
+74,Elia Caprile,75.8,25-26,23,it ITA,Cagliari,it Serie A,7,630,7.0,7,0,0,8,33,25,75.8,2.0,2.0,3,1.0,14.3,GK
+75,David Raya,83.3,25-26,29,es ESP,Arsenal,eng Premier League,8,720,8.0,8,0,0,3,18,15,83.3,6.0,1.0,1,5.0,62.5,GK
+76,Antonio Sivera,71.4,25-26,28,es ESP,Alavés,es La Liga,9,810,9.0,9,0,0,8,28,20,71.4,3.0,3.0,3,2.0,22.2,GK
+77,Arijanet Muric,83.9,25-26,26,xk KVX,Sassuolo,it Serie A,6,540,6.0,6,0,1,6,31,26,83.9,3.0,1.0,2,3.0,50.0,GK
+78,Michael Zetterer,76.5,25-26,30,de GER,Eint Frankfurt,de Bundesliga,3,270,3.0,3,0,4,5,17,12,76.5,2.0,0.0,1,0.0,0.0,GK
+79,Sam Johnstone,66.7,25-26,32,eng ENG,Wolves,eng Premier League,4,360,4.0,4,0,4,5,15,11,66.7,0.0,2.0,2,0.0,0.0,GK
+80,Wladimiro Falcone,74.2,25-26,30,it ITA,Lecce,it Serie A,7,630,7.0,7,0,0,10,31,21,74.2,1.0,3.0,3,3.0,42.9,GK
+81,Vanja Milinković-Savić,50.0,25-26,28,rs SRB,Napoli,it Serie A,3,270,3.0,3,0,4,3,6,3,50.0,2.0,0.0,1,0.0,0.0,GK
+82,Julen Agirrezabala,66.7,25-26,24,es ESP,Valencia,es La Liga,9,810,9.0,9,0,0,14,42,28,66.7,2.0,3.0,4,3.0,33.3,GK
+83,Sergio Herrera,82.2,25-26,32,es ESP,Osasuna,es La Liga,9,810,9.0,9,0,0,9,45,36,82.2,3.0,1.0,5,2.0,22.2,GK
+84,Karl-Johan Johnsson,100.0,25-26,35,se SWE,Strasbourg,fr Ligue 1,1,90,1.0,1,0,7,0,2,2,100.0,1.0,0.0,0,1.0,100.0,GK
+85,Frederik Rønnow,73.2,25-26,32,dk DEN,Union Berlin,de Bundesliga,7,630,7.0,7,0,0,14,41,27,73.2,3.0,1.0,3,1.0,14.3,GK
+86,Mark Flekken,71.0,25-26,32,nl NED,Leverkusen,de Bundesliga,7,630,7.0,7,0,0,11,31,20,71.0,4.0,2.0,1,1.0,14.3,GK
+87,Pablo Cuñat,64.3,25-26,23,es ESP,Levante,es La Liga,2,180,2.0,2,0,7,5,14,10,64.3,0.0,0.0,2,0.0,0.0,GK
+88,Karl Jakob Hein,80.0,25-26,23,ee EST,Werder Bremen,de Bundesliga,2,180,2.0,2,0,4,4,15,11,80.0,1.0,0.0,1,1.0,50.0,GK
+89,Łukasz Skorupski,70.6,25-26,34,pl POL,Bologna,it Serie A,6,540,6.0,6,0,1,5,17,12,70.6,3.0,1.0,2,2.0,33.3,GK
+90,Maduka Okoye,66.7,25-26,25,ng NGA,Udinese,it Serie A,1,90,1.0,1,0,0,1,3,2,66.7,0.0,1.0,0,0.0,0.0,GK
+91,Marko Dmitrović,75.6,25-26,33,rs SRB,Espanyol,es La Liga,9,810,9.0,9,0,0,11,41,30,75.6,4.0,3.0,2,3.0,33.3,GK
+92,Lukáš Hrádecký,62.5,25-26,35,fi FIN,Monaco,fr Ligue 1,3,258,2.9,3,0,0,4,8,4,62.5,2.0,0.0,1,0.0,0.0,GK
+93,Alexander Nübel,80.0,25-26,28,de GER,Stuttgart,de Bundesliga,7,630,7.0,7,0,0,6,25,19,80.0,5.0,0.0,2,4.0,57.1,GK
+94,Théo De Percin,63.6,25-26,24,mq MTQ,Auxerre,fr Ligue 1,3,226,2.5,2,1,5,4,11,7,63.6,0.0,0.0,2,0.0,0.0,GK
+95,Lucas Chevalier,63.6,25-26,23,fr FRA,Paris S-G,fr Ligue 1,8,720,8.0,8,0,0,8,22,14,63.6,5.0,2.0,1,4.0,50.0,GK
+96,Matías Dituro,68.8,25-26,38,ar ARG,Elche,es La Liga,5,450,5.0,5,0,4,5,16,11,68.8,2.0,3.0,0,1.0,20.0,GK
+97,Diant Ramaj,69.2,25-26,23,de GER,Heidenheim,de Bundesliga,7,630,7.0,7,0,0,13,39,26,69.2,1.0,1.0,5,0.0,0.0,GK
+98,Péter Gulácsi,64.0,25-26,35,hu HUN,RB Leipzig,de Bundesliga,7,630,7.0,7,0,0,9,25,16,64.0,5.0,1.0,1,3.0,42.9,GK
+99,Mile Svilar,85.0,25-26,25,rs SRB,Roma,it Serie A,7,630,7.0,7,0,0,3,20,17,85.0,5.0,0.0,2,4.0,57.1,GK
+100,Ørjan Nyland,62.5,25-26,34,no NOR,Sevilla,es La Liga,4,360,4.0,4,0,5,7,16,9,62.5,1.0,1.0,2,1.0,25.0,GK
+101,Stefano Turati,50.0,25-26,23,it ITA,Sassuolo,it Serie A,1,90,1.0,1,0,6,2,4,2,50.0,0.0,0.0,1,0.0,0.0,GK
+102,Obed Nkambadio,63.3,25-26,22,fr FRA,Paris FC,fr Ligue 1,7,630,7.0,7,0,0,13,30,16,63.3,2.0,1.0,4,1.0,14.3,GK
+103,Lorenzo Montipò,62.5,25-26,29,it ITA,Hellas Verona,it Serie A,7,630,7.0,7,0,0,9,24,14,62.5,0.0,4.0,3,2.0,28.6,GK
+104,Jeffrey De Lange,50.0,25-26,27,nl NED,Marseille,fr Ligue 1,2,180,2.0,2,0,6,2,4,2,50.0,2.0,0.0,0,1.0,50.0,GK
+105,Kauã Santos,38.1,25-26,22,br BRA,Eint Frankfurt,de Bundesliga,4,360,4.0,4,0,1,13,21,8,38.1,1.0,1.0,2,0.0,0.0,GK
+106,Mads Hermansen,45.0,25-26,25,dk DEN,West Ham,eng Premier League,4,360,4.0,4,0,4,11,20,9,45.0,1.0,0.0,3,1.0,25.0,GK
+107,Grégoire Coudert,66.7,25-26,26,fr FRA,Brest,fr Ligue 1,3,212,2.4,2,1,5,6,15,9,66.7,1.0,0.0,1,0.0,0.0,GK
+108,Iñaki Peña,75.0,25-26,26,es ESP,2 Teams,es La Liga,4,360,4.0,4,0,5,4,12,8,75.0,1.0,2.0,1,2.0,50.0,GK
+109,Gregor Kobel,78.3,25-26,27,ch SUI,Dortmund,de Bundesliga,7,630,7.0,7,0,0,6,23,17,78.3,4.0,2.0,1,4.0,57.1,GK
+110,Karl Darlow,60.0,25-26,34,wls WAL,Leeds United,eng Premier League,5,450,5.0,5,0,3,8,20,13,60.0,1.0,1.0,3,0.0,0.0,GK
+111,Bart Verbruggen,60.0,25-26,22,nl NED,Brighton,eng Premier League,8,720,8.0,8,0,0,11,25,16,60.0,3.0,3.0,2,0.0,0.0,GK
+112,Luiz Lúcio Reis Júnior,83.3,25-26,24,br BRA,Villarreal,es La Liga,6,540,6.0,6,0,3,4,18,13,83.3,4.0,1.0,1,3.0,50.0,GK
+113,Giorgi Mamardashvili,60.0,25-26,24,ge GEO,Liverpool,eng Premier League,2,180,2.0,2,0,6,4,10,6,60.0,0.0,0.0,2,0.0,0.0,GK
+114,Noah Atubolu,63.3,25-26,23,de GER,Freiburg,de Bundesliga,7,630,7.0,7,0,0,11,30,18,63.3,2.0,3.0,2,2.0,28.6,GK
+115,Yvon Mvogo,52.9,25-26,31,ch SUI,Lorient,fr Ligue 1,5,450,5.0,5,0,0,11,17,7,52.9,1.0,2.0,2,0.0,0.0,GK
+116,Finn Dahmen,63.9,25-26,27,de GER,Augsburg,de Bundesliga,7,630,7.0,7,0,0,14,36,21,63.9,2.0,1.0,4,0.0,0.0,GK
+117,Pietro Terracciano,100.0,25-26,35,it ITA,Milan,it Serie A,2,125,1.4,1,1,5,0,4,4,100.0,1.0,0.0,0,2.0,200.0,GK
+118,Dean Henderson,73.1,25-26,28,eng ENG,Crystal Palace,eng Premier League,8,720,8.0,8,0,0,8,26,18,73.1,3.0,4.0,1,3.0,37.5,GK
+119,Jan Oblak,62.5,25-26,32,si SVN,Atlético Madrid,es La Liga,9,810,9.0,9,0,0,10,24,14,62.5,4.0,4.0,1,2.0,22.2,GK
+120,Yehvann Diouf,73.8,25-26,25,sn SEN,Nice,fr Ligue 1,8,720,8.0,8,0,0,14,42,27,73.8,3.0,2.0,3,1.0,12.5,GK
+121,Anthony Lopes,82.9,25-26,34,pt POR,Nantes,fr Ligue 1,8,720,8.0,8,0,0,9,41,32,82.9,1.0,3.0,4,2.0,25.0,GK
+122,Adrian Šemper,68.8,25-26,27,hr CRO,Pisa,it Serie A,7,630,7.0,7,0,0,10,32,22,68.8,0.0,3.0,4,2.0,28.6,GK
+123,Nikola Vasilj,66.7,25-26,29,ba BIH,St. Pauli,de Bundesliga,7,630,7.0,7,0,0,12,36,22,66.7,2.0,1.0,4,1.0,14.3,GK
+124,Mory Diaw,60.6,25-26,32,sn SEN,Le Havre,fr Ligue 1,8,720,8.0,8,0,0,16,33,18,60.6,1.0,3.0,4,1.0,12.5,GK
+125,Jonathan Fischer,64.6,25-26,23,dk DEN,Metz,fr Ligue 1,8,720,8.0,8,0,0,20,48,29,64.6,0.0,2.0,6,1.0,12.5,GK
+126,Hervé Koffi,76.6,25-26,28,bf BFA,Angers,fr Ligue 1,8,720,8.0,8,0,0,12,47,34,76.6,1.0,3.0,4,1.0,12.5,GK
+127,Augusto Batalla,77.8,25-26,29,ar ARG,Rayo Vallecano,es La Liga,9,810,9.0,9,0,0,10,36,26,77.8,3.0,2.0,4,2.0,22.2,GK
+128,Mike Maignan,81.3,25-26,30,fr FRA,Milan,it Serie A,6,505,5.6,6,0,0,4,16,12,81.3,4.0,1.0,1,2.0,33.3,GK
+129,Philipp Köhn,63.2,25-26,27,ch SUI,Monaco,fr Ligue 1,6,462,5.1,5,1,2,9,19,11,63.2,2.0,2.0,1,0.0,0.0,GK
