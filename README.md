@@ -431,8 +431,6 @@ pip install -r requirements.txt
 python app/football_transfer_app.py
 ```
 
-> Update the command above if the final application requires additional configuration or a different launch command.
-
 ---
 
 ## 📄 Full Documentation
